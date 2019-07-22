@@ -12,7 +12,7 @@
 
 **Shape:** cube
 
-Length: 5 feet
+**Length**: 5 feet
 
 **Tags:** verbal, somatic, concentration
 
