@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: 120 feet
+**Range:** 120 feet
 
-Tags: verbal, somatic, material
+**Tags:** verbal, somatic, material
 
-Material Components: a short piece of copper wire
+**Material Components:** a short piece of copper wire
 
 ---
 
@@ -23,8 +23,8 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 ---
 
-Classes: bard, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, wizard, artificer (revisited)
 
-Subraces: tiefling (abyssal)
+**Subraces:** tiefling (abyssal)
 
-Source: PHB, page 259
+**Source:** PHB, page 259

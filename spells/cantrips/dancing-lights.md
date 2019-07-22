@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: 120 feet
+**Range:** 120 feet
 
-Tags: verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material, concentration
 
-Material Components: a bit of phosphorus or wychwood, or a glowworm
+**Material Components:** a bit of phosphorus or wychwood, or a glowworm
 
 ---
 
@@ -23,8 +23,8 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 ---
 
-Classes: bard, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, wizard, artificer (revisited)
 
-Subraces: elf (drow), half-elf (drow descent), tiefling (abyssal)
+**Subraces:** elf (drow), half-elf (drow descent), tiefling (abyssal)
 
-Source: PHB, page 230
+**Source:** PHB, page 230

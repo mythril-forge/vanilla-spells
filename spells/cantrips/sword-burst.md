@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: self
+**Range:** self
 
-Shape: sphere
+**Shape:** sphere
 
 Radius: 5 feet
 
-Tags: verbal
+**Tags:** verbal
 
 ---
 
@@ -25,6 +25,6 @@ This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th le
 
 ---
 
-Classes: sorcerer, warlock, wizard
+**Classes:** sorcerer, warlock, wizard
 
-Source: SCAG, page 143
+**Source:** SCAG, page 143

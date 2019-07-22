@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: bonus action
+**Casting Time:** bonus action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic, material
+**Tags:** verbal, somatic, material
 
-Material Components: mistletoe, a shamrock leaf, and a club or quarterstaff
+**Material Components:** mistletoe, a shamrock leaf, and a club or quarterstaff
 
 ---
 
@@ -21,8 +21,8 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 ---
 
-Classes: druid
+**Classes:** druid
 
-Subclasses: giant soul (ua) sorcerer
+**Subclasses:** giant soul (ua) sorcerer
 
-Source: PHB, page 275
+**Source:** PHB, page 275

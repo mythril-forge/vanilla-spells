@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level enchantment
+***0th-level enchantment***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: self
+**Range:** self
 
-Tags: somatic, material, concentration
+**Tags:** somatic, material, concentration
 
-Material Components: a small amount of makeup applied to the face as this spell is cast
+**Material Components:** a small amount of makeup applied to the face as this spell is cast
 
 ---
 
@@ -21,10 +21,10 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard
+**Classes:** bard, sorcerer, warlock, wizard
 
-Races: siren
+**Races:** siren
 
-Subraces: elf (eladrin), tiefling (fierna), tiefling (fierna)
+**Subraces:** elf (eladrin), tiefling (fierna), tiefling (fierna)
 
-Source: PHB, page 244
+**Source:** PHB, page 244

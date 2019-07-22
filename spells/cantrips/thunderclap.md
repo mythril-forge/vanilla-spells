@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: self
+**Range:** self
 
-Shape: sphere
+**Shape:** sphere
 
 Radius: 5 feet
 
-Tags: somatic
+**Tags:** somatic
 
 ---
 
@@ -25,6 +25,6 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-Classes: bard, druid, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, druid, sorcerer, warlock, wizard, artificer (revisited)
 
-Source: XGE, page 168
+**Source:** XGE, page 168

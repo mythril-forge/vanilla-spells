@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level divination
+***0th-level divination***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic, concentration
+**Tags:** verbal, somatic, concentration
 
 ---
 
@@ -19,6 +19,6 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ---
 
-Classes: cleric, druid, artificer (revisited)
+**Classes:** cleric, druid, artificer (revisited)
 
-Source: PHB, page 248
+**Source:** PHB, page 248

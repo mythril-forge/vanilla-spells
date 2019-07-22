@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: self
+**Range:** self
 
-Shape: sphere
+**Shape:** sphere
 
 Radius: 5 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -25,6 +25,6 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-Classes: cleric
+**Classes:** cleric
 
-Source: UA-SS, page 3
+**Source:** UA-SS, page 3

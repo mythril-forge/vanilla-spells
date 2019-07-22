@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: 5 feet
+**Range:** 5 feet
 
-Tags: verbal, material
+**Tags:** verbal, material
 
-Material Components: a weapon
+**Material Components:** a weapon
 
 ---
 
@@ -23,6 +23,6 @@ This spell's damage increases when you reach higher levels. At 5th level, the me
 
 ---
 
-Classes: sorcerer, warlock, wizard
+**Classes:** sorcerer, warlock, wizard
 
-Source: SCAG, page 142
+**Source:** SCAG, page 142

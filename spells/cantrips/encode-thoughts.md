@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level enchantment
+***0th-level enchantment***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 8 hours
+**Duration:** 8 hours
 
-Range: self
+**Range:** self
 
-Tags: somatic
+**Tags:** somatic
 
 ---
 
@@ -23,6 +23,6 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 
 ---
 
-Classes: wizard
+**Classes:** wizard
 
-Source: GGR, page 47
+**Source:** GGR, page 47

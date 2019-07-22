@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal, somatic, material
+**Tags:** verbal, somatic, material
 
-Material Components: the stem of a plant with thorns
+**Material Components:** the stem of a plant with thorns
 
 ---
 
@@ -23,6 +23,6 @@ This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th le
 
 ---
 
-Classes: druid, artificer (revisited)
+**Classes:** druid, artificer (revisited)
 
-Source: PHB, page 282
+**Source:** PHB, page 282

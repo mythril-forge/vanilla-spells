@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 15 feet
+**Range:** 15 feet
 
-Tags: verbal
+**Tags:** verbal
 
 ---
 
@@ -21,6 +21,6 @@ This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th le
 
 ---
 
-Classes: sorcerer, warlock, wizard
+**Classes:** sorcerer, warlock, wizard
 
-Source: SCAG, page 143
+**Source:** SCAG, page 143

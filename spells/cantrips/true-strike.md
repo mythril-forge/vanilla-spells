@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level divination
+***0th-level divination***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: somatic, concentration
+**Tags:** somatic, concentration
 
 ---
 
@@ -19,8 +19,8 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard
+**Classes:** bard, sorcerer, warlock, wizard
 
-Subraces: tiefling (abyssal)
+**Subraces:** tiefling (abyssal)
 
-Source: PHB, page 284
+**Source:** PHB, page 284

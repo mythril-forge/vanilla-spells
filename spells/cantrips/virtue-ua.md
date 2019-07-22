@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level abjuration
+***0th-level abjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -19,6 +19,6 @@ You touch one creature, imbuing it with vitality. If the target has at least 1 h
 
 ---
 
-Classes: cleric
+**Classes:** cleric
 
-Source: UA-SS, page 5
+**Source:** UA-SS, page 5

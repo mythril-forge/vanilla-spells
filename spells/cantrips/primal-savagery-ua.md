@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: self
+**Range:** self
 
-Tags: somatic
+**Tags:** somatic
 
 ---
 
@@ -21,6 +21,6 @@ The spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th l
 
 ---
 
-Classes: druid
+**Classes:** druid
 
-Source: UA-SS, page 3
+**Source:** UA-SS, page 3

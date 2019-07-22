@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,8 +21,8 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 ---
 
-Classes: sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer (revisited)
 
-Subclasses: giant soul (ua) sorcerer
+**Subclasses:** giant soul (ua) sorcerer
 
-Source: PHB, page 275
+**Source:** PHB, page 275

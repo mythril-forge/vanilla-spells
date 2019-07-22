@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level enchantment
+***0th-level enchantment***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 60 feet
+**Range:** 60 feet
 
-Tags: verbal
+**Tags:** verbal
 
 ---
 
@@ -21,8 +21,8 @@ This spell's damage increases by `1d4` when you reach 5th level (`2d4`), 11th le
 
 ---
 
-Classes: bard
+**Classes:** bard
 
-Subraces: tiefling (variant)
+**Subraces:** tiefling (variant)
 
-Source: PHB, page 285
+**Source:** PHB, page 285

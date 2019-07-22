@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal, somatic, material
+**Tags:** verbal, somatic, material
 
-Material Components: a living flea
+**Material Components:** a living flea
 
 ---
 
@@ -23,6 +23,6 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-Classes: druid, sorcerer, warlock, wizard
+**Classes:** druid, sorcerer, warlock, wizard
 
-Source: UA-SS, page 3
+**Source:** UA-SS, page 3

@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 120 feet
+**Range:** 120 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,6 +21,6 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 ---
 
-Classes: warlock
+**Classes:** warlock
 
-Source: PHB, page 237
+**Source:** PHB, page 237

@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 5 feet
+**Range:** 5 feet
 
-Tags: verbal, material
+**Tags:** verbal, material
 
-Material Components: a holy symbol
+**Material Components:** a holy symbol
 
 ---
 
@@ -23,6 +23,6 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-Classes: cleric
+**Classes:** cleric
 
-Source: XGE, page 171
+**Source:** XGE, page 171

@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal
+**Tags:** verbal
 
 ---
 
@@ -27,8 +27,8 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 ---
 
-Classes: cleric
+**Classes:** cleric
 
-Subraces: elf (shadar-kai), tiefling (zariel), tiefling (variant), tiefling (variant), tiefling (asmodeus), tiefling (baalzebul), tiefling, tiefling (zariel), tiefling (asmodeus), tiefling (baalzebul), tiefling (dispater), tiefling (dispater)
+**Subraces:** elf (shadar-kai), tiefling (zariel), tiefling (variant), tiefling (variant), tiefling (asmodeus), tiefling (baalzebul), tiefling, tiefling (zariel), tiefling (asmodeus), tiefling (baalzebul), tiefling (dispater), tiefling (dispater)
 
-Source: PHB, page 282
+**Source:** PHB, page 282

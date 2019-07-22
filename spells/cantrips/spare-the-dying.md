@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level necromancy
+***0th-level necromancy***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -19,8 +19,8 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 ---
 
-Classes: cleric, artificer (revisited)
+**Classes:** cleric, artificer (revisited)
 
-Subraces: elf (shadar-kai), tiefling (abyssal)
+**Subraces:** elf (shadar-kai), tiefling (abyssal)
 
-Source: PHB, page 277
+**Source:** PHB, page 277

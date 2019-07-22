@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level necromancy
+***0th-level necromancy***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: 120 feet
+**Range:** 120 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -23,8 +23,8 @@ This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th le
 
 ---
 
-Classes: sorcerer, warlock, wizard
+**Classes:** sorcerer, warlock, wizard
 
-Subraces: elf (eladrin), elf (shadar-kai), elf (zendikar) (mul daya nation)
+**Subraces:** elf (eladrin), elf (shadar-kai), elf (zendikar) (mul daya nation)
 
-Source: PHB, page 221
+**Source:** PHB, page 221

@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level abjuration
+***0th-level abjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic, material, concentration
+**Tags:** verbal, somatic, material, concentration
 
-Material Components: a miniature cloak
+**Material Components:** a miniature cloak
 
 ---
 
@@ -21,8 +21,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ---
 
-Classes: cleric, druid, artificer (revisited)
+**Classes:** cleric, druid, artificer (revisited)
 
-Subclasses: giant soul (ua) sorcerer
+**Subclasses:** giant soul (ua) sorcerer
 
-Source: PHB, page 272
+**Source:** PHB, page 272

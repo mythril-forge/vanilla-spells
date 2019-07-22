@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: bonus action
+**Casting Time:** bonus action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,6 +21,6 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 
 ---
 
-Classes: druid, warlock, artificer (revisited)
+**Classes:** druid, warlock, artificer (revisited)
 
-Source: XGE, page 160
+**Source:** XGE, page 160

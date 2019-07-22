@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level illusion
+***0th-level illusion***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: somatic, material
+**Tags:** somatic, material
 
-Material Components: a bit of fleece
+**Material Components:** a bit of fleece
 
 ---
 
@@ -27,10 +27,10 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard
+**Classes:** bard, sorcerer, warlock, wizard
 
-Subclasses: giant soul (ua) sorcerer
+**Subclasses:** giant soul (ua) sorcerer
 
-Subraces: elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
+**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
 
-Source: PHB, page 260
+**Source:** PHB, page 260

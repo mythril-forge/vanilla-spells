@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: 60 feet
+**Range:** 60 feet
 
-Shape: cube
+**Shape:** cube
 
 Length: 5 feet
 
-Tags: verbal, somatic, concentration
+**Tags:** verbal, somatic, concentration
 
 ---
 
@@ -27,6 +27,6 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 ---
 
-Classes: druid, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** druid, sorcerer, warlock, wizard, artificer (revisited)
 
-Source: XGE, page 152
+**Source:** XGE, page 152

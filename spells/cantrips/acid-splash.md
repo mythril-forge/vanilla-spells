@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 60 feet
+**Range:** 60 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,6 +21,6 @@ This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th le
 
 ---
 
-Classes: sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer (revisited)
 
-Source: PHB, page 211
+**Source:** PHB, page 211

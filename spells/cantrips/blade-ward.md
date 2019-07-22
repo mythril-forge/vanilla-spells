@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level abjuration
+***0th-level abjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 round
+**Duration:** 1 round
 
-Range: self
+**Range:** self
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -19,6 +19,6 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard
+**Classes:** bard, sorcerer, warlock, wizard
 
-Source: PHB, page 218
+**Source:** PHB, page 218

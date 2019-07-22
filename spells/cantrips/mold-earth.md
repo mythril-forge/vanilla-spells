@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: special
+**Duration:** special
 
-Range: 30 feet
+**Range:** 30 feet
 
-Shape: cube
+**Shape:** cube
 
 Length: 5 feet
 
-Tags: somatic
+**Tags:** somatic
 
 ---
 
@@ -28,6 +28,6 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 ---
 
-Classes: druid, sorcerer, wizard
+**Classes:** druid, sorcerer, wizard
 
-Source: XGE, page 162
+**Source:** XGE, page 162

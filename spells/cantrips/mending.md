@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: 1 minute
+**Casting Time:** 1 minute
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, somatic, material
+**Tags:** verbal, somatic, material
 
-Material Components: two lodestones
+**Material Components:** two lodestones
 
 ---
 
@@ -23,6 +23,6 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 ---
 
-Classes: bard, cleric, druid, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, cleric, druid, sorcerer, wizard, artificer (revisited)
 
-Source: PHB, page 259
+**Source:** PHB, page 259

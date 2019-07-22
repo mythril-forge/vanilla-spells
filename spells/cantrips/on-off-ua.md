@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 60 feet
+**Range:** 60 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -19,6 +19,6 @@ This cantrip allows you to activate or deactivate any electronic device within r
 
 ---
 
-Classes: warlock, sorcerer, wizard
+**Classes:** warlock, sorcerer, wizard
 
-Source: UA-MM, page 7
+**Source:** UA-MM, page 7

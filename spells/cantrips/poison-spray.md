@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 10 feet
+**Range:** 10 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,8 +21,8 @@ This spell's damage increases by `1d12` when you reach 5th level (`2d12`), 11th 
 
 ---
 
-Classes: druid, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** druid, sorcerer, warlock, wizard, artificer (revisited)
 
-Races: yuan-ti pureblood
+**Races:** yuan-ti pureblood
 
-Source: PHB, page 266
+**Source:** PHB, page 266

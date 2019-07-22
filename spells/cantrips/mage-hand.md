@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 minute
+**Duration:** 1 minute
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -23,8 +23,8 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
 
-Subraces: gith (githyanki), gith (githzerai), gith (githyanki), gith (githzerai), tiefling (mammon), tiefling (mephistopheles), tiefling (mammon), tiefling (mephistopheles)
+**Subraces:** gith (githyanki), gith (githzerai), gith (githyanki), gith (githzerai), tiefling (mammon), tiefling (mephistopheles), tiefling (mammon), tiefling (mephistopheles)
 
-Source: PHB, page 256
+**Source:** PHB, page 256

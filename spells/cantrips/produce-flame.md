@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level conjuration
+***0th-level conjuration***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 10 minutes
+**Duration:** 10 minutes
 
-Range: self
+**Range:** self
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -23,8 +23,8 @@ This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th le
 
 ---
 
-Classes: druid
+**Classes:** druid
 
-Subraces: genasi (fire)
+**Subraces:** genasi (fire)
 
-Source: PHB, page 269
+**Source:** PHB, page 269

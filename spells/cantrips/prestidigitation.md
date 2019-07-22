@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 hour
+**Duration:** 1 hour
 
-Range: 10 feet
+**Range:** 10 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -27,10 +27,10 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 ---
 
-Classes: bard, sorcerer, warlock, wizard, artificer (revisited)
+**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
 
-Subclasses: arcane archer fighter
+**Subclasses:** arcane archer fighter
 
-Subraces: tiefling (abyssal)
+**Subraces:** tiefling (abyssal)
 
-Source: PHB, page 267
+**Source:** PHB, page 267

@@ -2,13 +2,13 @@
 
 - [ ] Homebrew
 
-0th-level psionic
+***0th-level psionic***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 60 feet
+**Range:** 60 feet
 
 ---
 
@@ -19,6 +19,6 @@ This spell's damage increases by one die when you reach 5th level (`2d10`), 11th
 
 ---
 
-Classes: psion
+**Classes:** psion
 
-Source: STREAM
+**Source:** STREAM

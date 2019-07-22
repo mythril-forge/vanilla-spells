@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -22,6 +22,6 @@ You seize the air and compel it to create one of the following effects at a poin
 
 ---
 
-Classes: druid, sorcerer, wizard
+**Classes:** druid, sorcerer, wizard
 
-Source: XGE, page 157
+**Source:** XGE, page 157

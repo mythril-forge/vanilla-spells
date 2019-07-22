@@ -2,19 +2,19 @@
 
 - [ ] Homebrew
 
-0th-level psionic
+***0th-level psionic***
 
-Casting Time: bonus action
+**Casting Time:** bonus action
 
-Duration: 10 minutes
+**Duration:** 10 minutes
 
-Range: self
+**Range:** self
 
-Shape: cone
+**Shape:** cone
 
 Radius: 60 feet
 
-Tags: concentration
+**Tags:** concentration
 
 ---
 
@@ -27,6 +27,6 @@ This spell's duration cannot be ended due to damage.
 
 ---
 
-Classes: psion
+**Classes:** psion
 
-Source: STREAM
+**Source:** STREAM

@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level necromancy
+***0th-level necromancy***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 60 feet
+**Range:** 60 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,6 +21,6 @@ The spell's damage increases by one die when you reach 5th level (`2d8` or `2d12
 
 ---
 
-Classes: cleric, warlock, wizard
+**Classes:** cleric, warlock, wizard
 
-Source: XGE, page 169
+**Source:** XGE, page 169

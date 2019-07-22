@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 120 feet
+**Range:** 120 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -21,10 +21,10 @@ This spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th 
 
 ---
 
-Classes: sorcerer, wizard, artificer (revisited)
+**Classes:** sorcerer, wizard, artificer (revisited)
 
-Subclasses: giant soul (ua) sorcerer
+**Subclasses:** giant soul (ua) sorcerer
 
-Subraces: elf (eladrin)
+**Subraces:** elf (eladrin)
 
-Source: PHB, page 242
+**Source:** PHB, page 242

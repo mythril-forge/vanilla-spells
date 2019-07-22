@@ -2,15 +2,15 @@
 
 - [ ] Homebrew
 
-0th-level transmutation
+***0th-level transmutation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: instantaneous
+**Duration:** instantaneous
 
-Range: 30 feet
+**Range:** 30 feet
 
-Tags: verbal, somatic
+**Tags:** verbal, somatic
 
 ---
 
@@ -23,8 +23,8 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ---
 
-Classes: druid
+**Classes:** druid
 
-Subclasses: arcane archer fighter
+**Subclasses:** arcane archer fighter
 
-Source: PHB, page 236
+**Source:** PHB, page 236

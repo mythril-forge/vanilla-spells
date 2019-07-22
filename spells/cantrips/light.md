@@ -2,17 +2,17 @@
 
 - [ ] Homebrew
 
-0th-level evocation
+***0th-level evocation***
 
-Casting Time: action
+**Casting Time:** action
 
-Duration: 1 hour
+**Duration:** 1 hour
 
-Range: touch
+**Range:** touch
 
-Tags: verbal, material
+**Tags:** verbal, material
 
-Material Components: a firefly or phosphorescent moss
+**Material Components:** a firefly or phosphorescent moss
 
 ---
 
@@ -23,12 +23,12 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 ---
 
-Classes: bard, cleric, sorcerer, wizard, artificer (revisited)
+**Classes:** bard, cleric, sorcerer, wizard, artificer (revisited)
 
-Subclasses: undying light (ua) warlock, celestial warlock
+**Subclasses:** undying light (ua) warlock, celestial warlock
 
-Races: aasimar
+**Races:** aasimar
 
-Subraces: aasimar (fallen), aasimar (protector), aasimar (scourge), tiefling (abyssal)
+**Subraces:** aasimar (fallen), aasimar (protector), aasimar (scourge), tiefling (abyssal)
 
-Source: PHB, page 255
+**Source:** PHB, page 255
