@@ -10,7 +10,7 @@ Duration: 1 round
 
 Range: 5 feet
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: verbal, material
 
 Material Components: a weapon
 

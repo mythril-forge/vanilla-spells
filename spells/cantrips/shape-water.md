@@ -14,7 +14,7 @@ Shape: cube
 
 Length: 5 feet
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: somatic
 
 ---
 

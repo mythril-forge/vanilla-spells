@@ -10,7 +10,7 @@ Duration: 1 minute
 
 Range: self
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: somatic, material, concentration
 
 Material Components: a small amount of makeup applied to the face as this spell is cast
 

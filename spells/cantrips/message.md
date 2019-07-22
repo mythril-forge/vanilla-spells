@@ -10,7 +10,7 @@ Duration: 1 round
 
 Range: 120 feet
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: verbal, somatic, material
 
 Material Components: a short piece of copper wire
 

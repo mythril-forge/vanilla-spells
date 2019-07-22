@@ -14,7 +14,7 @@ Shape: cone
 
 Radius: 60 feet
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: concentration
 
 ---
 

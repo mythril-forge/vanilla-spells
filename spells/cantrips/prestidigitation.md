@@ -10,7 +10,7 @@ Duration: 1 hour
 
 Range: 10 feet
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: verbal, somatic
 
 ---
 

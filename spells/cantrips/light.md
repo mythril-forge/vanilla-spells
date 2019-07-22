@@ -10,7 +10,7 @@ Duration: 1 hour
 
 Range: touch
 
-Tags: verbal, somatic, material, concentration, ritual, royalty
+Tags: verbal, material
 
 Material Components: a firefly or phosphorescent moss
 
