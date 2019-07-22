@@ -27,10 +27,10 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ---
 
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes: bard, sorcerer, warlock, wizard
 
-Subclasses: Giant Soul (UA) Sorcerer
+Subclasses: giant soul (ua) sorcerer
 
-Subraces: Elf (Eladrin), Gnome (Forest), Tiefling (Glasya), Tiefling (Glasya)
+Subraces: elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
 
-Source: phb, page 260
+Source: PHB, page 260

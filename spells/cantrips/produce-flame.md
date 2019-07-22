@@ -23,8 +23,8 @@ This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th le
 
 ---
 
-Classes: Druid
+Classes: druid
 
-Subraces: Genasi (Fire)
+Subraces: genasi (fire)
 
-Source: phb, page 269
+Source: PHB, page 269

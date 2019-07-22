@@ -23,8 +23,8 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ---
 
-Classes: Bard, Sorcerer, Warlock, Wizard, Artificer (Revisited)
+Classes: bard, sorcerer, warlock, wizard, artificer (revisited)
 
-Subraces: Gith (Githyanki), Gith (Githzerai), Gith (Githyanki), Gith (Githzerai), Tiefling (Mammon), Tiefling (Mephistopheles), Tiefling (Mammon), Tiefling (Mephistopheles)
+Subraces: gith (githyanki), gith (githzerai), gith (githyanki), gith (githzerai), tiefling (mammon), tiefling (mephistopheles), tiefling (mammon), tiefling (mephistopheles)
 
-Source: phb, page 256
+Source: PHB, page 256

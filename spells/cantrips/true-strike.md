@@ -19,8 +19,8 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 ---
 
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes: bard, sorcerer, warlock, wizard
 
-Subraces: Tiefling (Abyssal)
+Subraces: tiefling (abyssal)
 
-Source: phb, page 284
+Source: PHB, page 284

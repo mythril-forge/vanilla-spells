@@ -19,6 +19,6 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ---
 
-Classes: Cleric, Druid, Artificer (Revisited)
+Classes: cleric, druid, artificer (revisited)
 
-Source: phb, page 248
+Source: PHB, page 248

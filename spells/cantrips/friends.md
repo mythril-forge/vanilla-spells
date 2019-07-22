@@ -21,10 +21,10 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 
 ---
 
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes: bard, sorcerer, warlock, wizard
 
-Races: Siren
+Races: siren
 
-Subraces: Elf (Eladrin), Tiefling (Fierna), Tiefling (Fierna)
+Subraces: elf (eladrin), tiefling (fierna), tiefling (fierna)
 
-Source: phb, page 244
+Source: PHB, page 244

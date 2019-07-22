@@ -21,10 +21,10 @@ This spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th 
 
 ---
 
-Classes: Sorcerer, Wizard, Artificer (Revisited)
+Classes: sorcerer, wizard, artificer (revisited)
 
-Subclasses: Giant Soul (UA) Sorcerer
+Subclasses: giant soul (ua) sorcerer
 
-Subraces: Elf (Eladrin)
+Subraces: elf (eladrin)
 
-Source: phb, page 242
+Source: PHB, page 242

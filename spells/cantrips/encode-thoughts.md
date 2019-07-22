@@ -23,6 +23,6 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 
 ---
 
-Classes: Wizard
+Classes: wizard
 
-Source: ggr, page 47
+Source: GGR, page 47

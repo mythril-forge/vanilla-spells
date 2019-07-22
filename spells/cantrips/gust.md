@@ -22,6 +22,6 @@ You seize the air and compel it to create one of the following effects at a poin
 
 ---
 
-Classes: Druid, Sorcerer, Wizard
+Classes: druid, sorcerer, wizard
 
-Source: xge, page 157
+Source: XGE, page 157

@@ -25,6 +25,6 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-Classes: Cleric
+Classes: cleric
 
-Source: ua-ss, page 3
+Source: UA-SS, page 3

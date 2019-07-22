@@ -21,6 +21,6 @@ The spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th l
 
 ---
 
-Classes: Druid
+Classes: druid
 
-Source: ua-ss, page 3
+Source: UA-SS, page 3

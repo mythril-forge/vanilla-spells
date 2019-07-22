@@ -21,8 +21,8 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 ---
 
-Classes: Sorcerer, Wizard, Artificer (Revisited)
+Classes: sorcerer, wizard, artificer (revisited)
 
-Subclasses: Giant Soul (UA) Sorcerer
+Subclasses: giant soul (ua) sorcerer
 
-Source: phb, page 275
+Source: PHB, page 275

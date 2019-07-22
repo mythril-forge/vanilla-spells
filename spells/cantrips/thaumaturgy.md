@@ -27,8 +27,8 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 ---
 
-Classes: Cleric
+Classes: cleric
 
-Subraces: Elf (Shadar-kai), Tiefling (Zariel), Tiefling (Variant), Tiefling (Variant), Tiefling (Asmodeus), Tiefling (Baalzebul), Tiefling, Tiefling (Zariel), Tiefling (Asmodeus), Tiefling (Baalzebul), Tiefling (Dispater), Tiefling (Dispater)
+Subraces: elf (shadar-kai), tiefling (zariel), tiefling (variant), tiefling (variant), tiefling (asmodeus), tiefling (baalzebul), tiefling, tiefling (zariel), tiefling (asmodeus), tiefling (baalzebul), tiefling (dispater), tiefling (dispater)
 
-Source: phb, page 282
+Source: PHB, page 282

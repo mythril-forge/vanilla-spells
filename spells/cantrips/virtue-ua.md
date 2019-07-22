@@ -19,6 +19,6 @@ You touch one creature, imbuing it with vitality. If the target has at least 1 h
 
 ---
 
-Classes: Cleric
+Classes: cleric
 
-Source: ua-ss, page 5
+Source: UA-SS, page 5

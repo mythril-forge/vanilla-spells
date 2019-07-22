@@ -21,8 +21,8 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 ---
 
-Classes: Cleric
+Classes: cleric
 
-Subclasses: Undying Light (UA) Warlock, Celestial Warlock
+Subclasses: undying light (ua) warlock, celestial warlock
 
-Source: phb, page 272
+Source: PHB, page 272

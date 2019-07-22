@@ -19,6 +19,6 @@ This cantrip allows you to activate or deactivate any electronic device within r
 
 ---
 
-Classes: Warlock, Sorcerer, Wizard
+Classes: warlock, sorcerer, wizard
 
-Source: ua-mm, page 7
+Source: UA-MM, page 7

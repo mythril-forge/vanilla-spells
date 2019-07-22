@@ -28,6 +28,6 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 ---
 
-Classes: Druid, Sorcerer, Wizard
+Classes: druid, sorcerer, wizard
 
-Source: xge, page 162
+Source: XGE, page 162

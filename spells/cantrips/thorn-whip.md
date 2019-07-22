@@ -23,6 +23,6 @@ This spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th le
 
 ---
 
-Classes: Druid, Artificer (Revisited)
+Classes: druid, artificer (revisited)
 
-Source: phb, page 282
+Source: PHB, page 282

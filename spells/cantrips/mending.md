@@ -23,6 +23,6 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 ---
 
-Classes: Bard, Cleric, Druid, Sorcerer, Wizard, Artificer (Revisited)
+Classes: bard, cleric, druid, sorcerer, wizard, artificer (revisited)
 
-Source: phb, page 259
+Source: PHB, page 259

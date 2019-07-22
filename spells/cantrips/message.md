@@ -23,8 +23,8 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 ---
 
-Classes: Bard, Sorcerer, Wizard, Artificer (Revisited)
+Classes: bard, sorcerer, wizard, artificer (revisited)
 
-Subraces: Tiefling (Abyssal)
+Subraces: tiefling (abyssal)
 
-Source: phb, page 259
+Source: PHB, page 259

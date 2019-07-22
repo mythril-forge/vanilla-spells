@@ -21,8 +21,8 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 ---
 
-Classes: Druid
+Classes: druid
 
-Subclasses: Giant Soul (UA) Sorcerer
+Subclasses: giant soul (ua) sorcerer
 
-Source: phb, page 275
+Source: PHB, page 275

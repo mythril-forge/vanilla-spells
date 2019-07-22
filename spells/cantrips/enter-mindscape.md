@@ -27,6 +27,6 @@ This spell's duration cannot be ended due to damage.
 
 ---
 
-Classes: Psion
+Classes: psion
 
-Source: stream
+Source: STREAM

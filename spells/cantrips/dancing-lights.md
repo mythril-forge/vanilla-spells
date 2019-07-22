@@ -23,8 +23,8 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 ---
 
-Classes: Bard, Sorcerer, Wizard, Artificer (Revisited)
+Classes: bard, sorcerer, wizard, artificer (revisited)
 
-Subraces: Elf (Drow), Half-Elf (Drow Descent), Tiefling (Abyssal)
+Subraces: elf (drow), half-elf (drow descent), tiefling (abyssal)
 
-Source: phb, page 230
+Source: PHB, page 230

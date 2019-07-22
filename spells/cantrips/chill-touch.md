@@ -23,8 +23,8 @@ This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th le
 
 ---
 
-Classes: Sorcerer, Warlock, Wizard
+Classes: sorcerer, warlock, wizard
 
-Subraces: Elf (Eladrin), Elf (Shadar-kai), Elf (Zendikar) (Mul Daya Nation)
+Subraces: elf (eladrin), elf (shadar-kai), elf (zendikar) (mul daya nation)
 
-Source: phb, page 221
+Source: PHB, page 221

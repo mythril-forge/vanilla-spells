@@ -21,8 +21,8 @@ This spell's damage increases by `1d12` when you reach 5th level (`2d12`), 11th 
 
 ---
 
-Classes: Druid, Sorcerer, Warlock, Wizard, Artificer (Revisited)
+Classes: druid, sorcerer, warlock, wizard, artificer (revisited)
 
-Races: Yuan-ti Pureblood
+Races: yuan-ti pureblood
 
-Source: phb, page 266
+Source: PHB, page 266

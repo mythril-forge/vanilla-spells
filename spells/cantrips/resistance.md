@@ -21,8 +21,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ---
 
-Classes: Cleric, Druid, Artificer (Revisited)
+Classes: cleric, druid, artificer (revisited)
 
-Subclasses: Giant Soul (UA) Sorcerer
+Subclasses: giant soul (ua) sorcerer
 
-Source: phb, page 272
+Source: PHB, page 272

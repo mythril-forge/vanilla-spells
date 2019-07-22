@@ -19,8 +19,8 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 ---
 
-Classes: Cleric, Artificer (Revisited)
+Classes: cleric, artificer (revisited)
 
-Subraces: Elf (Shadar-kai), Tiefling (Abyssal)
+Subraces: elf (shadar-kai), tiefling (abyssal)
 
-Source: phb, page 277
+Source: PHB, page 277
