@@ -10,7 +10,7 @@ Duration: 1 minute
 
 Range: 120 feet
 
-Tags: V, S, M, C
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: a bit of phosphorus or wychwood, or a glowworm
 

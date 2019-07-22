@@ -10,7 +10,7 @@ Duration: 1 round
 
 Range: 120 feet
 
-Tags: V, S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

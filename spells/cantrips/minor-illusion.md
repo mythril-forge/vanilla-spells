@@ -10,7 +10,7 @@ Duration: 1 minute
 
 Range: 30 feet
 
-Tags: S, M
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: a bit of fleece
 

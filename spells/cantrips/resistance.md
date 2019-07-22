@@ -10,7 +10,7 @@ Duration: 1 minute
 
 Range: touch
 
-Tags: V, S, M, C
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: a miniature cloak
 

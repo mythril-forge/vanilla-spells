@@ -10,7 +10,7 @@ Duration: instantaneous
 
 Range: 30 feet
 
-Tags: V, S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

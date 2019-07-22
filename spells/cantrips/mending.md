@@ -10,7 +10,7 @@ Duration: instantaneous
 
 Range: touch
 
-Tags: V, S, M
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: two lodestones
 

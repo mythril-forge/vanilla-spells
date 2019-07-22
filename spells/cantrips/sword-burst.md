@@ -14,7 +14,7 @@ Shape: sphere
 
 Radius: 5 feet
 
-Tags: V
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

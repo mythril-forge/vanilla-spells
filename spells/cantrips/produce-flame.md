@@ -10,7 +10,7 @@ Duration: 10 minutes
 
 Range: self
 
-Tags: V, S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

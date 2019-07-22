@@ -10,7 +10,7 @@ Duration: 1 round
 
 Range: touch
 
-Tags: V, S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

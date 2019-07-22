@@ -10,7 +10,7 @@ Duration: 1 minute
 
 Range: touch
 
-Tags: V, S, M
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: mistletoe, a shamrock leaf, and a club or quarterstaff
 

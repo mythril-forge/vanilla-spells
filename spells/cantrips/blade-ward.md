@@ -10,7 +10,7 @@ Duration: 1 round
 
 Range: self
 
-Tags: V, S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 

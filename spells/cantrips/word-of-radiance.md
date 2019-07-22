@@ -10,7 +10,7 @@ Duration: instantaneous
 
 Range: 5 feet
 
-Tags: V, M
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: a holy symbol
 

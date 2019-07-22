@@ -10,7 +10,7 @@ Duration: instantaneous
 
 Range: 30 feet
 
-Tags: V, S, M
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 Material Components: the stem of a plant with thorns
 

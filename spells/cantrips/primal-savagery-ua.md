@@ -10,7 +10,7 @@ Duration: instantaneous
 
 Range: self
 
-Tags: S
+Tags: verbal, somatic, material, concentration, ritual, royalty
 
 ---
 
