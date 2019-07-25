@@ -27,4 +27,4 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 **Subclasses:** arcane archer fighter
 
-**Source:** PHB, page 236
+**Sources:** PHB, page 236

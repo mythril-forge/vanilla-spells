@@ -25,4 +25,4 @@ This spell's damage increases when you reach higher levels. At 5th level, the me
 
 **Classes:** sorcerer, warlock, wizard
 
-**Source:** SCAG, page 142
+**Sources:** SCAG, page 142

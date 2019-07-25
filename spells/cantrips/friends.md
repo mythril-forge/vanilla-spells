@@ -27,4 +27,4 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 
 **Subraces:** elf (eladrin), tiefling (fierna), tiefling (fierna)
 
-**Source:** PHB, page 244
+**Sources:** PHB, page 244

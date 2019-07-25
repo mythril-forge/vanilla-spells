@@ -21,4 +21,4 @@ Until the end of your turn, you speed increases by 10 feet and you can walk acro
 
 **Classes:** psion
 
-**Source:** STREAM
+**Sources:** STREAM

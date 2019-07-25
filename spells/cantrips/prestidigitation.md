@@ -33,4 +33,4 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 **Subraces:** tiefling (abyssal)
 
-**Source:** PHB, page 267
+**Sources:** PHB, page 267

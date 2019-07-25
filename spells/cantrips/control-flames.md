@@ -31,4 +31,4 @@ If you cast this spell multiple times, you can have up to three non-instantaneou
 
 **Classes:** druid, sorcerer, wizard
 
-**Source:** XGE, page 152
+**Sources:** XGE, page 152

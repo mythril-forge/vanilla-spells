@@ -31,4 +31,4 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 **Subraces:** elf (shadar-kai), tiefling (zariel), tiefling (variant), tiefling (variant), tiefling (asmodeus), tiefling (baalzebul), tiefling, tiefling (zariel), tiefling (asmodeus), tiefling (baalzebul), tiefling (dispater), tiefling (dispater)
 
-**Source:** PHB, page 282
+**Sources:** PHB, page 282

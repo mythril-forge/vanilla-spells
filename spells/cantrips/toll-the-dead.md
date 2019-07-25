@@ -23,4 +23,4 @@ The spell's damage increases by one die when you reach 5th level (`2d8` or `2d12
 
 **Classes:** cleric, warlock, wizard
 
-**Source:** XGE, page 169
+**Sources:** XGE, page 169

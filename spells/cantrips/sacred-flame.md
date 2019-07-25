@@ -25,4 +25,4 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 **Subclasses:** undying light (ua) warlock, celestial warlock
 
-**Source:** PHB, page 272
+**Sources:** PHB, page 272

@@ -33,4 +33,4 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 **Subraces:** genasi (water)
 
-**Source:** XGE, page 164
+**Sources:** XGE, page 164

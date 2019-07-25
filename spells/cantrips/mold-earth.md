@@ -30,4 +30,4 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 **Classes:** druid, sorcerer, wizard
 
-**Source:** XGE, page 162
+**Sources:** XGE, page 162

@@ -27,4 +27,4 @@ This spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th 
 
 **Subraces:** elf (eladrin)
 
-**Source:** PHB, page 242
+**Sources:** PHB, page 242

@@ -27,4 +27,4 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 **Subraces:** elf (drow), half-elf (drow descent), tiefling (abyssal)
 
-**Source:** PHB, page 230
+**Sources:** PHB, page 230

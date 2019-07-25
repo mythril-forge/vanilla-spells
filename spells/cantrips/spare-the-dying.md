@@ -23,4 +23,4 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 **Subraces:** elf (shadar-kai), tiefling (abyssal)
 
-**Source:** PHB, page 277
+**Sources:** PHB, page 277

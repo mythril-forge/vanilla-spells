@@ -21,4 +21,4 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 **Classes:** bard, sorcerer, warlock, wizard
 
-**Source:** PHB, page 218
+**Sources:** PHB, page 218

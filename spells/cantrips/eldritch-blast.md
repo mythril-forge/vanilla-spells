@@ -23,4 +23,4 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 **Classes:** warlock
 
-**Source:** PHB, page 237
+**Sources:** PHB, page 237

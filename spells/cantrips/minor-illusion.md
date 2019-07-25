@@ -33,4 +33,4 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 **Subraces:** elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
 
-**Source:** PHB, page 260
+**Sources:** PHB, page 260

@@ -25,4 +25,4 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 **Subclasses:** giant soul (ua) sorcerer
 
-**Source:** PHB, page 272
+**Sources:** PHB, page 272

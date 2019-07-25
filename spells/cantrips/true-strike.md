@@ -23,4 +23,4 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 **Subraces:** tiefling (abyssal)
 
-**Source:** PHB, page 284
+**Sources:** PHB, page 284
