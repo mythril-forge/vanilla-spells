@@ -12,7 +12,7 @@
 
 **Shape:** cone
 
-**Radius**: 60 feet
+**Radius:** 60 feet
 
 **Tags:** concentration
 

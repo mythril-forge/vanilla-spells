@@ -12,7 +12,7 @@
 
 **Shape:** sphere
 
-**Radius**: 5 feet
+**Radius:** 5 feet
 
 **Tags:** verbal, somatic
 
