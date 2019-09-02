@@ -21,6 +21,6 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 **Classes:** bard, druid, ranger
 
-**Subclasses:** nature cleric, ancients paladin, undying warlock, totem warrior barbarian
+**Subclasses:** nature cleric, ancients paladin, totem warrior barbarian
 
 **Sources:** PHB, page 277
