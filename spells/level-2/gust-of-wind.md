@@ -12,9 +12,9 @@
 
 **Shape:** line
 
-**Width:** 5 feet
-
 **Length:** 60 feet
+
+**Width:** 5 feet
 
 **Tags:** verbal, somatic, material, concentration
 
