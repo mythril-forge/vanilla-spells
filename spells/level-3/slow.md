@@ -14,7 +14,7 @@
 
 **Length:** 40 feet
 
-**Effect Instances:** 6
+**Instances:** 6
 
 **Tags:** verbal, somatic, material, concentration
 

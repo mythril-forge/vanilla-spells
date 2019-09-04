@@ -10,7 +10,7 @@
 
 **Range:** 30 feet
 
-**Effect Instances:** 3
+**Instances:** 3
 
 **Tags:** somatic, material
 

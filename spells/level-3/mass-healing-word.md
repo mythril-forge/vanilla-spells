@@ -10,7 +10,7 @@
 
 **Range:** 60 feet
 
-**Effect Instances:** 6
+**Instances:** 6
 
 **Tags:** verbal
 

@@ -10,7 +10,7 @@
 
 **Range:** 90 feet
 
-**Effect Instances:** 10
+**Instances:** 10
 
 **Tags:** somatic
 

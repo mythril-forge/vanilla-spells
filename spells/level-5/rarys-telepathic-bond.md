@@ -10,7 +10,7 @@
 
 **Range:** 30 feet
 
-**Effect Instances:** 8
+**Instances:** 8
 
 **Tags:** verbal, somatic, material, ritual
 

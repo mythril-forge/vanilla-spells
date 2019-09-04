@@ -10,7 +10,7 @@
 
 **Range:** 120 feet
 
-**Effect Instances:** 3
+**Instances:** 3
 
 **Tags:** verbal, somatic, royalty
 
@@ -18,6 +18,7 @@
 
 ## Description
 > Jim's magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy.
+> 
 > &mdash; Jim Darkmagic
 
 Any apprentice wizard can cast a boring old magic missile. Sure, it always strikes its target. Yawn. Do away with the drudgery of your grandfather's magic with this improved version of the spell, as used by Jim Darkmagic!
