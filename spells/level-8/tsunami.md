@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 300 feet
-
 **Length:** 300 feet
 
 **Width:** 50 feet
+
+**Height:** 300 feet
 
 **Tags:** verbal, somatic, concentration
 
