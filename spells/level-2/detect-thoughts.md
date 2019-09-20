@@ -21,7 +21,7 @@ For the duration, you can read the thoughts of certain creatures.
 When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you.
 If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
-You initially learn the surface thoughts of the creature—what is most on its mind in that moment.
+You initially learn the surface thoughts of the creature&mdash;what is most on its mind in that moment.
 As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind.
 If you probe deeper, the target must make a Wisdom saving throw.
 If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates).

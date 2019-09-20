@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find
+**Material Components:** a set of divinatory tools&mdash;such as bones, ivory sticks, cards, teeth, or carved runes&mdash;worth 100 gp and an object from the location you wish to find
 
 ---
 

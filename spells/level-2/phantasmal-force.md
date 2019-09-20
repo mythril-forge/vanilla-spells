@@ -30,7 +30,7 @@ If the check succeeds, the target realizes that the phantasm is an illusion, and
 While a target is affected by the spell, the target treats the phantasm as if it were real.
 The target rationalizes any illogical outcomes from interacting with the phantasm.
 For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge.
-If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall—it was pushed, it slipped, or a strong wind might have knocked it off.
+If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall&mdash;it was pushed, it slipped, or a strong wind might have knocked it off.
 
 An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion.
 A phantasm created to appear as a creature can attack the target.

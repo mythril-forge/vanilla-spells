@@ -16,7 +16,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** an iron blade and a small bag containing a mixture of soils—clay, loam, and sand
+**Material Components:** an iron blade and a small bag containing a mixture of soils&mdash;clay, loam, and sand
 
 ---
 

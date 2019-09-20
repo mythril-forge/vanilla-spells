@@ -42,7 +42,7 @@ The creature takes `10d6` lightning damage on a failed save, or half as much dam
 Hailstones rain down from the cloud.
 Each creature under the cloud takes `2d6` bludgeoning damage.
 
-### Round 5–10
+### Round 5&ndash;10
 Gusts and freezing rain assail the area under the cloud.
 The area becomes difficult terrain and is heavily obscured.
 Each creature there takes `1d6` cold damage.

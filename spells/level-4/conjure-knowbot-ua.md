@@ -15,7 +15,7 @@
 ---
 
 ## Description
-You touch a single computerized device or computer system to conjure a knowbot—a partially sentient piece of software imprinted with vestiges of your own skills and computer abilities.
+You touch a single computerized device or computer system to conjure a knowbot&mdash;a partially sentient piece of software imprinted with vestiges of your own skills and computer abilities.
 For the duration of the spell, you can use a bonus action to have the knowbot execute a computer-related task that would normally require an action.
 The knowbot makes Intelligence ability checks using your ability score and proficiency bonuses (including your proficiency with hacking tools, if applicable).
 
