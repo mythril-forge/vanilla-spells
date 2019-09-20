@@ -1,3 +1,24 @@
+# Ignore system files
 .DS_Store
-/archive
-/oldbin
+
+# Personal archive folder for file reference
+archive/
+.vscode/
+
+# Ignore these specific folders
+# spells/cantrips/
+# spells/level-1/
+# spells/level-2/
+# spells/level-3/
+# spells/level-4/
+# spells/level-5/
+# spells/level-6/
+# spells/level-7/
+# spells/level-8/
+# spells/level-9/
+
+# Ignore these files on branches
+# README.md
+# LICENSE.md
+# VERSION.md
+# GROUND-RULES.md
