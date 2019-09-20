@@ -15,7 +15,8 @@
 ---
 
 ## Description
-A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
+A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you.
+The wind lasts for the spell's duration.
 
 The wind has the following effects:
 - It **deafens** you and other creatures in its area.

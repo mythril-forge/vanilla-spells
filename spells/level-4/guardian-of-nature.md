@@ -15,7 +15,9 @@
 ---
 
 ## Description
-A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.
+A nature spirit answers your call and transforms you into a powerful guardian.
+The transformation lasts until the spell ends.
+You choose one of the following forms to assume: Primal Beast or Great Tree.
 
 ### Primal Beast
 Bestial fur covers your body, your facial features become feral, and you gain the following benefits:

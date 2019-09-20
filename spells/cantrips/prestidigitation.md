@@ -15,7 +15,8 @@
 ---
 
 ## Description
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+This spell is a minor magical trick that novice spellcasters use for practice.
+You create one of the following magical effects within range:
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 - You instantaneously light or snuff out a candle, a torch, or a small campfire.
 - You instantaneously clean or soil an object no larger than 1 cubic foot.

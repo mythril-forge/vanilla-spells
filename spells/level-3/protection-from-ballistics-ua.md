@@ -17,7 +17,8 @@
 ---
 
 ## Description
-This spell enchants the flesh of the target against the impact of bullets. Until the spell ends, the target has resistance to nonmagical ballistic damage.
+This spell enchants the flesh of the target against the impact of bullets.
+Until the spell ends, the target has resistance to nonmagical ballistic damage.
 
 ---
 

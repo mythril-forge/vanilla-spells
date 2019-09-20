@@ -15,7 +15,9 @@
 ---
 
 ## Description
-You channel arcane energy into one simple or martial weapon you're holding, and choose one damage type: acid, cold, fire, lightning, poison, or thunder. Until the spell ends, you deal an extra `1d6` damage of the chosen type to any target you hit with the weapon. If the weapon isn't magical, it becomes a magic weapon for the spell's duration.
+You channel arcane energy into one simple or martial weapon you're holding, and choose one damage type: acid, cold, fire, lightning, poison, or thunder.
+Until the spell ends, you deal an extra `1d6` damage of the chosen type to any target you hit with the weapon.
+If the weapon isn't magical, it becomes a magic weapon for the spell's duration.
 
 As a bonus action, you can change the damage type, choosing from the options above.
 

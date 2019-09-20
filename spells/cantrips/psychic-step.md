@@ -15,7 +15,8 @@
 ## Description
 You alter the composition of your body in a subtle manner, allowing you to take seemingly impossible steps.
 
-Until the end of your turn, you speed increases by 10 feet and you can walk across vertical surfaces without falling. If you end your turn on such a surface, you immediately fall.
+Until the end of your turn, you speed increases by 10 feet and you can walk across vertical surfaces without falling.
+If you end your turn on such a surface, you immediately fall.
 
 ---
 
