@@ -19,8 +19,8 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 You choose one the following options for what appears:
 - One elemental of challenge rating 2 or lower
 - Two elementals of challenge rating 1 or lower
-- Four elementals of challenge rating 1/2 or lower
-- Eight elementals of challenge rating 1/4 or lower.
+- Four elementals of challenge rating &frac12; or lower
+- Eight elementals of challenge rating &frac14; or lower.
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
