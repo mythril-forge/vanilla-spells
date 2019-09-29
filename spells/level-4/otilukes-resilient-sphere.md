@@ -17,7 +17,7 @@
 ---
 
 ## Description
-A sphere of shimmering force encloses a creature or object of Large size or smaller within range.
+A sphere of shimmering force encloses a creature or object of *large* size or smaller within range.
 An unwilling creature must make a Dexterity saving throw.
 On a failed save, the creature is enclosed for the duration.
 

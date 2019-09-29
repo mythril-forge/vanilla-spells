@@ -27,11 +27,11 @@ The sphere remains for the spell's duration.
 
 Any creature in the sphere's space must make a Strength saving throw.
 On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere.
-A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it.
+A *huge* or larger creature succeeds on the saving throw automatically, and a *large* or smaller creature can choose to fail it.
 On a failed save, a creature is **restrained** by the sphere and is engulfed by the water.
 At the end of each of its turns, a **restrained** target can repeat the saving throw, ending the effect on itself on a success.
 
-The sphere can restrain as many as four Medium or smaller creatures or one Large creature.
+The sphere can restrain as many as four *medium* or smaller creatures or one *large* creature.
 If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already **restrained** by the sphere falls out of it and lands **prone** in a space within 5 feet of it.
 
 As an action, you can move the sphere up to 30 feet in a straight line.

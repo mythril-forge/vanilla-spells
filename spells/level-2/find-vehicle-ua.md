@@ -31,8 +31,8 @@ You can't have more than one vehicle bonded by this spell at a time.
 As an action, you can release the vehicle from its bond at any time, causing it to disappear.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 3rd level or higher, you can conjure a nonmilitary water vehicle large enough to carry six Medium creatures.
-When you cast this spell using a spell slot of 5th level or higher, you can conjure a nonmilitary air vehicle large enough to carry ten Medium creatures.
+When you cast this spell using a spell slot of 3rd level or higher, you can conjure a nonmilitary water vehicle large enough to carry six *medium* creatures.
+When you cast this spell using a spell slot of 5th level or higher, you can conjure a nonmilitary air vehicle large enough to carry ten *medium* creatures.
 When you cast this spell using a spell slot of 7th level or higher, you can conjure any type of vehicle, subject to the DM's approval.
 
 ---

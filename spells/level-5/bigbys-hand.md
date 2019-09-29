@@ -17,7 +17,7 @@
 ---
 
 ## Description
-You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range.
+You create a *large* hand of shimmering, translucent force in an unoccupied space that you can see within range.
 The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.
 
 The hand is an object that has AC 20 and hit points equal to your hit point maximum.
@@ -35,14 +35,14 @@ On a hit, the target takes `4d8` force damage.
 ### Forceful Hand
 The hand attempts to push a creature within 5 feet of it in a direction you choose.
 Make a check with the hand's Strength contested by the Strength (Athletics) check of the target.
-If the target is Medium or smaller, you have advantage on the check.
+If the target is *medium* or smaller, you have advantage on the check.
 If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier.
 The hand moves with the target to remain within 5 feet of it.
 
 ### Grasping Hand
-The hand attempts to grapple a Huge or smaller creature within 5 feet of it.
+The hand attempts to grapple a *huge* or smaller creature within 5 feet of it.
 You use the hand's Strength score to resolve the grapple.
-If the target is Medium or smaller, you have advantage on the check.
+If the target is *medium* or smaller, you have advantage on the check.
 While the hand is grappling the target, you can use a bonus action to have the hand crush it.
 When you do so, the target takes bludgeoning damage equal to `2d6` + your spellcasting ability modifier.
 

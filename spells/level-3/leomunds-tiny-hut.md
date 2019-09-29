@@ -24,7 +24,7 @@
 A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration.
 The spell ends if you leave its area.
 
-Nine creatures of Medium size or smaller can fit inside the dome with you.
+Nine creatures of *medium* size or smaller can fit inside the dome with you.
 The spell fails if its area includes a larger creature or more than nine creatures.
 Creatures and objects within the dome when you cast this spell can move through it freely.
 All other creatures and objects are barred from passing through it.

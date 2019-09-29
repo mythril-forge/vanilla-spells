@@ -18,7 +18,7 @@
 
 ## Description
 You can cast this spell only at night.
-Choose up to three corpses of Medium or Small humanoids within range.
+Choose up to three corpses of *medium* or *small* humanoids within range.
 Each corpse becomes a ghoul under your control.
 (The DM has game statistics for these creatures.)
 

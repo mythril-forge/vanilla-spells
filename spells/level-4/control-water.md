@@ -26,8 +26,8 @@ You cause the water level of all standing water in the area to rise by as much a
 If the area includes a shore, the flooding water spills over onto dry land.
 
 If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down.
-Any Huge or smaller vehicles in the wave's path are carried with it to the other side.
-Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
+Any *huge* or smaller vehicles in the wave's path are carried with it to the other side.
+Any *huge* or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
 
 The water level remains elevated until the spell ends or you choose a different effect.
 If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.

@@ -17,7 +17,7 @@
 ---
 
 ## Description
-You summon a Small air elemental to a spot within range.
+You summon a *small* air elemental to a spot within range.
 The air elemental is formless, nearly transparent, immune to all damage, and cannot interact with other creatures or objects.
 It carries an open, empty chest whose interior dimensions are 3 feet on each side.
 While the spell lasts, you can deposit as many items inside the chest as will fit.

@@ -15,7 +15,7 @@
 ---
 
 ## Description
-You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range.
+You create a *tiny* incorporeal hand of shimmering light in an unoccupied space you can see within range.
 The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
 When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you.

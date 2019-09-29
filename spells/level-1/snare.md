@@ -22,7 +22,7 @@ When you finish casting, the rope disappears and the circle becomes a magic trap
 
 This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.
 
-The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius.
+The trap triggers when a *small*, *medium*, or *large* creature moves onto the ground or the floor in the spell's radius.
 That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor.
 The creature is **restrained** there until the spell ends.
 
