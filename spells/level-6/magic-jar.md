@@ -28,7 +28,7 @@ On a failure, your soul moves into the target's body, and the target's soul beco
 On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 Once you possess a creature's body, you control it.
-Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores.
+Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma Scores.
 You retain the benefit of your own class features.
 If the target has any class levels, you can't use any of its class features.
 

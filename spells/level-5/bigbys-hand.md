@@ -41,7 +41,7 @@ The hand moves with the target to remain within 5 feet of it.
 
 ### Grasping Hand
 The hand attempts to grapple a *huge* or smaller creature within 5 feet of it.
-You use the hand's Strength score to resolve the grapple.
+You use the hand's Strength Score to resolve the grapple.
 If the target is *medium* or smaller, you have advantage on the check.
 While the hand is grappling the target, you can use a bonus action to have the hand crush it.
 When you do so, the target takes bludgeoning damage equal to `2d6` + your spellcasting ability modifier.
@@ -49,8 +49,8 @@ When you do so, the target takes bludgeoning damage equal to `2d6` + your spellc
 ### Interposing Hand
 The hand interposes itself between you and a creature you choose until you give the hand a different command.
 The hand moves to stay between you and the target, providing you with half cover against the target.
-The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score.
-If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
+The target can't move through the hand's space if its Strength Score is less than or equal to the hand's Strength Score.
+If its Strength Score is higher than the hand's Strength Score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by `2d8` and the damage from the grasping hand increases by `2d6` for each slot level above 5th.
