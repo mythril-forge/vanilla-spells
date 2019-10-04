@@ -18,7 +18,7 @@
 
 ## Description
 This spell transforms a creature that you can see within range into a new form.
-An unwilling creature must make a Wisdom saving throw to avoid the effect.
+An unwilling creature must make a Wisdom Saving Throw to avoid the effect.
 The spell has no effect on a shapechanger or a creature with 0 hit points.
 
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies.

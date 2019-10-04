@@ -20,7 +20,7 @@
 
 ## Description
 You transform up to ten creatures of your choice that you can see within range.
-An unwilling target must succeed on a Wisdom saving throw to resist the transformation.
+An unwilling target must succeed on a Wisdom Saving Throw to resist the transformation.
 An unwilling shapechanger automatically succeeds on the save.
 
 Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target.

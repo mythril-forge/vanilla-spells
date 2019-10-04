@@ -22,7 +22,7 @@
 
 ## Description
 This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action.
-Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom Saving Throw when you cast this spell or be affected by it.
 
 An affected target can't take reactions and must roll a `d10` at the start of each of its turns to determine its behavior for that turn.
 
@@ -33,7 +33,7 @@ An affected target can't take reactions and must roll a `d10` at the start of ea
 | 7&mdash;8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn. |
 | 9&mdash;10 | The creature can act and move normally. |
 
-At the end of each of its turns, an affected target can make a Wisdom saving throw.
+At the end of each of its turns, an affected target can make a Wisdom Saving Throw.
 If it succeeds, this effect ends for that target.
 
 ## At Higher Levels

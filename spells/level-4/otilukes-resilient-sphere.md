@@ -18,7 +18,7 @@
 
 ## Description
 A sphere of shimmering force encloses a creature or object of *large* size or smaller within range.
-An unwilling creature must make a Dexterity saving throw.
+An unwilling creature must make a Dexterity Saving Throw.
 On a failed save, the creature is enclosed for the duration.
 
 Nothing&mdash;not physical objects, energy, or other spell effects&mdash;can pass through the barrier, in or out, though a creature in the sphere can breathe there.

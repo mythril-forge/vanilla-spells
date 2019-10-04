@@ -29,7 +29,7 @@ Glowing runes appear wherever the cylinder intersects with the floor or other su
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead.
 The circle affects a creature of the chosen type in the following ways:
 - The creature can't willingly enter the cylinder by nonmagical means.
-	If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+	If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma Saving Throw.
 - The creature has disadvantage on attack rolls against targets within the cylinder.
 - Targets within the cylinder can't be **charmed**, **frightened**, or possessed by the creature.
 

@@ -23,7 +23,7 @@
 ## Description
 A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet.
 Lightning flashes in the area, thunder booms, and strong winds roar.
-Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw.
+Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution Saving Throw.
 On a failed save, a creature takes `2d6` thunder damage and becomes **deafened** for 5 minutes.
 
 Each round you maintain concentration on this spell, the storm produces different effects on your turn.
@@ -35,7 +35,7 @@ Each creature and object under the cloud takes `1d6` acid damage.
 ### Round 3
 You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud.
 A given creature or object can't be struck by more than one bolt.
-A struck creature must make a Dexterity saving throw.
+A struck creature must make a Dexterity Saving Throw.
 The creature takes `10d6` lightning damage on a failed save, or half as much damage on a successful one.
 
 ### Round 4

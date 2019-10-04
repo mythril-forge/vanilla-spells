@@ -32,7 +32,7 @@ The smell of burning incense fills the air within, and the temperature is mild.
 
 The temple opposes types of creatures you choose when you cast this spell.
 Choose one or more of the following: celestials, elementals, fey, fiends, or undead.
-If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw.
+If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma Saving Throw.
 On a failed save, it can't enter the temple for 24 hours.
 Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a `d4` and subtract the number rolled from the `d20` roll.
 

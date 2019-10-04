@@ -26,7 +26,7 @@
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range.
 Until the spell ends, dim light fills the cylinder.
 
-When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution Saving Throw.
 It takes `2d10` radiant damage on a failed save, or half as much damage on a successful one.
 
 A shapechanger makes its saving throw with disadvantage.

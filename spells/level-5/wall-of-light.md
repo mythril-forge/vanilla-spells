@@ -32,10 +32,10 @@ The wall can be up to 60 feet long, 10 feet high, and 5 feet thick.
 The wall blocks line of sight, but creatures and objects can pass through it.
 It emits bright light out to 120 feet and dim light for an additional 120 feet.
 
-When the wall appears, each creature in its area must make a Constitution saving throw.
+When the wall appears, each creature in its area must make a Constitution Saving Throw.
 On a failed save, a creature takes `4d8` radiant damage, and it is **blinded** for 1 minute.
 On a successful save, it takes half as much damage and isn't **blinded**.
-A **blinded** creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+A **blinded** creature can make a Constitution Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 A creature that ends its turn in the wall's area takes `4d8` radiant damage.
 

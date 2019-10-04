@@ -24,7 +24,7 @@ You can extinguish the fire in that area, and you create either fireworks or smo
 
 ### Fireworks
 The target explodes with a dazzling display of colors.
-Each creature within 10 feet of the target must succeed on a Constitution saving throw or become **blinded** until the end of your next turn.
+Each creature within 10 feet of the target must succeed on a Constitution Saving Throw or become **blinded** until the end of your next turn.
 
 ### Smoke
 Thick black smoke spreads out from the target in a 20-foot radius, moving around corners.

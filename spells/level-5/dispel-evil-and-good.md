@@ -29,7 +29,7 @@ The creature you touch is no longer **charmed**, **frightened**, or possessed by
 ### Dismissal
 As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach.
 On a hit, you attempt to drive the creature back to its home plane.
-The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already).
+The creature must succeed on a Charisma Saving Throw or be sent back to its home plane (if it isn't there already).
 If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
 
 ---

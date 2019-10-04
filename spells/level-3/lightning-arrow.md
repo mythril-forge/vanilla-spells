@@ -19,7 +19,7 @@ The next time you make a ranged weapon attack during the spell's duration, the w
 Make the attack roll as normal.
 The target takes `4d8` lightning damage on a hit, or half as much damage on a miss, instead of the weapon's normal damage.
 
-Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity saving throw.
+Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity Saving Throw.
 Each of these creatures takes `2d8` lightning damage on a failed save, or half as much damage on a successful one.
 
 The piece of ammunition or weapon then returns to its normal form.

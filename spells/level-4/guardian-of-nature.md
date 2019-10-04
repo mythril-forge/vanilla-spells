@@ -29,7 +29,7 @@ Bestial fur covers your body, your facial features become feral, and you gain th
 ### Great Tree
 Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
 - You gain 10 temporary hit points.
-- You make Constitution saving throws with advantage.
+- You make Constitution Saving Throws with advantage.
 - You make Dexterity- and Wisdom-based attack rolls with advantage.
 - While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
 

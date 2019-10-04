@@ -20,7 +20,7 @@
 A thin green ray springs from your pointing finger to a target that you can see within range.
 The target can be a creature, an object, or a creation of magical force, such as the wall created by wall of force.
 
-A creature targeted by this spell must make a Dexterity saving throw.
+A creature targeted by this spell must make a Dexterity Saving Throw.
 On a failed save, the target takes `10d6 + 40` force damage.
 The target is disintegrated if this damage leaves it with 0 hit points.
 

@@ -17,7 +17,7 @@
 ## Description
 This spell allows you to change the appearance of any number of creatures that you can see within range.
 You give each target you choose a new, illusory appearance.
-An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
+An unwilling target can make a Charisma Saving Throw, and if it succeeds, it is unaffected by this spell.
 
 The spell disguises physical appearance as well as clothing, armor, weapons, and equipment.
 You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between.

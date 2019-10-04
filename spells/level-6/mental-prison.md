@@ -16,7 +16,7 @@
 
 ## Description
 You attempt to bind a creature within an illusory cell that only it perceives.
-One creature you can see within range must make an Intelligence saving throw.
+One creature you can see within range must make an Intelligence Saving Throw.
 The target succeeds automatically if it is immune to being **charmed**.
 On a successful save, the target takes `5d10` psychic damage, and the spell ends.
 On a failed save, the target takes `5d10` psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way.

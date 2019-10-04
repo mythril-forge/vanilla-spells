@@ -25,7 +25,7 @@ Roll initiative for the demon, which has its own turns.
 When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn.
 If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
-At the end of each of the demon's turns, it makes a Charisma saving throw.
+At the end of each of the demon's turns, it makes a Charisma Saving Throw.
 The demon has disadvantage on this saving throw if you say its true name.
 On a failed save, the demon continues to obey you.
 On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability.

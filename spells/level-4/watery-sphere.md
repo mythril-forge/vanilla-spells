@@ -25,7 +25,7 @@ You conjure up a sphere of water with a 5-foot radius at a point you can see wit
 The sphere can hover but no more than 10 feet off the ground.
 The sphere remains for the spell's duration.
 
-Any creature in the sphere's space must make a Strength saving throw.
+Any creature in the sphere's space must make a Strength Saving Throw.
 On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere.
 A *huge* or larger creature succeeds on the saving throw automatically, and a *large* or smaller creature can choose to fail it.
 On a failed save, a creature is **restrained** by the sphere and is engulfed by the water.
