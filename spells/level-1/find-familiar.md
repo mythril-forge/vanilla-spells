@@ -43,7 +43,7 @@ Your familiar transforms into the chosen creature.
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell.
 Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it.
-If the spell requires an attack roll, you use your attack modifier for the roll.
+If the spell requires an Attack Roll, you use your attack modifier for the roll.
 
 ---
 

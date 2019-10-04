@@ -30,7 +30,7 @@ You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you
 The wall vanishes when the spell ends.
 The wall's space is difficult terrain.
 
-Any Ranged Weapon Attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target.
+Any Ranged Weapon Attack that enters the wall's space has disadvantage on the Attack Roll, and fire damage is halved if the fire effect passes through the wall to reach its target.
 Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen).
 Each 5-foot-square frozen section has AC 5 and 15 hit points.
 Reducing a frozen section to 0 hit points destroys it.

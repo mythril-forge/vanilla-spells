@@ -18,8 +18,8 @@
 You touch a creature, and that creature must succeed on a Wisdom Saving Throw or become cursed for the duration of the spell.
 When you cast this spell, choose the nature of the curse from the following options:
 - Choose one ability score.
-	While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-- While cursed, the target has disadvantage on attack rolls against you.
+	While cursed, the target has disadvantage on Ability Checks and Saving Throws made with that ability score.
+- While cursed, the target has disadvantage on Attack Rolls against you.
 - While cursed, the target must make a Wisdom Saving Throw at the start of each of its turns.
 	If it fails, it wastes its action that turn doing nothing.
 - While the target is cursed, your attacks and spells deal an extra `1d8` necrotic damage to the target.

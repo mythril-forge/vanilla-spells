@@ -16,7 +16,7 @@
 
 ## Description
 Until the spell ends, wind whirls around you, and you gain the following benefits:
-- Ranged Weapon Attacks made against you have disadvantage on the attack roll.
+- Ranged Weapon Attacks made against you have disadvantage on the Attack Roll.
 - You gain a flying speed of 60 feet.
 	If you are still flying when the spell ends, you fall, unless you can somehow prevent it.
 - You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you.

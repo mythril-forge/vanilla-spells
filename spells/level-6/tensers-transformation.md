@@ -21,7 +21,7 @@ You endow yourself with endurance and martial prowess fueled by magic.
 Until the spell ends, you can't cast spells, and you gain the following benefits:
 - You gain 50 temporary hit points.
 	If any of these remain when the spell ends, they are lost.
-- You have advantage on attack rolls that you make with simple and martial weapons.
+- You have advantage on Attack Rolls that you make with simple and martial weapons.
 - When you hit a target with a Weapon Attack, that target takes an extra `2d12` force damage.
 - You have proficiency with all armor, shields, simple weapons, and martial weapons.
 - You have proficiency in Strength and Constitution Saving Throws.

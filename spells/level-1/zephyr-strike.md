@@ -16,7 +16,7 @@
 
 ## Description
 You move like the wind.
-Until the spell ends, your movement doesn't provoke opportunity attacks.
+Until the spell ends, your movement doesn't provoke Opportunity Attacks.
 
 Once before the spell ends, you can give yourself advantage on one Weapon Attack roll on your turn.
 That attack deals an extra `1d8` force damage on a hit.

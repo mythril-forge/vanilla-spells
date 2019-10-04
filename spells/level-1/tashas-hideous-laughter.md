@@ -22,7 +22,7 @@ The target must succeed on a Wisdom Saving Throw or fall **prone**, becoming **i
 A creature with an Intelligence score of 4 or less isn't affected.
 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom Saving Throw.
-The target has advantage on the saving throw if it's triggered by damage.
+The target has advantage on the Saving Throw if it's triggered by damage.
 On a success, the spell ends.
 
 ---

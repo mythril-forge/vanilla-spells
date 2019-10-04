@@ -26,7 +26,7 @@ The sphere's space is difficult terrain.
 
 Until the spell ends, you can use a bonus action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center.
 Make a Ranged Spell Attack.
-You have advantage on the attack roll if the target is in the sphere.
+You have advantage on the Attack Roll if the target is in the sphere.
 On a hit, the target takes `4d6` lightning damage.
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) Checks made to listen.

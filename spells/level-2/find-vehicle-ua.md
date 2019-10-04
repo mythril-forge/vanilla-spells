@@ -21,7 +21,7 @@ The physical characteristics of the vehicle reflect its origin to some degree.
 For example, a fiendish SUV might be jet black in color, with tinted windows and a sinister-looking front grille.
 
 You have a supernatural bond with the conjured vehicle that allows you to drive beyond your normal ability.
-While driving the conjured vehicle, you are considered proficient with vehicles of its type, and you add double your proficiency bonus to ability checks related to driving the vehicle.
+While driving the conjured vehicle, you are considered proficient with vehicles of its type, and you add double your proficiency bonus to Ability Checks related to driving the vehicle.
 While driving the vehicle, you can make any spell you cast that targets only you also target the vehicle.
 
 If the vehicle drops to 0 hit points, it disappears, leaving behind no physical form.

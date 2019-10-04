@@ -18,7 +18,7 @@
 
 ## Description
 Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane.
-For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
+For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on Attack Rolls against you.
 
 You can end the spell early by using either of the following special functions.
 

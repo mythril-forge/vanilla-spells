@@ -28,7 +28,7 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts.
 If the creature is lacking body parts or organs integral for its survival&mdash;its head, for instance&mdash;the spell automatically fails.
 
 Coming back from the dead is an ordeal.
-The target takes a −4 penalty to all attack rolls, saving throws, and ability checks.
+The target takes a −4 penalty to all Attack Rolls, Saving Throws, and Ability Checks.
 Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
 ---

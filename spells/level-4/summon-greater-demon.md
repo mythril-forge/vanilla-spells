@@ -26,7 +26,7 @@ When you summon it and on each of your turns thereafter, you can issue a verbal 
 If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
 At the end of each of the demon's turns, it makes a Charisma Saving Throw.
-The demon has disadvantage on this saving throw if you say its true name.
+The demon has disadvantage on this Saving Throw if you say its true name.
 On a failed save, the demon continues to obey you.
 On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability.
 If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for `1d6` rounds if it still has hit points.

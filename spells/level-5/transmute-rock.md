@@ -28,7 +28,7 @@ Nonmagical rock of any sort in the area becomes an equal volume of thick, flowin
 
 The ground in the spell's area becomes muddy enough that creatures can sink into it.
 Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength Saving Throw.
-A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there.
+A creature must also make the Saving Throw when it moves into the area for the first time on a turn or ends its turn there.
 On a failed save, a creature sinks into the mud and is **restrained**, though it can use an action to end the **restrained** condition on itself by pulling itself free of the mud.
 
 If you cast the spell on a ceiling, the mud falls.

@@ -32,7 +32,7 @@ The creature has disadvantage on Wisdom Checks and Wisdom Saving Throws and is *
 
 ### Filth Fever
 A raging fever sweeps through the creature's body.
-The creature has disadvantage on Strength Checks, Strength Saving Throws, and attack rolls that use Strength.
+The creature has disadvantage on Strength Checks, Strength Saving Throws, and Attack Rolls that use Strength.
 
 ### Flesh Rot
 The creature's flesh decays.
@@ -44,7 +44,7 @@ The creature has disadvantage on Intelligence Checks and Intelligence Saving Thr
 
 ### Seizure
 The creature is overcome with shaking.
-The creature has disadvantage on Dexterity Checks, Dexterity Saving Throws, and attack rolls that use Dexterity.
+The creature has disadvantage on Dexterity Checks, Dexterity Saving Throws, and Attack Rolls that use Dexterity.
 
 ### Slimy Doom
 The creature begins to bleed uncontrollably.

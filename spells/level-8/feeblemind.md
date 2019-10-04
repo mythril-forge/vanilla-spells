@@ -24,8 +24,8 @@ On a failed save, the creature's Intelligence and Charisma scores become 1.
 The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way.
 The creature can, however, identify its friends, follow them, and even protect them.
 
-At the end of every 30 days, the creature can repeat its saving throw against this spell.
-If it succeeds on its saving throw, the spell ends.
+At the end of every 30 days, the creature can repeat its Saving Throw against this spell.
+If it succeeds on its Saving Throw, the spell ends.
 
 The spell can also be ended by [*greater restoration*](./greater-restoration), [*heal*](./heal), or [*wish*](./wish).
 

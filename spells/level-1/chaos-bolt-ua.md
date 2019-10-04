@@ -33,7 +33,7 @@ The number it rolled determines the type of damage, as shown below.
 | 8    | Thunder     |
 
 If you roll the same number on both `d8`s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it.
-Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+Make a new Attack Roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
 A creature can be targeted only once by this mass of chaotic energy.
 
 ## At Higher Levels

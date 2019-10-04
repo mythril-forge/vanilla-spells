@@ -44,7 +44,7 @@ Each target must make a Constitution Saving Throw, taking `10d10` necrotic damag
 ### Discord
 Each target must make a Constitution Saving Throw.
 On a failed save, a target bickers and argues with other creatures for 1 minute.
-During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.
+During this time, it is incapable of meaningful communication and has disadvantage on Attack Rolls and Ability Checks.
 
 ### Fear
 Each target must make a Wisdom Saving Throw and becomes **frightened** for 1 minute on a failed save.

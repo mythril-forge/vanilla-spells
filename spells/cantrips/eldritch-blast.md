@@ -21,7 +21,7 @@ On a hit, the target takes `1d10` force damage.
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level.
 You can direct the beams at the same target or at different ones.
-Make a separate attack roll for each beam.
+Make a separate Attack Roll for each beam.
 
 ---
 
