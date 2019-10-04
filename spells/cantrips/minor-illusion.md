@@ -28,7 +28,7 @@ If you create an image of an object&mdash;such as a chair, muddy footprints, or 
 The image can't create sound, light, smell, or any other sensory effect.
 Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC.
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) Check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
 ---

@@ -29,7 +29,7 @@ On a successful save, it takes half as much damage.
 If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square.
 This ice lasts for 1 minute.
 Creatures that were swimming on the surface of frozen water are trapped in the ice.
-A trapped creature can use an action to make a Strength check against your spell save DC to break free.
+A trapped creature can use an action to make a Strength Check against your Spell Save DC to break free.
 
 You can refrain from firing the globe after completing the spell, if you wish.
 A small globe about the size of a sling stone, cool to the touch, appears in your hand.

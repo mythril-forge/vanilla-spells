@@ -28,11 +28,11 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ### Blinding Sickness
 Pain grips the creature's mind, and its eyes turn milky white.
-The creature has disadvantage on Wisdom checks and Wisdom Saving Throws and is **blinded**.
+The creature has disadvantage on Wisdom Checks and Wisdom Saving Throws and is **blinded**.
 
 ### Filth Fever
 A raging fever sweeps through the creature's body.
-The creature has disadvantage on Strength checks, Strength Saving Throws, and attack rolls that use Strength.
+The creature has disadvantage on Strength Checks, Strength Saving Throws, and attack rolls that use Strength.
 
 ### Flesh Rot
 The creature's flesh decays.
@@ -40,15 +40,15 @@ The creature has disadvantage on Charisma checks and vulnerability to all damage
 
 ### Mindfire
 The creature's mind becomes feverish.
-The creature has disadvantage on Intelligence checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the [*confusion*](./confusion) spell during combat.
+The creature has disadvantage on Intelligence Checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the [*confusion*](./confusion) spell during combat.
 
 ### Seizure
 The creature is overcome with shaking.
-The creature has disadvantage on Dexterity checks, Dexterity Saving Throws, and attack rolls that use Dexterity.
+The creature has disadvantage on Dexterity Checks, Dexterity Saving Throws, and attack rolls that use Dexterity.
 
 ### Slimy Doom
 The creature begins to bleed uncontrollably.
-The creature has disadvantage on Constitution checks and Constitution Saving Throws.
+The creature has disadvantage on Constitution Checks and Constitution Saving Throws.
 In addition, whenever the creature takes damage, it is **stunned** until the end of its next turn.
 
 ---

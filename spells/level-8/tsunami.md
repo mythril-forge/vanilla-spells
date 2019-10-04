@@ -37,7 +37,7 @@ At the end of the turn, the wall's height is reduced by 50 feet, and the damage 
 When the wall reaches 0 feet in height, the spell ends.
 
 A creature caught in the wall can move by swimming.
-Because of the force of the wave, though, the creature must make a successful Strength (Athletics) check against your spell save DC in order to move at all.
+Because of the force of the wave, though, the creature must make a successful Strength (Athletics) Check against your Spell Save DC in order to move at all.
 If it fails the check, it can't move.
 A creature that moves out of the area falls to the ground.
 

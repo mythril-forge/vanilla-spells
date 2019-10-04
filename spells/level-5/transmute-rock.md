@@ -40,7 +40,7 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 Any creature in the mud when it transforms must make a Dexterity Saving Throw.
 On a successful save, a creature is shunted safely to the surface in an unoccupied space.
 On a failed save, a creature becomes **restrained** by the rock.
-A **restrained** creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it.
+A **restrained** creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength Check or by dealing damage to it.
 The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
 
 ---

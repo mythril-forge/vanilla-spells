@@ -21,7 +21,7 @@ You perform one of several religious ceremonies.
 When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
 
 ### Atonement
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) Check.
 On a success, you restore the target to its original alignment.
 
 ### Bless Water

@@ -46,7 +46,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends.
 If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures.
 A creature within half the distance of a structure's height must make a Dexterity Saving Throw.
-On a failed save, the creature takes `5d6` bludgeoning damage, is knocked **prone**, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape.
+On a failed save, the creature takes `5d6` bludgeoning damage, is knocked **prone**, and is buried in the rubble, requiring a DC 20 Strength (Athletics) Check as an action to escape.
 The DM can adjust the DC higher or lower, depending on the nature of the rubble.
 On a successful save, the creature takes half as much damage and doesn't fall **prone** or become buried.
 

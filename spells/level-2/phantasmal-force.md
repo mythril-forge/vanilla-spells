@@ -24,7 +24,7 @@ This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
 
-The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) Check against your Spell Save DC.
 If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
 While a target is affected by the spell, the target treats the phantasm as if it were real.

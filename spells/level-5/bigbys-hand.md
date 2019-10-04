@@ -34,7 +34,7 @@ On a hit, the target takes `4d8` force damage.
 
 ### Forceful Hand
 The hand attempts to push a creature within 5 feet of it in a direction you choose.
-Make a check with the hand's Strength contested by the Strength (Athletics) check of the target.
+Make a check with the hand's Strength contested by the Strength (Athletics) Check of the target.
 If the target is *medium* or smaller, you have advantage on the check.
 If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier.
 The hand moves with the target to remain within 5 feet of it.

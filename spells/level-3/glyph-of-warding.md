@@ -26,7 +26,7 @@ You inscribe it either on a surface (such as a table or a section of floor or wa
 The glyph can cover an area no larger than 10 feet in diameter.
 If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+The glyph is nearly invisible and requires a successful Intelligence (Investigation) Check against your Spell Save DC to be found.
 
 You decide what triggers the glyph when you cast the spell.
 For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed.
