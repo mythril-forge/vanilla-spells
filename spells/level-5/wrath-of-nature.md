@@ -35,7 +35,7 @@ A **restrained** creature can use an action to make a Strength (Athletics) Check
 
 ### Rocks
 As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube.
-Make a ranged spell attack against the target.
+Make a Ranged Spell Attack against the target.
 On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength Saving Throw or fall **prone**.
 
 ---

@@ -16,7 +16,7 @@
 
 ## Description
 You hurl an undulating, warbling mass of chaotic energy at one creature in range.
-Make a ranged spell attack against the target.
+Make a Ranged Spell Attack against the target.
 On a hit, the target takes `2d8` damage.
 Choose one of the `d8`s.
 The number it rolled determines the type of damage, as shown below.

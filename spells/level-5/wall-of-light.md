@@ -40,7 +40,7 @@ A **blinded** creature can make a Constitution Saving Throw at the end of each o
 A creature that ends its turn in the wall's area takes `4d8` radiant damage.
 
 Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 60 feet of it.
-Make a ranged spell attack.
+Make a Ranged Spell Attack.
 On a hit, the target takes `4d8` radiant damage.
 Whether you hit or miss, reduce the length of the wall by 10 feet.
 If the wall's length drops to 0 feet, the spell ends.

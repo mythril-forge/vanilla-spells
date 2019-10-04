@@ -15,7 +15,7 @@
 ---
 
 ## Description
-The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength Saving Throw or be **restrained** by the magical vines until the spell ends.
+The next time you hit a creature with a Weapon Attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength Saving Throw or be **restrained** by the magical vines until the spell ends.
 A *large* or larger creature has advantage on this saving throw.
 If the target succeeds on the save, the vines shrivel away.
 

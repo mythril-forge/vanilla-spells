@@ -24,7 +24,7 @@ Bestial fur covers your body, your facial features become feral, and you gain th
 - Your walking speed increases by 10 feet.
 - You gain darkvision with a range of 120 feet.
 - You make Strength-based attack rolls with advantage.
-- Your melee weapon attacks deal an extra `1d6` force damage on a hit.
+- Your Melee Weapon Attacks deal an extra `1d6` force damage on a hit.
 
 ### Great Tree
 Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:

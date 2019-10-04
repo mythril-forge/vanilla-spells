@@ -18,7 +18,7 @@
 
 ## Description
 You create a shard of ice and fling it at one creature within range.
-Make a ranged spell attack against the target.
+Make a Ranged Spell Attack against the target.
 On a hit, the target takes `1d10` piercing damage.
 Hit or miss, the shard then explodes.
 The target and each creature within 5 feet of it must succeed on a Dexterity Saving Throw or take `2d6` cold damage.

@@ -28,7 +28,7 @@ Do away with the drudgery of your grandfather's magic with this improved version
 
 You create three twisting, whistling, hypoallergenic, gluten-free darts of magical force.
 Each dart targets a creature of your choice that you can see within range.
-Make a ranged spell attack for each missile.
+Make a Ranged Spell Attack for each missile.
 On a hit, a missile deals `2d4` force damage to its target.
 
 If the attack roll scores a critical hit, the target of that missile takes `5d4` force damage instead of you rolling damage twice for a critical hit.

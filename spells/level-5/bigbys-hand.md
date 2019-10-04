@@ -29,7 +29,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 ### Clenched Fist
 The hand strikes one creature or object within 5 feet of it.
-Make a melee spell attack for the hand using your game statistics.
+Make a Melee Spell Attack for the hand using your game statistics.
 On a hit, the target takes `4d8` force damage.
 
 ### Forceful Hand

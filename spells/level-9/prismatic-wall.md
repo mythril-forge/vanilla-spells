@@ -42,12 +42,12 @@ An antimagic field has no effect on a prismatic wall.
 
 ### Red
 The creature takes `10d6` fire damage on a failed save, or half as much damage on a successful one.
-While this layer is in place, nonmagical ranged attacks can't pass through the wall.
+While this layer is in place, nonmagical Ranged Attacks can't pass through the wall.
 The layer can be destroyed by dealing at least 25 cold damage to it.
 
 ### Orange
 The creature takes `10d6` acid damage on a failed save, or half as much damage on a successful one.
-While this layer is in place, magical ranged attacks can't pass through the wall.
+While this layer is in place, magical Ranged Attacks can't pass through the wall.
 The layer is destroyed by a strong wind.
 
 ### Yellow

@@ -16,7 +16,7 @@
 
 ## Description
 Your touch inflicts disease.
-Make a melee spell attack against a creature within your reach.
+Make a Melee Spell Attack against a creature within your reach.
 On a hit, the target is **poisoned**.
 
 At the end of each of the **poisoned** target's turns, the target must make a Constitution Saving Throw.

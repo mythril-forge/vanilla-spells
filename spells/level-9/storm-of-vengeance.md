@@ -46,7 +46,7 @@ Each creature under the cloud takes `2d6` bludgeoning damage.
 Gusts and freezing rain assail the area under the cloud.
 The area becomes difficult terrain and is heavily obscured.
 Each creature there takes `1d6` cold damage.
-Ranged weapon attacks in the area are impossible.
+Ranged Weapon Attacks in the area are impossible.
 The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells.
 Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 

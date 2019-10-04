@@ -22,7 +22,7 @@ On a successful save, the target takes `5d10` psychic damage, and the spell ends
 On a failed save, the target takes `5d10` psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way.
 You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth.
 Whatever form the illusion takes, the target can't see or hear anything beyond it and is **restrained** for the spell's duration.
-If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes `10d10` psychic damage, and the spell ends.
+If the target is moved out of the illusion, makes a Melee Attack through it, or reaches any part of its body through it, the target takes `10d10` psychic damage, and the spell ends.
 
 ---
 

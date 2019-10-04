@@ -15,7 +15,7 @@
 ---
 
 ## Description
-The next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra `1d6` fire damage to the target and causes the target to ignite in flames.
+The next time you hit a creature with a Melee Weapon Attack during the spell's duration, your weapon flares with white-hot intensity, and the attack deals an extra `1d6` fire damage to the target and causes the target to ignite in flames.
 At the start of each of its turns until the spell ends, the target must make a Constitution Saving Throw.
 On a failed save, it takes `1d6` fire damage.
 On a successful save, the spell ends.
