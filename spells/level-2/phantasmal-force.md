@@ -40,8 +40,4 @@ The target perceives the damage as a type appropriate to the illusion.
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** archfey warlock, great old one warlock
-
 **Sources:** PHB, page 264

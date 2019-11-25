@@ -43,6 +43,4 @@ A creature that moves out of the area falls to the ground.
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 284

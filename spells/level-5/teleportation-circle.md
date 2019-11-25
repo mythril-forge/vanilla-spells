@@ -32,8 +32,4 @@ You need not use the circle to teleport when you cast the spell in this way.
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** arcana cleric, horizon walker (ua) ranger, horizon walker ranger, horizon walker (ua) ranger (revised), horizon walker ranger (revised)
-
 **Sources:** PHB, page 282

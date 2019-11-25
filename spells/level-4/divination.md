@@ -29,8 +29,4 @@ The DM makes this roll in secret.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** land druid, land druid
-
 **Sources:** PHB, page 234

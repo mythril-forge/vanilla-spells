@@ -42,8 +42,4 @@ When you use a 9th-level spell slot, the duration is a year and a day.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** order cleric
-
 **Sources:** PHB, page 258

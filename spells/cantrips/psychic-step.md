@@ -20,6 +20,4 @@ If you end your turn on such a surface, you immediately fall.
 
 ---
 
-**Classes:** psion
-
 **Sources:** STREAM

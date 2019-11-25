@@ -55,6 +55,4 @@ The creature's statistics become those of the object, and the creature has no me
 
 ---
 
-**Classes:** bard, warlock, wizard
-
 **Sources:** PHB, page 283

@@ -34,6 +34,4 @@ At the end of the duration, affected objects and creatures fall back down.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** PHB, page 272

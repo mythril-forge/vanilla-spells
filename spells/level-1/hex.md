@@ -32,10 +32,4 @@ When you use a spell slot of 5th level or higher, you can maintain your concentr
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** darkness (twitter) cleric
-
-**Subraces:** elf (zendikar) (mul daya nation)
-
 **Sources:** PHB, page 251

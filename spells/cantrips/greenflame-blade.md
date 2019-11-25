@@ -27,6 +27,4 @@ Both damage rolls increase by `1d8` at 11th level and 17th level.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** SCAG, page 143

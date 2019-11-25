@@ -29,8 +29,4 @@ The DM makes this roll in secret.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** devotion paladin, raven queen (ua) warlock, order (ua) cleric, order cleric
-
 **Sources:** PHB, page 223

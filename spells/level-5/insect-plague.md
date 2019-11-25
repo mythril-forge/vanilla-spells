@@ -35,8 +35,4 @@ When you cast this spell using a spell slot of 6th level or higher, the damage i
 
 ---
 
-**Classes:** cleric, druid, sorcerer
-
-**Subclasses:** nature cleric, tempest cleric, land druid, land druid, land druid, land druid, conquest (ua) paladin, strength (psa) cleric, primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised)
-
 **Sources:** PHB, page 254

@@ -35,6 +35,4 @@ When you cast this spell with a 9th-level spell slot, the duration is concentrat
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 235

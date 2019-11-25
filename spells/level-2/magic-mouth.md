@@ -31,6 +31,4 @@ For example, you could instruct the mouth to speak when any creature moves withi
 
 ---
 
-**Classes:** bard, wizard, artificer (revisited)
-
 **Sources:** PHB, page 257

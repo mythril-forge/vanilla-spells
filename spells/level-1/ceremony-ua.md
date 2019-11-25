@@ -55,6 +55,4 @@ A creature can benefit from this ceremony just once.
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** UA-SS, page 2

@@ -30,8 +30,4 @@ For example, you could determine the location of powerful undead in the area, th
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city (ua) cleric
-
 **Sources:** UA-MM, page 5

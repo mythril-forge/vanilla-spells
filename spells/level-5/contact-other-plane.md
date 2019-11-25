@@ -29,6 +29,4 @@ If a one-word answer would be misleading, the DM might instead offer a short phr
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** PHB, page 226

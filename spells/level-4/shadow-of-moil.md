@@ -25,6 +25,4 @@ In addition, whenever a creature within 10 feet of you hits you with an attack, 
 
 ---
 
-**Classes:** warlock
-
 **Sources:** XGE, page 164

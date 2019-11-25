@@ -25,6 +25,4 @@ Until the spell ends, bits of rock spread across your body, and you gain the fol
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 159

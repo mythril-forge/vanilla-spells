@@ -23,10 +23,4 @@ The spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th lev
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** giant soul (ua) sorcerer
-
-**Subraces:** tiefling (levistus), tiefling (levistus)
-
 **Sources:** PHB, page 271

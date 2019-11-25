@@ -31,8 +31,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** druid
-
-**Subraces:** tiefling (mephistopheles)
-
 **Sources:** PHB, page 242

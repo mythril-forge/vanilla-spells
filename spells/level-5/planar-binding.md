@@ -34,8 +34,4 @@ When you cast this spell using a spell slot of a higher level, the duration incr
 
 ---
 
-**Classes:** bard, cleric, druid, wizard
-
-**Subclasses:** arcana cleric, monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised)
-
 **Sources:** PHB, page 265

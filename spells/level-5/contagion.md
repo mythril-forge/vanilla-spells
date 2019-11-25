@@ -53,8 +53,4 @@ In addition, whenever the creature takes damage, it is **stunned** until the end
 
 ---
 
-**Classes:** cleric, druid
-
-**Subclasses:** oathbreaker paladin, undying warlock, darkness (twitter) cleric, spores druid, spores (ua) druid
-
 **Sources:** PHB, page 227

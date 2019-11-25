@@ -29,10 +29,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ---
 
-**Classes:** bard, druid, ranger
-
-**Subclasses:** nature cleric
-
-**Races:** yuan-ti pureblood
-
 **Sources:** PHB, page 212

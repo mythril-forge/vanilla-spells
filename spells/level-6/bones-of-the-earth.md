@@ -36,6 +36,4 @@ When you cast this spell using a spell slot of 7th level or higher, you can crea
 
 ---
 
-**Classes:** druid
-
 **Sources:** XGE, page 150

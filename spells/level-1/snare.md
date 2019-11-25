@@ -34,6 +34,4 @@ After the trap is triggered, the spell ends when no creature is **restrained** b
 
 ---
 
-**Classes:** druid, ranger, wizard, artificer (revisited)
-
 **Sources:** XGE, page 165

@@ -28,6 +28,4 @@ A creature that enters the area or ends its turn there must also succeed on a De
 
 ---
 
-**Classes:** wizard, artificer (revisited)
-
 **Sources:** PHB, page 246

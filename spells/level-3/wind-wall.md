@@ -41,8 +41,4 @@ Arrows, bolts, and other ordinary projectiles launched at targets behind the wal
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, artillerist artificer (revisited)
-
 **Sources:** PHB, page 288

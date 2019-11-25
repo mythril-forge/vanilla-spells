@@ -35,6 +35,4 @@ If it succeeds, the effect ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 238

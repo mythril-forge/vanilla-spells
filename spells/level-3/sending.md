@@ -25,8 +25,4 @@ You can send the message across any distance and even to other planes of existen
 
 ---
 
-**Classes:** bard, cleric, wizard
-
-**Subclasses:** great old one warlock, seeker (ua) warlock, aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 274

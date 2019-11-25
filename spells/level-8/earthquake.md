@@ -52,6 +52,4 @@ On a successful save, the creature takes half as much damage and doesn't fall **
 
 ---
 
-**Classes:** cleric, druid, sorcerer
-
 **Sources:** PHB, page 236

@@ -41,6 +41,4 @@ The moved earth carries any plants along with it.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** PHB, page 263

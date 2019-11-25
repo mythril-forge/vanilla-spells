@@ -25,6 +25,4 @@ While the link is active, the beast gains advantage on Attack Rolls against any 
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** XGE, page 150

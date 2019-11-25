@@ -29,6 +29,4 @@ When the **charmed** condition ends, the awakened creature chooses whether to re
 
 ---
 
-**Classes:** bard, druid
-
 **Sources:** PHB, page 216

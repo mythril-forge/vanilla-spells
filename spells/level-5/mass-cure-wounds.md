@@ -31,8 +31,4 @@ When you cast this spell using a spell slot of 6th level or higher, the healing 
 
 ---
 
-**Classes:** bard, cleric, druid
-
-**Subclasses:** life cleric, solidarity (psa) cleric, battle smith artificer (revisited)
-
 **Sources:** PHB, page 258

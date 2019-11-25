@@ -34,8 +34,4 @@ When you cast this spell using a spell slot of 5th level or higher, the bludgeon
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, land druid, ancients paladin, raven queen (ua) warlock, destruction (twitter) cleric, artillerist artificer (revisited)
-
 **Sources:** PHB, page 252

@@ -25,6 +25,4 @@ While you are traveling there, whenever you are presented with a choice of paths
 
 ---
 
-**Classes:** bard, cleric, druid
-
 **Sources:** PHB, page 240

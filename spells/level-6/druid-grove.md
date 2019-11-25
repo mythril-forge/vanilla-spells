@@ -64,6 +64,4 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 ---
 
-**Classes:** druid
-
 **Sources:** XGE, page 154

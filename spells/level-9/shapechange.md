@@ -46,6 +46,4 @@ During this spell's duration, you can use your action to assume a different form
 
 ---
 
-**Classes:** druid, wizard
-
 **Sources:** PHB, page 274

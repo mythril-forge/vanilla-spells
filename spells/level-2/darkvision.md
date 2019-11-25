@@ -22,6 +22,4 @@ For the duration, that creature has darkvision out to a range of 60 feet.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 230

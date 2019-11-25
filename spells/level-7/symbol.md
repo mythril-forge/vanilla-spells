@@ -73,6 +73,4 @@ Each target must make a Wisdom Saving Throw and becomes **stunned** for 1 minute
 
 ---
 
-**Classes:** bard, cleric, wizard
-
 **Sources:** PHB, page 280

@@ -24,8 +24,4 @@ The spell ends if you cast it again or if you let go of the weapon.
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** giant soul (ua) sorcerer
-
 **Sources:** PHB, page 275

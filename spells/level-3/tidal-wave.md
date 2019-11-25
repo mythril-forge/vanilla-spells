@@ -34,6 +34,4 @@ The water then spreads out across the ground in all directions, extinguishing un
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 168

@@ -32,6 +32,4 @@ The summoned shadow demon cannot cross the circle or target anyone in it while t
 
 ---
 
-**Classes:** wizard, sorcerer
-
 **Sources:** UA-TOBM, page 3

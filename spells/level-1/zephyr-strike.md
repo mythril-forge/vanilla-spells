@@ -24,6 +24,4 @@ Whether you hit or miss, your walking speed increases by 30 feet until the end o
 
 ---
 
-**Classes:** ranger
-
 **Sources:** XGE, page 171

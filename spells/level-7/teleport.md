@@ -65,6 +65,4 @@ Each teleporting creature (or the target object) takes `3d10` force damage, and 
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
 **Sources:** PHB, page 281

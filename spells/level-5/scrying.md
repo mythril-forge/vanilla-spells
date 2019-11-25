@@ -45,8 +45,4 @@ When you do, the sensor appears at that location and doesn't move.
 
 ---
 
-**Classes:** bard, cleric, druid, warlock, wizard
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, light cleric, land druid, land druid, vengeance paladin
-
 **Sources:** PHB, page 273

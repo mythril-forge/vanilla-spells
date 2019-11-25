@@ -21,8 +21,4 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ---
 
-**Classes:** cleric, paladin, artificer
-
-**Subclasses:** war cleric, strength (psa) cleric
-
 **Sources:** PHB, page 275

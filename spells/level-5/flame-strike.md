@@ -32,8 +32,4 @@ When you cast this spell using a spell slot of 6th level or higher, the fire dam
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** light cleric, war cleric, devotion paladin, fiend warlock, celestial (ua) warlock, undying light (ua) warlock, celestial warlock, zeal (psa) cleric
-
 **Sources:** PHB, page 242

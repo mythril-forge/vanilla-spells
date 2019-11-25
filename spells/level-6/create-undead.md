@@ -38,6 +38,4 @@ When you cast this spell using a 9th-level spell slot, you can animate or reasse
 
 ---
 
-**Classes:** cleric, warlock, wizard
-
 **Sources:** PHB, page 229

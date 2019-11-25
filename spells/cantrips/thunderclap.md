@@ -26,6 +26,4 @@ The spell's damage increases by `1d6` when you reach 5th level (`2d6`), 11th lev
 
 ---
 
-**Classes:** bard, druid, sorcerer, warlock, wizard, artificer (revisited)
-
 **Sources:** XGE, page 168

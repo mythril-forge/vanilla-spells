@@ -30,6 +30,4 @@ On a hit, it deals `4d8` piercing damage.
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 261

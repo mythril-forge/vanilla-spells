@@ -22,6 +22,4 @@ If the target isn't actually humanoid or it is immune to being **charmed**, you 
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** UA-SS, page 4

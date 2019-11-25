@@ -35,8 +35,4 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subraces:** genasi (water)
-
 **Sources:** XGE, page 164

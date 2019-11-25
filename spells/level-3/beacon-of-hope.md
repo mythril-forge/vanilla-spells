@@ -21,8 +21,4 @@ For the duration, each target has advantage on Wisdom Saving Throws and death Sa
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** life cleric, devotion paladin, solidarity (psa) cleric, beauty (twitter) cleric
-
 **Sources:** PHB, page 217

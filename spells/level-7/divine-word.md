@@ -28,6 +28,4 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 234

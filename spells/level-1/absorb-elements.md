@@ -24,6 +24,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the extra da
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer (revisited)
-
 **Sources:** XGE, page 150

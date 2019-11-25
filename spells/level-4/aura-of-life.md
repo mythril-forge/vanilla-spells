@@ -26,8 +26,4 @@ In addition, a nonhostile, living creature regains 1 hit point when it starts it
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** undying warlock, solidarity (psa) cleric
-
 **Sources:** PHB, page 216

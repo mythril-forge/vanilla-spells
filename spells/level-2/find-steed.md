@@ -34,6 +34,4 @@ As an action, you can release the steed from its bond at any time, causing it to
 
 ---
 
-**Classes:** paladin
-
 **Sources:** PHB, page 240

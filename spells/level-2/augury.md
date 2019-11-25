@@ -31,8 +31,4 @@ The DM makes this roll in secret.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, kraken (stream) warlock, ancestral guardian barbarian
-
 **Sources:** PHB, page 215

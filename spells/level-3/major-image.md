@@ -36,6 +36,4 @@ When you cast this spell using a spell slot of 6th level or higher, the spell la
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 258

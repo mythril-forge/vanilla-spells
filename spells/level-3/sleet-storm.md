@@ -34,8 +34,4 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, land druid, lurker in the deep (ua) warlock
-
 **Sources:** PHB, page 276

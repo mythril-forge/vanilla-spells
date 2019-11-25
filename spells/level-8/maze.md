@@ -26,6 +26,4 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 258

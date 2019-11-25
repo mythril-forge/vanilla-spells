@@ -25,8 +25,4 @@ When you use a spell slot of 5th level or higher, you can maintain your concentr
 
 ---
 
-**Classes:** ranger
-
-**Subclasses:** vengeance paladin
-
 **Sources:** PHB, page 251

@@ -33,6 +33,4 @@ If you cast this spell while your homunculus lives, the spell fails.
 
 ---
 
-**Classes:** wizard
-
 **Sources:** XGE, page 152

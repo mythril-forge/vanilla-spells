@@ -23,6 +23,4 @@ This spell's damage increases by `1d6` when you reach certain levels: 5th level 
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** UASorcererAndWarlock, page 4

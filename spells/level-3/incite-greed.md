@@ -27,6 +27,4 @@ If it succeeds, this effect ends for that target.
 
 ---
 
-**Classes:** cleric, wizard, warlock
-
 **Sources:** AI, page 76

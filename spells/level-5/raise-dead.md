@@ -33,8 +33,4 @@ Every time the target finishes a long rest, the penalty is reduced by 1 until it
 
 ---
 
-**Classes:** bard, cleric, paladin
-
-**Subclasses:** life cleric, grave (ua) cleric, grave cleric, alchemist artificer (revisited)
-
 **Sources:** PHB, page 270

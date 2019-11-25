@@ -37,6 +37,4 @@ When you cast this spell using an 8th-level spell slot, you can send the chest t
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** LLK, page 57

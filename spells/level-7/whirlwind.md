@@ -39,6 +39,4 @@ If successful, the creature is no longer **restrained** by the whirlwind and is 
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 171

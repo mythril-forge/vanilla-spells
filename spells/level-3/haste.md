@@ -25,8 +25,4 @@ When the spell ends, the target can't move or take actions until after its next 
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, vengeance paladin, treachery (ua) paladin, strength (psa) cleric, zeal (psa) cleric, horizon walker ranger, horizon walker ranger (revised)
-
 **Sources:** PHB, page 250

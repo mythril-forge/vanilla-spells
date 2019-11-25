@@ -37,8 +37,4 @@ When you cast this spell using a spell slot of 7th level or higher, you can conj
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city (ua) cleric
-
 **Sources:** UA-MM, page 6

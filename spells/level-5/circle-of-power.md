@@ -26,8 +26,4 @@ Additionally, when an affected creature succeeds on a Saving Throw made against 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** crown paladin, solidarity (psa) cleric
-
 **Sources:** PHB, page 221

@@ -25,8 +25,4 @@ When you use a spell slot of 7th level or higher, the bonus increases to +3 and 
 
 ---
 
-**Classes:** paladin, artificer (revisited)
-
-**Subclasses:** forge (ua) cleric, hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, stone (ua) sorcerer, forge cleric
-
 **Sources:** PHB, page 237

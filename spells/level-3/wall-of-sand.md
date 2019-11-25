@@ -32,6 +32,4 @@ A creature is **blinded** while in the wall's space and must spend 3 feet of mov
 
 ---
 
-**Classes:** wizard
-
 **Sources:** XGE, page 170

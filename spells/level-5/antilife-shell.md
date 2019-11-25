@@ -29,8 +29,4 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** death cleric, protection (ua) cleric, grave (ua) cleric, grave cleric
-
 **Sources:** PHB, page 213

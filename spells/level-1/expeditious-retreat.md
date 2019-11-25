@@ -20,8 +20,4 @@ When you cast this spell, and then as a bonus action on each of your turns until
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
-
-**Subclasses:** treachery (ua) paladin
-
 **Sources:** PHB, page 238

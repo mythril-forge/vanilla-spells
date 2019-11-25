@@ -30,6 +30,4 @@ These benefits last for 24 hours.
 
 ---
 
-**Classes:** cleric, druid
-
 **Sources:** PHB, page 250

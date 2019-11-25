@@ -34,6 +34,4 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 ---
 
-**Classes:** ranger, wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 211

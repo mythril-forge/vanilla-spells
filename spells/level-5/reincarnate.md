@@ -46,6 +46,4 @@ It retains the capabilities it had in its original form, except it exchanges its
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 271

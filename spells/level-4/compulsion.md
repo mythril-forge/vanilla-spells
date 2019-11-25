@@ -27,8 +27,4 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 ---
 
-**Classes:** bard
-
-**Subclasses:** order (ua) cleric, beauty (twitter) cleric, order cleric, aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 224

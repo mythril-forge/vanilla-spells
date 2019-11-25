@@ -24,6 +24,4 @@ If you attempt to cast the spell in this manner in an area that isn't dedicated 
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 289

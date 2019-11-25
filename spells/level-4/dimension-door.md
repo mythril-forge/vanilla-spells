@@ -27,8 +27,4 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** trickery cleric, vengeance paladin, ambition (psa) cleric, lolth (twitter) warlock
-
 **Sources:** PHB, page 233

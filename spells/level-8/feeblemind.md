@@ -31,6 +31,4 @@ The spell can also be ended by [*greater restoration*](./greater-restoration), [
 
 ---
 
-**Classes:** bard, druid, warlock, wizard
-
 **Sources:** PHB, page 239

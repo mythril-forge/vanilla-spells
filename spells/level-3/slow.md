@@ -39,8 +39,4 @@ On a successful save, the effect ends for it.
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, protection (ua) cleric, order (ua) cleric, order cleric
-
 **Sources:** PHB, page 277

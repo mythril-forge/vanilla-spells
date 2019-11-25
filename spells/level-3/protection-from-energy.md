@@ -19,8 +19,4 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 ---
 
-**Classes:** cleric, druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, ancients paladin, vengeance paladin, forge (ua) cleric, protection (ua) cleric, strength (psa) cleric, forge cleric, horizon walker (ua) ranger, horizon walker (ua) ranger (revised)
-
 **Sources:** PHB, page 270

@@ -37,10 +37,4 @@ Finally, the natural weapon is magic and you have a +1 bonus to the attack and d
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** horizon walker (ua) ranger, horizon walker (ua) ranger (revised)
-
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 211

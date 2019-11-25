@@ -20,8 +20,4 @@ Additionally, if the target is a creature, it must succeed on a Strength Saving 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** stone (ua) sorcerer, zeal (psa) cleric
-
 **Sources:** PHB, page 282

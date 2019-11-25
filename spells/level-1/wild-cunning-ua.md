@@ -27,6 +27,4 @@ When you cast this spell, choose one of the following effects:
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** UA-SS, page 5

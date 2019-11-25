@@ -23,8 +23,4 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric
-
 **Sources:** PHB, page 246

@@ -28,8 +28,4 @@ For example, if you transform a bee, its giant version might have the same stati
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised), lolth (twitter) warlock
-
 **Sources:** PHB, page 245

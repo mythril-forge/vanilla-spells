@@ -21,8 +21,4 @@ While the spell remains active, no electronic device within range can be started
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city (ua) cleric, ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 8

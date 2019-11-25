@@ -40,8 +40,4 @@ When you cast this spell using a spell slot of 4th level or higher, the duration
 
 ---
 
-**Classes:** cleric, paladin, warlock, wizard
-
-**Subclasses:** arcana cleric, monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised)
-
 **Sources:** PHB, page 256

@@ -20,8 +20,4 @@ Until the spell ends, your Weapon Attacks deal an extra `1d4` radiant damage on 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** war cleric, strength (psa) cleric
-
 **Sources:** PHB, page 234

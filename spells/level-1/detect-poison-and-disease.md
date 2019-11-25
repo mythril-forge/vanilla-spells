@@ -24,6 +24,4 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger
-
 **Sources:** PHB, page 231

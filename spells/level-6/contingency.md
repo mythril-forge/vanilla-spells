@@ -32,6 +32,4 @@ Also, contingency ends on you if its material component is ever not on your pers
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 227

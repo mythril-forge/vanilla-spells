@@ -28,10 +28,4 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer (revisited)
-
-**Subclasses:** arcane archer fighter
-
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 267

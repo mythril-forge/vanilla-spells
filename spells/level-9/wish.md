@@ -49,6 +49,4 @@ Finally, there is a 33 percent chance that you are unable to cast wish ever agai
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 288

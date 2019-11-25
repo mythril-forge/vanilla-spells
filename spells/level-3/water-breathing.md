@@ -24,8 +24,4 @@ Affected creatures also retain their normal mode of respiration.
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, kraken (stream) warlock
-
 **Sources:** PHB, page 287

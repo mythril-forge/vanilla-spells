@@ -20,10 +20,4 @@ Until the start of your next turn, you have a +5 bonus to AC, including against 
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** forge (ua) cleric, hexblade (ua) warlock, hexblade warlock, redemption (ua) paladin, artillerist artificer (revisited)
-
-**Subraces:** gith (githzerai), gith (githzerai)
-
 **Sources:** PHB, page 275

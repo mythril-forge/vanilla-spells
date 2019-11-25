@@ -23,10 +23,4 @@ A creature that receives this bonus leaves behind no tracks or other traces of i
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** trickery cleric, land druid
-
-**Subraces:** genasi (earth)
-
 **Sources:** PHB, page 264

@@ -25,8 +25,4 @@ When you cast this spell using a spell slot of 3rd level or higher, you can atte
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 5

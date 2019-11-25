@@ -32,6 +32,4 @@ When you cast this spell using a spell slot of 6th level or higher, you animate 
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 153

@@ -28,8 +28,4 @@ A creature that can see the sensor (such as a creature benefiting from [*see inv
 
 ---
 
-**Classes:** bard, cleric, sorcerer, wizard
-
-**Subclasses:** great old one warlock, seeker (ua) warlock, ancestral guardian barbarian
-
 **Sources:** PHB, page 222

@@ -20,6 +20,4 @@ This spell's damage increases by one die when you reach 5th level (`2d10`), 11th
 
 ---
 
-**Classes:** psion
-
 **Sources:** STREAM

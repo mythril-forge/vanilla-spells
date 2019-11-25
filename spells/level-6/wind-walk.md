@@ -30,6 +30,4 @@ If it can't land after 1 minute, the creature falls the remaining distance.
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 288

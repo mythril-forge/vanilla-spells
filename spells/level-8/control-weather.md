@@ -61,6 +61,4 @@ When changing the wind, you can change its direction.
 
 ---
 
-**Classes:** cleric, druid, wizard
-
 **Sources:** PHB, page 228

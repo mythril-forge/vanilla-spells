@@ -35,6 +35,4 @@ When you cast this spell using a spell slot of 7th level or higher, the challeng
 
 ---
 
-**Classes:** druid, warlock
-
 **Sources:** PHB, page 226

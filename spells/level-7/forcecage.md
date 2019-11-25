@@ -41,6 +41,4 @@ This spell can't be dispelled by [*dispel magic*](./dispel-magic).
 
 ---
 
-**Classes:** bard, warlock, wizard
-
 **Sources:** PHB, page 243

@@ -33,10 +33,4 @@ If a creature discerns the illusion for what it is, the illusion becomes faint t
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** giant soul (ua) sorcerer
-
-**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
-
 **Sources:** PHB, page 260

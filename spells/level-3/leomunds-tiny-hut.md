@@ -36,6 +36,4 @@ The dome is opaque from the outside, of any color you choose, but it is transpar
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 255

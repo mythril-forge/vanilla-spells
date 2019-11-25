@@ -41,8 +41,4 @@ The wall also extends into the Ethereal Plane, blocking ethereal travel through 
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** protection (ua) cleric, redemption (ua) paladin, redemption paladin, artillerist artificer (revisited)
-
 **Sources:** PHB, page 285

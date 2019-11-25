@@ -30,8 +30,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** life cleric, war cleric, raven queen (ua) warlock, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin
-
 **Sources:** PHB, page 278

@@ -47,3 +47,5 @@ Bullets can occasionally take on one or two words (one preferred):
 - water
 
 You might notice that a bulleted list of any kind is always led by a sentance ending in a colon (`:`).
+
+\*\*(Subclasses|Subraces|Races|Classes):\*\*.*?\n

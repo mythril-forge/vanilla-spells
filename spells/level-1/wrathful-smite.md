@@ -21,8 +21,4 @@ As an action, the creature can make a Wisdom Check against your Spell Save DC to
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, destruction (twitter) cleric
-
 **Sources:** PHB, page 289

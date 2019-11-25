@@ -81,6 +81,4 @@ If it fails that save, the creature is transported to another plane of the DM's 
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 267

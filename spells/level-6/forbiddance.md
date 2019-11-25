@@ -33,6 +33,4 @@ If you cast forbiddance every day for 30 days in the same location, the spell la
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 243

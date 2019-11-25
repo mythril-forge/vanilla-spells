@@ -19,6 +19,4 @@ Each sleeping creature you choose within range awakens, and then each **prone** 
 
 ---
 
-**Classes:** bard, ranger, sorcerer, wizard
-
 **Sources:** UA-SS, page 4

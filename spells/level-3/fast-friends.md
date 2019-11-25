@@ -32,6 +32,4 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ---
 
-**Classes:** bard, cleric, wizard
-
 **Sources:** AI, page 75

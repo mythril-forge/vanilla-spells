@@ -28,8 +28,4 @@ You also can't use it to create items that ordinarily require a high degree of c
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subclasses:** forge (ua) cleric, forge cleric
-
 **Sources:** PHB, page 239

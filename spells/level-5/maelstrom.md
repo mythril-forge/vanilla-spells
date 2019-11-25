@@ -27,6 +27,4 @@ Until the spell ends, that area is difficult terrain, and any creature that star
 
 ---
 
-**Classes:** druid
-
 **Sources:** XGE, page 160

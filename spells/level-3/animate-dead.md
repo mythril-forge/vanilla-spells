@@ -37,8 +37,4 @@ Each of the creatures must come from a different corpse or pile of bones.
 
 ---
 
-**Classes:** cleric, wizard
-
-**Subclasses:** death cleric, oathbreaker paladin, spores (ua) druid, spores druid
-
 **Sources:** PHB, page 212

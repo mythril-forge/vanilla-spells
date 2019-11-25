@@ -38,8 +38,4 @@ When a section is destroyed, the wall's water doesn't fill it.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Races:** triton
-
 **Sources:** XGE, page 170

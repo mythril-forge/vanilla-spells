@@ -30,6 +30,4 @@ When you cast this spell using a spell slot of 3rd level or higher, you conjure 
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** LLK, page 57

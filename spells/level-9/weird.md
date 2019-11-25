@@ -28,6 +28,4 @@ On a successful save, the spell ends for that creature.
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 288

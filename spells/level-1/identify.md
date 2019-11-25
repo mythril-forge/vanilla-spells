@@ -26,8 +26,4 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 ---
 
-**Classes:** bard, wizard, artificer (revisited)
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, forge cleric
-
 **Sources:** PHB, page 252

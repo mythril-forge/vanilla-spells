@@ -50,6 +50,4 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ---
 
-**Classes:** druid, wizard
-
 **Sources:** PHB, page 214

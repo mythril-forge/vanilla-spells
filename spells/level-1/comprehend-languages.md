@@ -25,8 +25,4 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** city (ua) cleric, archivist artificer (revisited)
-
 **Sources:** PHB, page 224

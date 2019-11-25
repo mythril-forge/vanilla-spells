@@ -22,6 +22,4 @@ In addition, the first time you make a Weapon Attack on your turn before the spe
 
 ---
 
-**Classes:** ranger
-
 **Sources:** UA-SS, page 5

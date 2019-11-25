@@ -41,8 +41,4 @@ If you cast this spell using a spell slot of 6th level or higher, you can alter 
 
 ---
 
-**Classes:** bard, wizard
-
-**Subclasses:** trickery cleric, ambition (psa) cleric, archivist artificer (revisited), aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 261

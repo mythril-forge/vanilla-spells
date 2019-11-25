@@ -45,6 +45,4 @@ The water then vanishes.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 170

@@ -32,8 +32,4 @@ Any creature that ends its turn in the area must succeed on a Dexterity Saving T
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 251

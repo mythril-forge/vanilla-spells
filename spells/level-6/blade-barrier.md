@@ -34,6 +34,4 @@ On a successful save, the creature takes half as much damage.
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 218

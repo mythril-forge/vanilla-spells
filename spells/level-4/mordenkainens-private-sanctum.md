@@ -37,6 +37,4 @@ Thus you could protect a cube that can be up to 200 feet on one side by using a 
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 262

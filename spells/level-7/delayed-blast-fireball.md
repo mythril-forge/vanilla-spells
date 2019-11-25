@@ -41,6 +41,4 @@ When you cast this spell using a spell slot of 8th level or higher, the base dam
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 230

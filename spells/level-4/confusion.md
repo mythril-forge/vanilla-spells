@@ -41,8 +41,4 @@ When you cast this spell using a spell slot of 5th level or higher, the radius o
 
 ---
 
-**Classes:** bard, druid, sorcerer, wizard
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, oathbreaker paladin, treachery (ua) paladin, spores (ua) druid, spores druid
-
 **Sources:** PHB, page 224

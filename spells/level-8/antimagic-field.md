@@ -62,6 +62,4 @@ Likewise, the spheres created by different [*antimagic field*](./antimagic-field
 
 ---
 
-**Classes:** cleric, wizard
-
 **Sources:** PHB, page 213

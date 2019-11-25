@@ -29,8 +29,4 @@ Thus, the corpse can't learn new information, doesn't comprehend anything that h
 
 ---
 
-**Classes:** bard, cleric
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, undying warlock, raven queen (ua) warlock
-
 **Sources:** PHB, page 277

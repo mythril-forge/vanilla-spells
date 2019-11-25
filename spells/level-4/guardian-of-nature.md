@@ -35,6 +35,4 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** XGE, page 157

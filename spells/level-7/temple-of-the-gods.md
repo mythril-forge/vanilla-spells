@@ -49,6 +49,4 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 ---
 
-**Classes:** cleric
-
 **Sources:** XGE, page 167

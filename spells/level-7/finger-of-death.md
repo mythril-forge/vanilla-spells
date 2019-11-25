@@ -23,6 +23,4 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** PHB, page 241

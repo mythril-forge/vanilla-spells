@@ -30,6 +30,4 @@ The target can make an Intelligence Saving Throw at the end of each of its turns
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 167

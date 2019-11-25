@@ -30,8 +30,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** darkness (twitter) cleric, aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 215

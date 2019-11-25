@@ -38,6 +38,4 @@ When you cast this spell using certain higher-level spell slots, you choose one 
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** PHB, page 226

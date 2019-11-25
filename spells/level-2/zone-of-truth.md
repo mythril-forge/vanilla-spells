@@ -29,8 +29,4 @@ Such creatures can be evasive in its answers as long as it remains within the bo
 
 ---
 
-**Classes:** bard, cleric, paladin
-
-**Subclasses:** devotion paladin, crown paladin, monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised), order cleric
-
 **Sources:** PHB, page 289

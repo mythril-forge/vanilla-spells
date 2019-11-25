@@ -29,6 +29,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the healing 
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** XGE, page 157

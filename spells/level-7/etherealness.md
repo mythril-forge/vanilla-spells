@@ -37,6 +37,4 @@ The creatures must be within 10 feet of you when you cast the spell.
 
 ---
 
-**Classes:** bard, cleric, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 238

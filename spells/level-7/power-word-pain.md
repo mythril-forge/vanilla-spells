@@ -29,6 +29,4 @@ On a successful save, the pain ends.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 163

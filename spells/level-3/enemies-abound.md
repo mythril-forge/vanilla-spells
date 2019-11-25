@@ -25,6 +25,4 @@ If an enemy provokes an Opportunity Attack from the affected creature, the creat
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 155

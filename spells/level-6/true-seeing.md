@@ -22,6 +22,4 @@ For the duration, the creature has truesight, notices secret doors hidden by mag
 
 ---
 
-**Classes:** bard, cleric, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 284

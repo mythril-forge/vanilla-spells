@@ -25,8 +25,4 @@ If the creature lands before the spell ends, it takes no falling damage and can 
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** seeker (ua) warlock
-
 **Sources:** PHB, page 239

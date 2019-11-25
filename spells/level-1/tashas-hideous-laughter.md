@@ -27,10 +27,4 @@ On a success, the spell ends.
 
 ---
 
-**Classes:** bard, wizard
-
-**Subclasses:** great old one warlock
-
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 280

@@ -26,6 +26,4 @@ When you cast this spell using a spell slot of 3rd level or higher, you can main
 
 ---
 
-**Classes:** artificer (revisited)
-
 **Sources:** UA-AR, page 10

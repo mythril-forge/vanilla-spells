@@ -26,6 +26,4 @@ If the target is moved out of the illusion, makes a Melee Attack through it, or 
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 161

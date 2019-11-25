@@ -36,6 +36,4 @@ When you cast this spell using a spell slot of 5th level or higher, the damage f
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** XGE, page 166

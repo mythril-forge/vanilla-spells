@@ -32,8 +32,4 @@ A creature who discerns the illusion for what it is, sees it as a vague image su
 
 ---
 
-**Classes:** bard, druid, warlock, wizard
-
-**Subclasses:** land druid
-
 **Sources:** PHB, page 249

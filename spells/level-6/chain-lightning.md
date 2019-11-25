@@ -31,6 +31,4 @@ When you cast this spell using a spell slot of 7th level or higher, one addition
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 221

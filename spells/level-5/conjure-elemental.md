@@ -39,8 +39,4 @@ When you cast this spell using a spell slot of 6th level or higher, the challeng
 
 ---
 
-**Classes:** druid, wizard
-
-**Subclasses:** land druid
-
 **Sources:** PHB, page 225

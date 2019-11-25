@@ -35,10 +35,4 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, kraken (stream) warlock, giant soul (ua) sorcerer, lurker in the deep (ua) warlock
-
-**Races:** triton
-
 **Sources:** PHB, page 248

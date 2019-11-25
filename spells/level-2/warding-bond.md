@@ -27,8 +27,4 @@ You can also dismiss the spell as an action.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** crown paladin, solidarity (psa) cleric, battle smith artificer (revisited)
-
 **Sources:** PHB, page 287

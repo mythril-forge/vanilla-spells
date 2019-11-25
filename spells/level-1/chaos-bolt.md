@@ -42,6 +42,4 @@ When you cast this spell using a spell slot of 2nd level or higher, each target 
 
 ---
 
-**Classes:** sorcerer
-
 **Sources:** XGE, page 151

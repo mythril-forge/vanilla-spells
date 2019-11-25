@@ -26,8 +26,4 @@ When you cast this spell using a spell slot of 4th level or higher, you automati
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, sorcerer, warlock, wizard, artificer (revisited)
-
-**Subclasses:** arcana cleric, trickery cleric, devotion paladin
-
 **Sources:** PHB, page 234

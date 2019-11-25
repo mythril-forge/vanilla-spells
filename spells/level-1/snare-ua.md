@@ -31,6 +31,4 @@ On a success, the **restrained** effect also ends.
 
 ---
 
-**Classes:** druid, ranger, wizard
-
 **Sources:** UA-SS, page 4

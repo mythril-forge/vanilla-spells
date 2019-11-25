@@ -26,6 +26,4 @@ The spell enables a creature with an Intelligence Score of at least 1 to underst
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 281

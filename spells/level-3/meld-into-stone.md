@@ -30,8 +30,4 @@ If expelled, you fall **prone** in an unoccupied space closest to where you firs
 
 ---
 
-**Classes:** cleric, druid
-
-**Subclasses:** land druid
-
 **Sources:** PHB, page 259

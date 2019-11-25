@@ -23,6 +23,4 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** bard
-
 **Sources:** PHB, page 266

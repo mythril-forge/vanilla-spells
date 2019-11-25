@@ -60,6 +60,4 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 248

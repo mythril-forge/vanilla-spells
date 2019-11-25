@@ -41,6 +41,4 @@ When the spell ends, any creatures inside the extradimensional space are expelle
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 261

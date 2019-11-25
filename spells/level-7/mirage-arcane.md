@@ -30,6 +30,4 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 ---
 
-**Classes:** bard, druid, wizard
-
 **Sources:** PHB, page 260

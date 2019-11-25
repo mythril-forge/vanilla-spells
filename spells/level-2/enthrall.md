@@ -22,10 +22,4 @@ The spell ends if you are **incapacitated** or can no longer speak.
 
 ---
 
-**Classes:** bard, warlock
-
-**Subclasses:** beauty (twitter) cleric
-
-**Subraces:** tiefling (variant)
-
 **Sources:** PHB, page 238

@@ -25,6 +25,4 @@ While distracted, a creature has disadvantage on Wisdom (Perception) Checks and 
 
 ---
 
-**Classes:** wizard
-
 **Sources:** AI, page 76

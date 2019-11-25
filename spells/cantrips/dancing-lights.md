@@ -26,8 +26,4 @@ A light must be within 20 feet of another light created by this spell, and a lig
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
-**Subraces:** elf (drow), half-elf (drow descent), tiefling (abyssal)
-
 **Sources:** PHB, page 230

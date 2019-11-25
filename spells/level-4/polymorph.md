@@ -38,8 +38,4 @@ The creature can't activate, use, wield, or otherwise benefit from any of its eq
 
 ---
 
-**Classes:** bard, druid, sorcerer, wizard
-
-**Subclasses:** trickery cleric
-
 **Sources:** PHB, page 266

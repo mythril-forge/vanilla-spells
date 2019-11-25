@@ -41,6 +41,4 @@ When you cast this spell using a spell slot of 5th level or higher, the challeng
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 166

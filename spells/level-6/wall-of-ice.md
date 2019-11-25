@@ -44,6 +44,4 @@ When you cast this spell using a spell slot of 7th level or higher, the damage t
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 285

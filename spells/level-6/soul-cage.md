@@ -45,6 +45,4 @@ A creature that can see the sensor (such as one using [*see invisibility*](./see
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 165

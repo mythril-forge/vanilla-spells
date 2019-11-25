@@ -42,6 +42,4 @@ When you cast this spell using a spell slot of 4th level or higher, the tower ca
 
 ---
 
-**Classes:** wizard
-
 **Sources:** LLK, page 57

@@ -25,8 +25,4 @@ When you cast this spell using a spell slot of 4th level or higher, the healing 
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** order (ua) cleric
-
 **Sources:** PHB, page 258

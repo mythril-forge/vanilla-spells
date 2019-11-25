@@ -28,8 +28,4 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, wizard
-
-**Subclasses:** land druid, city (ua) cleric, raven queen (ua) warlock, seeker (ua) warlock, order (ua) cleric, order cleric, archivist artificer (revisited)
-
 **Sources:** PHB, page 256

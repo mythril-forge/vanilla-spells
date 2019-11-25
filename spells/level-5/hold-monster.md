@@ -29,8 +29,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** war cleric, vengeance paladin, redemption (ua) paladin, redemption paladin, lolth (twitter) warlock, beauty (twitter) cleric
-
 **Sources:** PHB, page 251

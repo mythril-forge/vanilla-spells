@@ -50,6 +50,4 @@ When you cast this spell using a spell slot of 6th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 170

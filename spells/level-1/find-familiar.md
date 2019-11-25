@@ -47,6 +47,4 @@ If the spell requires an Attack Roll, you use your attack modifier for the roll.
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 240

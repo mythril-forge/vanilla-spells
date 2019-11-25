@@ -30,6 +30,4 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 235

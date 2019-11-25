@@ -51,8 +51,4 @@ Otherwise, the wall disappears when the spell ends.
 
 ---
 
-**Classes:** druid, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** land druid, land druid
-
 **Sources:** PHB, page 287

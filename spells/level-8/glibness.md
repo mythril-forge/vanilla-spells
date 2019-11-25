@@ -20,6 +20,4 @@ Additionally, no matter what you say, magic that would determine if you are tell
 
 ---
 
-**Classes:** bard, warlock
-
 **Sources:** PHB, page 245

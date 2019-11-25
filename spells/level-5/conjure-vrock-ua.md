@@ -38,6 +38,4 @@ The summoned vrock cannot cross the circle or target anyone in it while the spel
 
 ---
 
-**Classes:** wizard, sorcerer
-
 **Sources:** UA-TOBM, page 3

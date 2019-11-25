@@ -25,6 +25,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the maximum 
 
 ---
 
-**Classes:** bard, sorcerer, wizard, warlock
-
 **Sources:** AI, page 75

@@ -26,6 +26,4 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 
 ---
 
-**Classes:** druid, warlock, artificer (revisited)
-
 **Sources:** XGE, page 160

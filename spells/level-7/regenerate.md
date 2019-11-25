@@ -26,6 +26,4 @@ If you have the severed part and hold it to the stump, the spell instantaneously
 
 ---
 
-**Classes:** bard, cleric, druid
-
 **Sources:** PHB, page 271

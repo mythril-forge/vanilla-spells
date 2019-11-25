@@ -35,6 +35,4 @@ If you cast it using a spell slot of 8th or 9th level, you summon thirty-two dem
 
 ---
 
-**Classes:** wizard, sorcerer
-
 **Sources:** UA-TOBM, page 2

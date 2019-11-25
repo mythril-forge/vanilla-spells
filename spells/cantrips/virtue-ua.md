@@ -21,6 +21,4 @@ The temporary hit points are lost when the spell ends.
 
 ---
 
-**Classes:** cleric
-
 **Sources:** UA-SS, page 5

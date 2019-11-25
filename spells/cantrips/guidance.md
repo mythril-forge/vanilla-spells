@@ -22,6 +22,4 @@ The spell then ends.
 
 ---
 
-**Classes:** cleric, druid, artificer (revisited)
-
 **Sources:** PHB, page 248

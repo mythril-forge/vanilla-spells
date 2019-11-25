@@ -31,6 +31,4 @@ When you cast it using a spell slot of 7th level or higher, the damage increases
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 164

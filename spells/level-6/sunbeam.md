@@ -37,6 +37,4 @@ This light is sunlight.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** PHB, page 279

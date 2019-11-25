@@ -66,6 +66,4 @@ If you cast the spell again using the same component, the target of the first ca
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** PHB, page 252

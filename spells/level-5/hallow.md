@@ -65,8 +65,4 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** fiend warlock
-
 **Sources:** PHB, page 249

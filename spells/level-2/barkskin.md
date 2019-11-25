@@ -22,8 +22,4 @@ Until the spell ends, the target's skin has a rough, bark-like appearance, and t
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, land druid
-
 **Sources:** PHB, page 217

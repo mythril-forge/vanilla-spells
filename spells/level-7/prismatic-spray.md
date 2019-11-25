@@ -59,6 +59,4 @@ Roll twice more, rerolling any 8.
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 267

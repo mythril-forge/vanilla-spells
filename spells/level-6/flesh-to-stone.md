@@ -33,6 +33,4 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** PHB, page 243

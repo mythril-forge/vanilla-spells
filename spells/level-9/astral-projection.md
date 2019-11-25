@@ -45,6 +45,4 @@ If you are returned to your body prematurely, your companions remain in their as
 
 ---
 
-**Classes:** cleric, warlock, wizard
-
 **Sources:** PHB, page 215

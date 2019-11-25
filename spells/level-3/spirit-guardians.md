@@ -36,8 +36,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** war cleric, crown paladin
-
 **Sources:** PHB, page 278

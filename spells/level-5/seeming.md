@@ -34,8 +34,4 @@ If it succeeds, it becomes aware that the target is disguised.
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** archfey warlock, deep stalker (ua) ranger, gloom stalker ranger, deep stalker conclave ranger (revised), gloom stalker ranger (revised)
-
 **Sources:** PHB, page 274

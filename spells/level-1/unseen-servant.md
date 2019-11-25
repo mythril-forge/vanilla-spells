@@ -30,6 +30,4 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ---
 
-**Classes:** bard, warlock, wizard
-
 **Sources:** PHB, page 284

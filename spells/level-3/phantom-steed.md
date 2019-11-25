@@ -26,6 +26,4 @@ The spell ends if you use an action to dismiss it or if the steed takes any dama
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 265

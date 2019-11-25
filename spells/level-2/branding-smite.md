@@ -23,10 +23,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the extra da
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, battle smith artificer (revisited)
-
-**Subraces:** tiefling (zariel), tiefling (zariel)
-
 **Sources:** PHB, page 219

@@ -29,6 +29,4 @@ The creature then appears in an unoccupied space you choose within 10 feet of yo
 
 ---
 
-**Classes:** cleric, druid
-
 **Sources:** PHB, page 284

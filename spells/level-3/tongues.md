@@ -22,8 +22,4 @@ Moreover, when the target speaks, any creature that knows at least one language 
 
 ---
 
-**Classes:** bard, cleric, sorcerer, warlock, wizard
-
-**Subclasses:** archivist artificer (revisited)
-
 **Sources:** PHB, page 283

@@ -36,8 +36,4 @@ When you cast this spell using a spell slot of 6th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** death cleric, land druid, conquest v2 (ua) paladin, conquest paladin, lolth (twitter) warlock, destruction (twitter) cleric, alchemist artificer (revisited), spores druid, spores (ua) druid
-
 **Sources:** PHB, page 222

@@ -31,6 +31,4 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 253

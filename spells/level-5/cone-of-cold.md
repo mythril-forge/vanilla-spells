@@ -32,8 +32,4 @@ When you cast this spell using a spell slot of 6th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, hexblade (ua) warlock, hexblade warlock, kraken (stream) warlock, artillerist artificer (revisited), lurker in the deep (ua) warlock
-
 **Sources:** PHB, page 224

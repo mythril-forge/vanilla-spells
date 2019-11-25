@@ -26,8 +26,4 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 ---
 
-**Classes:** cleric, druid, ranger, sorcerer, artificer, artificer (revisited)
-
-**Subclasses:** land druid, land druid
-
 **Sources:** PHB, page 287

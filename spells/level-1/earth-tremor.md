@@ -29,6 +29,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** bard, druid, sorcerer, wizard
-
 **Sources:** XGE, page 155

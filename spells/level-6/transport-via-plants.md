@@ -21,6 +21,4 @@ For the duration, any creature can step into the target plant and exit from the 
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 283

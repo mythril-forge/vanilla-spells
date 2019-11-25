@@ -24,8 +24,4 @@ The spell then ends.
 
 ---
 
-**Classes:** cleric, druid, artificer (revisited)
-
-**Subclasses:** giant soul (ua) sorcerer
-
 **Sources:** PHB, page 272

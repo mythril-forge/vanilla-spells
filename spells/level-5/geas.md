@@ -32,8 +32,4 @@ When you cast this spell using a spell slot of 9th level, the spell lasts until 
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, wizard
-
-**Subclasses:** crown paladin
-
 **Sources:** PHB, page 244

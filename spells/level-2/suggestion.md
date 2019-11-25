@@ -35,12 +35,4 @@ If you or any of your companions damage the target, the spell ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, beauty (twitter) cleric
-
-**Races:** yuan-ti pureblood
-
-**Subraces:** tiefling (fierna), tiefling (fierna)
-
 **Sources:** PHB, page 279

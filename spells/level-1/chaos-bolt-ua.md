@@ -42,6 +42,4 @@ The extra damage equals `1d6` for each slot level above 1st.
 
 ---
 
-**Classes:** sorcerer
-
 **Sources:** UA-SS, page 2

@@ -25,8 +25,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** warlock, wizard
-
-**Subclasses:** death cleric, grave (ua) cleric, ambition (psa) cleric, grave cleric, lolth (twitter) warlock, darkness (twitter) cleric
-
 **Sources:** PHB, page 285

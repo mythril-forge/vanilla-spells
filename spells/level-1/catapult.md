@@ -26,6 +26,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the maximum 
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
-
 **Sources:** XGE, page 150

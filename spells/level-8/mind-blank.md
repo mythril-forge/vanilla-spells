@@ -20,6 +20,4 @@ The spell even foils [*wish*](./wish) spells and spells or effects of similar po
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 259

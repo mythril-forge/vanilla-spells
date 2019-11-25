@@ -32,6 +32,4 @@ You make Charisma (Deception) Checks and Charisma (Persuasion) Checks against cr
 
 ---
 
-**Classes:** bard
-
 **Sources:** UA-SS, page 4

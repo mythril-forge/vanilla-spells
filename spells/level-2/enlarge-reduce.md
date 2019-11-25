@@ -42,10 +42,4 @@ While these weapons are reduced, the target's attacks with them deal `1d4` less 
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** giant soul (ua) sorcerer, destruction (twitter) cleric
-
-**Subraces:** dwarf (duergar), dwarf (duergar)
-
 **Sources:** PHB, page 237

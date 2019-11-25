@@ -34,6 +34,4 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 
 ---
 
-**Classes:** paladin
-
 **Sources:** XGE, page 156

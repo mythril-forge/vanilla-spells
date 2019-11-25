@@ -21,6 +21,4 @@ Otherwise, the spell has no effect.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 266

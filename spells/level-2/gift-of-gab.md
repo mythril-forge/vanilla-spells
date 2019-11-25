@@ -28,6 +28,4 @@ Those creatures then remember that you actually said the words you speak as the 
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** AI, page 76

@@ -35,6 +35,4 @@ If a creature discerns the illusion for what it is, the creature can see through
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 270

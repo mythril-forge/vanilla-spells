@@ -29,6 +29,4 @@ Examples include "after 1,000 years" or "when the tarrasque awakens." This spell
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 274

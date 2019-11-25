@@ -27,8 +27,4 @@ You must end each turn outside a tree.
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, land druid, ancients paladin
-
 **Sources:** PHB, page 283

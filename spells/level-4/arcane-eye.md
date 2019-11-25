@@ -28,8 +28,4 @@ A solid barrier blocks the eye's movement, but the eye can pass through an openi
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subclasses:** arcana cleric, knowledge cleric, knowledge (psa) cleric, seeker (ua) warlock
-
 **Sources:** PHB, page 214

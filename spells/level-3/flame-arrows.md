@@ -24,6 +24,4 @@ When you cast this spell using a spell slot of 4th level or higher, the number o
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer (revisited)
-
 **Sources:** XGE, page 156

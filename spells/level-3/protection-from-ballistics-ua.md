@@ -22,8 +22,4 @@ Until the spell ends, the target has resistance to nonmagical ballistic damage.
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city (ua) cleric
-
 **Sources:** UA-MM, page 8

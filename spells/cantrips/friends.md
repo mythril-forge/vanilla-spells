@@ -24,10 +24,4 @@ Another creature might seek retribution in other ways (at the DM's discretion), 
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Races:** siren
-
-**Subraces:** elf (eladrin), tiefling (fierna), tiefling (fierna)
-
 **Sources:** PHB, page 244

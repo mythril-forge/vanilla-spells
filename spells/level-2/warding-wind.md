@@ -27,6 +27,4 @@ The wind has the following effects:
 
 ---
 
-**Classes:** bard, druid, sorcerer, wizard
-
 **Sources:** XGE, page 170

@@ -24,8 +24,4 @@ On a success, the spell ends.
 
 ---
 
-**Classes:** warlock, wizard
-
-**Subclasses:** death cleric, grave (ua) cleric, ambition (psa) cleric, grave cleric, redemption (ua) paladin, spores (ua) druid
-
 **Sources:** PHB, page 271

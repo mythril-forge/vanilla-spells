@@ -39,10 +39,4 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** great old one warlock, archivist artificer (revisited), aberrant mind (ua) sorcerer
-
-**Subraces:** gith (githzerai), gith (githzerai), tiefling (dispater)
-
 **Sources:** PHB, page 231

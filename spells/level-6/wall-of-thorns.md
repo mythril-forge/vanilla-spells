@@ -43,6 +43,4 @@ When you cast this spell using a spell slot of 7th level or higher, both types o
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 287

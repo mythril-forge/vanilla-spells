@@ -37,8 +37,4 @@ When you use a spell slot of 8th level or higher, the duration is concentration,
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** trickery cleric, oathbreaker paladin, archfey warlock, great old one warlock, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, treachery (ua) paladin, ambition (psa) cleric, order (ua) cleric, beauty (twitter) cleric, order cleric
-
 **Sources:** PHB, page 235

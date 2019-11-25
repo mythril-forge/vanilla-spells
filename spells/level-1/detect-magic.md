@@ -22,10 +22,4 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** arcana cleric
-
-**Races:** firbolg
-
 **Sources:** PHB, page 231

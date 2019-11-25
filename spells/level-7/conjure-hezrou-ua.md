@@ -37,6 +37,4 @@ The summoned hezrou cannot cross the circle or target anyone in it while the spe
 
 ---
 
-**Classes:** wizard, sorcerer
-
 **Sources:** UA-TOBM, page 2

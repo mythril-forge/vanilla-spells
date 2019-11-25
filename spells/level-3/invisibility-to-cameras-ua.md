@@ -25,8 +25,4 @@ The targets remain visible to vision.
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 7

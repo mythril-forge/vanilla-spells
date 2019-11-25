@@ -39,8 +39,4 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 ---
 
-**Classes:** bard, warlock, wizard
-
-**Subclasses:** land druid
-
 **Sources:** PHB, page 236

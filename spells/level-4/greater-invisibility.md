@@ -20,8 +20,4 @@ Anything the target is wearing or carrying is **invisible** as long as it is on 
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** land druid, archfey warlock, treachery (ua) paladin, deep stalker (ua) ranger, gloom stalker ranger, deep stalker conclave ranger (revised), gloom stalker ranger (revised)
-
 **Sources:** PHB, page 246

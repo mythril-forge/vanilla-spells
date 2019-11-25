@@ -23,8 +23,4 @@ On a successful save, it is no longer **blinded**.
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** stone (ua) sorcerer, battle smith artificer (revisited)
-
 **Sources:** PHB, page 219

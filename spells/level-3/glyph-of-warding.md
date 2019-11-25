@@ -60,8 +60,4 @@ If you create a spell glyph, you can store any spell of up to the same level as 
 
 ---
 
-**Classes:** bard, cleric, wizard, artificer, artificer (revisited)
-
-**Subclasses:** deep stalker (ua) ranger, deep stalker conclave ranger (revised)
-
 **Sources:** PHB, page 245

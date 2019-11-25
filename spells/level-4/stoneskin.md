@@ -22,8 +22,4 @@ Until the spell ends, the target has resistance to nonmagical bludgeoning, pierc
 
 ---
 
-**Classes:** druid, ranger, sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** war cleric, land druid, ancients paladin, conquest v2 (ua) paladin, conquest paladin, redemption (ua) paladin, redemption paladin, strength (psa) cleric
-
 **Sources:** PHB, page 278

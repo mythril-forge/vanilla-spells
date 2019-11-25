@@ -52,8 +52,4 @@ If you cast this spell using a spell slot of 6th level or higher, you can animat
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** forge (ua) cleric, forge cleric
-
 **Sources:** PHB, page 213

@@ -26,8 +26,4 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** arcane archer fighter
-
 **Sources:** PHB, page 236

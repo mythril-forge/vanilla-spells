@@ -29,6 +29,4 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 259

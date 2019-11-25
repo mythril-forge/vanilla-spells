@@ -37,8 +37,4 @@ When you use a spell slot of 7th level or higher, the duration is concentration,
 
 ---
 
-**Classes:** druid, sorcerer
-
-**Subclasses:** nature cleric, archfey warlock, great old one warlock, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, strength (psa) cleric
-
 **Sources:** PHB, page 234

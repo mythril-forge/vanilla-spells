@@ -30,6 +30,4 @@ On a successful save, the stunning effect ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 163

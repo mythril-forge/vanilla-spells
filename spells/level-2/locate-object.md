@@ -28,8 +28,4 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 ---
 
-**Classes:** bard, cleric, druid, paladin, ranger, wizard
-
-**Subclasses:** seeker (ua) warlock, archivist artificer (revisited)
-
 **Sources:** PHB, page 256

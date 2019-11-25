@@ -26,8 +26,4 @@ You can reduce the target's **exhaustion** level by one, or end one of the follo
 
 ---
 
-**Classes:** bard, cleric, druid, artificer (revisited)
-
-**Subclasses:** celestial (ua) warlock, celestial warlock
-
 **Sources:** PHB, page 246

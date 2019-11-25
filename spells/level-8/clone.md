@@ -27,6 +27,4 @@ The original creature's physical remains, if they still exist, become inert and 
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 222

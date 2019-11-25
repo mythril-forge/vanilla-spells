@@ -26,6 +26,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 151

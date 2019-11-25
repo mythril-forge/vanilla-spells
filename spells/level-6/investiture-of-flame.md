@@ -26,6 +26,4 @@ Until the spell ends, you gain the following benefits:
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 159

@@ -21,8 +21,4 @@ On a failed save, it has disadvantage on Attack Rolls and Ability Checks, and ca
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade (ua) warlock, hexblade warlock, stone (ua) sorcerer, destruction (twitter) cleric, battle smith artificer (revisited)
-
 **Sources:** PHB, page 278

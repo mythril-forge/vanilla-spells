@@ -24,8 +24,4 @@ When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
 ---
 
-**Classes:** paladin, wizard, artificer, artificer (revisited)
-
-**Subclasses:** arcana cleric, war cleric, forge (ua) cleric, hexblade (ua) warlock, stone (ua) sorcerer, zeal (psa) cleric, forge cleric
-
 **Sources:** PHB, page 257

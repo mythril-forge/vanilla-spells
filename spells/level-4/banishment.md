@@ -33,8 +33,4 @@ When you cast this spell using a spell slot of 5th level or higher, you can targ
 
 ---
 
-**Classes:** cleric, paladin, sorcerer, warlock, wizard
-
-**Subclasses:** crown paladin, vengeance paladin, horizon walker (ua) ranger, horizon walker ranger, horizon walker (ua) ranger (revised), horizon walker ranger (revised), monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised)
-
 **Sources:** PHB, page 217

@@ -22,6 +22,4 @@ Concentrating on the voice of nature in your surroundings, you learn the directi
 
 ---
 
-**Classes:** bard, druid, ranger
-
 **Sources:** PHB, page 256

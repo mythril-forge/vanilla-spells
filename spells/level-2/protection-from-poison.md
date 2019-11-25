@@ -23,8 +23,4 @@ For the duration, the target has advantage on Saving Throws against being **pois
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger, artificer, artificer (revisited)
-
-**Subclasses:** strength (psa) cleric, protection (ua) cleric
-
 **Sources:** PHB, page 270

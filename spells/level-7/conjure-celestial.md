@@ -30,6 +30,4 @@ When you cast this spell using a 9th-level spell slot, you summon a celestial of
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 225

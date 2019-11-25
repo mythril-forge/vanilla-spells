@@ -31,8 +31,4 @@ If the spell ends and the larger chest is on the Ethereal Plane, it is irretriev
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subclasses:** arcana cleric
-
 **Sources:** PHB, page 254

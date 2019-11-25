@@ -48,6 +48,4 @@ Casting this spell on the same spot once every 7 days for a year makes the fortr
 
 ---
 
-**Classes:** wizard
-
 **Sources:** XGE, page 161

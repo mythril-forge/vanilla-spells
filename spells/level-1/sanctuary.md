@@ -26,8 +26,4 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 ---
 
-**Classes:** cleric, artificer, artificer (revisited)
-
-**Subclasses:** devotion paladin, redemption paladin, raven queen (ua) warlock
-
 **Sources:** PHB, page 272

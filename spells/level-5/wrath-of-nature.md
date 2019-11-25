@@ -40,6 +40,4 @@ On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succ
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** XGE, page 171

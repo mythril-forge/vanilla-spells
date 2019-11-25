@@ -47,6 +47,4 @@ A creature can benefit from this rite again only if widowed.
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** XGE, page 151

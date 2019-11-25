@@ -37,8 +37,4 @@ Using a spell slot of 5th level or higher grants a duration that doesn't require
 
 ---
 
-**Classes:** bard, cleric, wizard
-
-**Subclasses:** oathbreaker paladin, ambition (psa) cleric, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin
-
 **Sources:** PHB, page 218

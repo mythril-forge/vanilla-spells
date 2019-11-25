@@ -27,8 +27,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** bard, druid, sorcerer, warlock, wizard
-
-**Subclasses:** beauty (twitter) cleric
-
 **Sources:** XGE, page 151

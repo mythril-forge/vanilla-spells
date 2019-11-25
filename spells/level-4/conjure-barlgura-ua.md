@@ -30,6 +30,4 @@ The summoned barlgura cannot cross the circle or target anyone in it while the s
 
 ---
 
-**Classes:** wizard, sorcerer
-
 **Sources:** UA-TOBM, page 2

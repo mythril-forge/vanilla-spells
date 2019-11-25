@@ -28,8 +28,4 @@ The humanoids must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** bard, cleric, druid, sorcerer, warlock, wizard
-
-**Subclasses:** land druid, vengeance paladin, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, redemption (ua) paladin, redemption paladin, order (ua) cleric, giant soul (ua) sorcerer, order cleric
-
 **Sources:** PHB, page 251

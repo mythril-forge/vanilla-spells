@@ -26,8 +26,4 @@ When you cast this spell using a spell slot of 5th level or higher, the damage i
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** hexblade (ua) warlock, hexblade warlock, archivist artificer (revisited)
-
 **Sources:** PHB, page 265

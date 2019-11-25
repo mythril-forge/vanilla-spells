@@ -40,6 +40,4 @@ The target can't activate, use, wield, or otherwise benefit from any of its equi
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
 **Sources:** XGE, page 160
