@@ -25,7 +25,7 @@ If you have three duplicates, you must roll a 6 or higher to change the attack's
 With two duplicates, you must roll an 8 or higher.
 With one duplicate, you must roll an 11 or higher.
 
-A duplicate's AC equals 10 + your Dexterity modifier.
+A duplicate's AC equals 10 + your Dexterity Modifier.
 If an attack hits a duplicate, the duplicate is destroyed.
 A duplicate can be destroyed only by an attack that hits it.
 It ignores all other damage and effects.

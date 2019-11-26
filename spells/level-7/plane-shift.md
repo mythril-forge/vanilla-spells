@@ -27,8 +27,8 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
 
 You can use this spell to banish an unwilling creature to another plane.
-Choose a creature within your reach and make a melee spell attack against it.
-On a hit, the creature must make a Charisma saving throw.
+Choose a creature within your reach and make a Melee Spell Attack against it.
+On a hit, the creature must make a Charisma Saving Throw.
 If the creature fails this save, it is transported to a random location on the plane of existence you specify.
 A creature so transported must find its own way back to your current plane of existence.
 

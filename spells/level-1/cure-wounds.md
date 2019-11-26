@@ -15,7 +15,7 @@
 ---
 
 ## Description
-A creature you touch regains a number of hit points equal to `1d8` + your spellcasting ability modifier.
+A creature you touch regains a number of hit points equal to `1d8` + your Spellcasting Ability Modifier.
 This spell has no effect on undead or constructs.
 
 ## At Higher Levels

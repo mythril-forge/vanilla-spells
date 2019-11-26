@@ -16,7 +16,7 @@
 
 ## Description
 Your prayer empowers you with divine radiance.
-Until the spell ends, your weapon attacks deal an extra `1d4` radiant damage on a hit.
+Until the spell ends, your Weapon Attacks deal an extra `1d4` radiant damage on a hit.
 
 ---
 

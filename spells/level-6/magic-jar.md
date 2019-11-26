@@ -23,7 +23,7 @@ You can't move or use reactions.
 The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
 
 You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a protection from evil and good or magic circle spell can't be possessed).
-The target must make a Charisma saving throw.
+The target must make a Charisma Saving Throw.
 On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container.
 On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
@@ -35,7 +35,7 @@ If the target has any class levels, you can't use any of its class features.
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.
 
 While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body.
-If the host body dies while you're in it, the creature dies, and you must make a Charisma saving throw against your own spellcasting DC.
+If the host body dies while you're in it, the creature dies, and you must make a Charisma Saving Throw against your own spellcasting DC.
 On a success, you return to the container if it is within 100 feet of you.
 Otherwise, you die.
 

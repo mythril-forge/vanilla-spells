@@ -32,13 +32,13 @@ The smell of burning incense fills the air within, and the temperature is mild.
 
 The temple opposes types of creatures you choose when you cast this spell.
 Choose one or more of the following: celestials, elementals, fey, fiends, or undead.
-If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma saving throw.
+If a creature of the chosen type attempts to enter the temple, that creature must make a Charisma Saving Throw.
 On a failed save, it can't enter the temple for 24 hours.
-Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a saving throw inside the temple, it must roll a `d4` and subtract the number rolled from the `d20` roll.
+Even if the creature can enter the temple, the magic there hinders it; whenever it makes an Attack Roll, an Ability Check, or a Saving Throw inside the temple, it must roll a `d4` and subtract the number rolled from the `d20` roll.
 
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 
-Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
+Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom Modifier (minimum 1 hit point).
 
 The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior.
 Nothing can physically pass through the temple's exterior.

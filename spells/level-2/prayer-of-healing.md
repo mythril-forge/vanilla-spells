@@ -17,7 +17,7 @@
 ---
 
 ## Description
-Up to six creatures of your choice that you can see within range each regain hit points equal to `2d8` + your spellcasting ability modifier.
+Up to six creatures of your choice that you can see within range each regain hit points equal to `2d8` + your Spellcasting Ability Modifier.
 This spell has no effect on undead or constructs.
 
 ## At Higher Levels

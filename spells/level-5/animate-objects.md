@@ -42,7 +42,7 @@ If the object is securely attached to a surface or a larger object, such as a ch
 It has blindsight with a radius of 30 feet and is blind beyond that distance.
 When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 
-If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it.
+If you command an object to attack, it can make a single Melee Attack against a creature within 5 feet of it.
 It makes a slam attack with an attack bonus and bludgeoning damage determined by its size.
 The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 

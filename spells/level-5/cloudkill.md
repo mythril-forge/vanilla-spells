@@ -24,7 +24,7 @@ The fog spreads around corners.
 It lasts for the duration or until strong wind disperses the fog, ending the spell.
 Its area is heavily obscured.
 
-When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution Saving Throw.
 The creature takes `5d8` poison damage on a failed save, or half as much damage on a successful one.
 Creatures are affected even if they hold their breath or don't need to breathe.
 

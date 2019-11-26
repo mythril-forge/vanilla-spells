@@ -15,7 +15,7 @@
 ---
 
 ## Description
-A creature of your choice that you can see within range regains hit points equal to `1d4` + your spellcasting ability modifier.
+A creature of your choice that you can see within range regains hit points equal to `1d4` + your Spellcasting Ability Modifier.
 This spell has no effect on undead or constructs.
 
 ## At Higher Levels

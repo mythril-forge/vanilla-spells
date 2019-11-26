@@ -18,13 +18,13 @@
 
 ## Description
 You craft an illusion that takes root in the mind of a creature that you can see within range.
-The target must make an Intelligence saving throw.
+The target must make an Intelligence Saving Throw.
 On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration.
 This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
 
-The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your Spell Save DC.
 If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
 While a target is affected by the spell, the target treats the phantasm as if it were real.
