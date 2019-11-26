@@ -29,11 +29,11 @@ If you issue no commands, the creature only defends itself against hostile creat
 Once given an order, the creature continues to follow it until its task is complete.
 | Size | HP | AC | Attack | Str | Dex |
 |-----|-----|-----|-----|-----|-----|
-| *animated object (tiny)* | 20 | 18 | `+8` to hit, `1d4 + 4` damage | `1d20 – 3` | `1d20 + 4` |
-| *animated object (small)* | 25 | 16 | `+6` to hit, `1d8 + 2` damage | `1d20 – 2` | `1d20 + 2` |
-| *animated object (medium)* | 40 | 13 | `+5` to hit, `2d6 + 1` damage | `1d20` | `1d20 + 1` |
-| *animated object (large)* | 50 | 10 | `+6` to hit, `2d10 + 2` damage | `1d20 + 2` | `1d20` |
-| *animated object (huge)* | 80 | 10 | `+8` to hit, `2d12 + 4` damage | `1d20 + 4` | `1d20 – 3` |
+| Animated Object (Tiny) | 20 | 18 | `+8` to hit, `1d4 + 4` damage | `1d20 – 3` | `1d20 + 4` |
+| Animated Object (Small) | 25 | 16 | `+6` to hit, `1d8 + 2` damage | `1d20 – 2` | `1d20 + 2` |
+| Animated Object (Medium) | 40 | 13 | `+5` to hit, `2d6 + 1` damage | `1d20` | `1d20 + 1` |
+| Animated Object (Large) | 50 | 10 | `+6` to hit, `2d10 + 2` damage | `1d20 + 2` | `1d20` |
+| Animated Object (Huge) | 80 | 10 | `+8` to hit, `2d12 + 4` damage | `1d20 + 4` | `1d20 – 3` |
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size.
 Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1.

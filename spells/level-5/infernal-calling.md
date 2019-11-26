@@ -18,7 +18,7 @@
 
 ## Description
 Uttering a dark incantation, you summon a devil from the Nine Hells.
-You choose the devil's type, which must be one of challenge rating 6 or lower, such as a *barbed devil* or a *bearded devil*.
+You choose the devil's type, which must be one of challenge rating 6 or lower, such as a Barbed Devil or a Bearded Devil.
 The devil appears in an unoccupied space that you can see within range.
 The devil disappears when it drops to 0 hit points or when the spell ends.
 

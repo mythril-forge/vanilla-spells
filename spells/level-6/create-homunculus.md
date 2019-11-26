@@ -18,9 +18,9 @@
 
 ## Description
 While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking `2d4` piercing damage that can't be reduced in any way.
-You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a *homunculus*.
+You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a Homunculus.
 
-The statistics of the *homunculus* are in the Monster Manual.
+The statistics of the Homunculus are in the Monster Manual.
 It is your faithful companion, and it dies if you die.
 Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you.
 When you do so, roll each die and add your Constitution Modifier to it.
