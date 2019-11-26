@@ -1,9 +1,9 @@
 # Format Rules
 Game statistics and dice rolls use capitalized words:
-- Armor Class/`AC`
+- AC
 - Damage Reduction
 - Damage Threshold
-- Spell Save Difficulty Class/`DC`
+- Spell Save DC
 - ~~any ability~~
 	- Strength
 	- Dexterity
@@ -50,6 +50,11 @@ Game statistics and dice rolls use capitalized words:
 - Damage Roll
 - Attack &amp; Damage Rolls
 - Flip a Coin
+- ~~variable classes, subclasses, races, subraces, and creatures:~~
+	- Half-Orc
+	- Variant Human
+	- Fighter
+	- &hellip;
 
 Conditions are specifically emphasized and bolded:
 - **blinded**
@@ -91,21 +96,6 @@ Other game mechanics, actions, sizes, and items are italicized:
 	- *huge*
 	- *gargantuan*
 	- *titanic*
-- ~~variable creature-types:~~
-	- *aberration*
-	- *beast*
-	- *celestial*
-	- *construct*
-	- *dragon*
-	- *elemental*
-	- *fey*
-	- *fiend*
-	- *giant*
-	- *humanoid*
-	- *monstrosity*
-	- *ooze*
-	- *plant*
-	- *undead*
 - ~~variable items:~~
 	- *alchemist's fire*
 	- *greatsword*
