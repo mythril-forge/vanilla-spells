@@ -17,7 +17,7 @@
 ---
 
 ## Description
-You create an invisible, magical eye within range that hovers in the air for the duration.
+You create an **invisible**, magical eye within range that hovers in the air for the duration.
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet.
 The eye can look in every direction.

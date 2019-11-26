@@ -26,7 +26,7 @@ For the duration, an intense tremor rips through the ground in a 100-foot-radius
 
 The ground in the area becomes difficult terrain.
 Each creature on the ground that is concentrating must make a Constitution Saving Throw.
-On a failed save, the creature's concentration is broken.
+On a failed save, the creature's **concentration** is broken.
 
 When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity Saving Throw.
 On a failed save, the creature is knocked **prone**.

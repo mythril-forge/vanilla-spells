@@ -32,7 +32,7 @@ A creature that uses its action to examine the image can determine that it is an
 If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
+When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your **concentration**.
 
 ---
 

@@ -26,7 +26,7 @@ At the start of the *vrock*'s turn, the DM makes a secret Charisma check on your
 The check DC starts at 10 and increases by 2 each round.
 You can issue orders to the *vrock* and have it obey you as long as you succeed on the Charisma check.
 
-If the check fails, the spell no longer requires concentration and the *vrock* is no longer under your control.
+If the check fails, the spell no longer requires **concentration** and the *vrock* is no longer under your control.
 The *vrock* takes no actions on its next turn and uses its telepathy to tell any creature it can see that it will fight in exchange for treasure.
 The creature that gives the *vrock* the most expensive gem can command it for the next `1d6` rounds.
 At the end of that time, it offers the bargain again.

@@ -39,7 +39,7 @@ If a target knows you're casting this spell, it can fail the Saving Throw volunt
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
-On a failed save, the spell creates an invisible sensor within 10 feet of the target.
+On a failed save, the spell creates an **invisible** sensor within 10 feet of the target.
 You can see and hear through the sensor as if you were there.
 The sensor moves with the target, remaining within 10 feet of it for the duration.
 A creature that can see **invisible** objects sees the sensor as a luminous orb about the size of your fist.

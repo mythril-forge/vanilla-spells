@@ -29,11 +29,11 @@ At the DM's option, you may choose an alternative curse effect, but it should be
 The DM has final say on such a curse's effect.
 
 ## At Higher Levels
-If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes.
+If you cast this spell using a spell slot of 4th level or higher, the duration is **concentration**, up to 10 minutes.
 If you use a spell slot of 5th level or higher, the duration is 8 hours.
 If you use a spell slot of 7th level or higher, the duration is 24 hours.
 If you use a 9th level spell slot, the spell lasts until it is dispelled.
-Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
+Using a spell slot of 5th level or higher grants a duration that doesn't require **concentration**.
 
 ---
 

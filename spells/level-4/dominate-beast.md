@@ -31,9 +31,9 @@ Each time the target takes damage, it makes a new Wisdom Saving Throw against th
 If the Saving Throw succeeds, the spell ends.
 
 ## At Higher Levels
-When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes.
-When you use a 6th-level spell slot, the duration is concentration, up to 1 hour.
-When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
+When you cast this spell with a 5th-level spell slot, the duration is **concentration**, up to 10 minutes.
+When you use a 6th-level spell slot, the duration is **concentration**, up to 1 hour.
+When you use a spell slot of 7th level or higher, the duration is **concentration**, up to 8 hours.
 
 ---
 

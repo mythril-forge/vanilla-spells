@@ -26,7 +26,7 @@ At the start of the *hezrou*'s turn, the DM makes a secret Charisma check on you
 The check DC starts at 10 and increases by 2 each round.
 You can issue orders to the *hezrou* and have it obey you as long as you succeed on the Charisma check.
 
-If the check fails, the spell no longer requires concentration and the demon is no longer under your control.
+If the check fails, the spell no longer requires **concentration** and the demon is no longer under your control.
 The *hezrou* then focuses on devouring any corpses it can see.
 If there are no such meals at hand, it attacks the nearest creatures and eats anything it kills.
 If its hit points are reduced to below half its hit point maximum, it returns to the Abyss.

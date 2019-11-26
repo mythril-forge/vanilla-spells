@@ -22,7 +22,7 @@ You choose where its one entrance is located.
 The entrance shimmers faintly and is 5 feet wide and 10 feet tall.
 You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open.
 You can open or close the portal if you are within 30 feet of it.
-While closed, the portal is invisible.
+While closed, the portal is **invisible**.
 
 Beyond the portal is a magnificent foyer with numerous chambers beyond.
 The atmosphere is clean, fresh, and warm.

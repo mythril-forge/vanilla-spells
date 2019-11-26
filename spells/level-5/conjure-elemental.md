@@ -28,7 +28,7 @@ Roll initiative for the elemental, which has its own turns.
 It obeys any verbal commands that you issue to it (no action required by you).
 If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 
-If your concentration is broken, the elemental doesn't disappear.
+If your **concentration** is broken, the elemental doesn't disappear.
 Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack.
 An uncontrolled elemental can't be dismissed by you, and it disappears 1 hour after you summoned it.
 

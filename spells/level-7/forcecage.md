@@ -21,7 +21,7 @@
 ---
 
 ## Description
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range.
+An immobile, **invisible**, cube-shaped prison composed of magical force springs into existence around an area you choose within range.
 The prison can be a cage or a solid box as you choose.
 
 A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.

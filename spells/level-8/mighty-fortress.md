@@ -34,7 +34,7 @@ The floors of the keep are connected by stone staircases, its walls are 6 inches
 The keep is furnished and decorated however you like, and it contains sufficient food to serve a nine-course banquet for up to 100 people each day.
 Furnishings, food, and other objects created by this spell crumble to dust if removed from the fortress.
 
-A staff of one hundred invisible servants obeys any command given to them by creatures you designate when you cast the spell.
+A staff of one hundred **invisible** servants obeys any command given to them by creatures you designate when you cast the spell.
 Each servant functions as if created by the unseen servant spell.
 
 The walls, turrets, and keep are all made of stone that can be damaged.
