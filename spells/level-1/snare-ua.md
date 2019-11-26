@@ -21,7 +21,7 @@ While you cast this spell, you use the cord or rope to create a circle with a 5-
 When you finish casting, the cord or rope disappears to become a magical trap.
 
 The trap is nearly **invisible** and requires a successful Intelligence (Investigation) check against your Spell Save DC to be found.
-The trap triggers when a Small creature or larger moves into the area protected by the spell.
+The trap triggers when a *small* creature or larger moves into the area protected by the spell.
 
 The triggering creature must succeed on a Dexterity Saving Throw or fall **prone** and be hoisted into the air until it hangs upside down 3 feet above the protected surface, where it is **restrained**.
 

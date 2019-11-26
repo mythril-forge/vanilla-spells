@@ -17,7 +17,7 @@
 ---
 
 ## Description
-After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant.
+After spending the casting time tracing magical pathways within a precious gemstone, you touch a *huge* or smaller beast or plant.
 The target must have either no Intelligence score or an Intelligence of 3 or less.
 The target gains an Intelligence of 10.
 The target also gains the ability to speak one language you know.

@@ -27,8 +27,8 @@ The target is disintegrated if this damage leaves it with 0 hit points.
 A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
 The creature can be restored to life only by means of a true resurrection or a [*wish*](./wish) spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force.
-If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it.
+This spell automatically disintegrates a *large* or smaller nonmagical object or a creation of magical force.
+If the target is a *huge* or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it.
 A magic item is unaffected by this spell.
 
 ## At Higher Levels

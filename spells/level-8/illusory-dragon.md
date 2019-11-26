@@ -15,7 +15,7 @@
 ---
 
 ## Description
-By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range.
+By gathering threads of shadow material from the Shadowfell, you create a *huge* shadowy dragon in an unoccupied space that you can see within range.
 The illusion lasts for the spell's duration and occupies its space, as if it were a creature.
 
 When the illusion appears, any of your enemies that can see it must succeed on a Wisdom Saving Throw or become **frightened** of it for 1 minute.

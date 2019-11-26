@@ -19,8 +19,8 @@
 ## Description
 Objects come to life at your command.
 Choose up to ten nonmagical objects within range that are not being worn or carried.
-Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects.
-You can't animate any object larger than Huge.
+*Medium* targets count as two objects, *large* targets count as four objects, *huge* targets count as eight objects.
+You can't animate any object larger than *huge*.
 Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one).

@@ -17,7 +17,7 @@
 ---
 
 ## Description
-This spell grows an inert duplicate of a living, Medium creature as a safeguard against death.
+This spell grows an inert duplicate of a living, *medium* creature as a safeguard against death.
 This clone forms inside a sealed vessel and grows to full size and maturity after 120 days; you can also choose to have the clone be a younger version of the same creature.
 It remains inert and endures indefinitely, as long as its vessel remains undisturbed.
 

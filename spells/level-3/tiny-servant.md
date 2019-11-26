@@ -15,7 +15,7 @@
 ---
 
 ## Description
-You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature.
+You touch one *tiny*, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature.
 The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points.
 See the *tiny servant* for its statistics.
 

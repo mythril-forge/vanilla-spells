@@ -15,7 +15,7 @@
 ---
 
 ## Description
-Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range.
+Threads of dark power leap from your fingers to pierce up to five *small* or *medium* corpses you can see within range.
 Each corpse immediately stands up and becomes undead.
 You decide whether it is a *zombie* or a *skeleton* (the statistics for *zombies* and *skeletons* are in the Monster Manual), and it gains a bonus to its Attack and Damage Rolls equal to your Spellcasting Ability Modifier.
 
