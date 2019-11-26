@@ -21,16 +21,23 @@ If you target an object, it must be able to fit entirely inside a 10-foot cube, 
 The destination you choose must be known to you, and it must be on the same plane of existence as you.
 Your familiarity with the destination determines whether you arrive there successfully.
 The DM rolls `d100` and consults the table.
-
-| Familiarity       | Mishap      | Similar Area | Off Target  | On Target    |
-|-------------------|-------------|--------------|-------------|--------------|
-| Permanent circle  | &mdash;     | &mdash;      | &mdash;     | 01&ndash;100 |
-| Associated object | &mdash;     | &mdash;      | &mdash;     | 01&ndash;100 |
-| Very familiar     | 01&ndash;05 | 06&ndash;13  | 14&ndash;24 | 25&ndash;100 |
-| Seen casually     | 01&ndash;33 | 34&ndash;43  | 44&ndash;53 | 54&ndash;100 |
-| Viewed once       | 01&ndash;43 | 44&ndash;53  | 54&ndash;73 | 74&ndash;100 |
-| Description       | 01&ndash;43 | 44&ndash;53  | 54&ndash;73 | 74&ndash;100 |
-| False destination | 01&ndash;50 | 51&ndash;100 | &mdash;     | &mdash;      |
+| Familiarity | Mishap | Similar Area | Off Target | On Target |
+|-----|-----|-----|-----|-----|
+| Permanent circle
+—
+—
+— | 01–100 |
+| Associated object
+—
+—
+— | 01–100 |
+| Very familiar | 01–05 | 06–13 | 14–24 | 25–100 |
+| Seen casually | 01–33 | 34–43 | 44–53 | 54–100 |
+| Viewed once | 01–43 | 44–53 | 54–73 | 74–100 |
+| Description | 01–43 | 44–53 | 54–73 | 74–100 |
+| False destination | 01–50 | 51–100
+—
+— |
 
 ### Familiarity
 "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.

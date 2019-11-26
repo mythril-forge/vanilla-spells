@@ -17,8 +17,8 @@
 ---
 
 ## Description
-You summon up to a total of eight manes or dretches that appear in unoccupied spaces you can see within range.
-A manes or dretch disappears when it drops to 0 hit points or when the spell ends.
+You summon up to a total of eight *manes* or *dretches* that appear in unoccupied spaces you can see within range.
+A *manes* or *dretch* disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures.
 Roll initiative for the summoned demons as a group, which has its own turns.

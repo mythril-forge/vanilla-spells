@@ -28,7 +28,7 @@ You can exclude one or more of those types of creatures from this effect.
 Second, you can bind an extra effect to the area.
 Choose the effect from the following list, or choose an effect offered by the DM.
 Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls.
-When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma Saving Throw.
+When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw.
 On a success, the creature ignores the extra effect until it leaves the area.
 
 ### Courage

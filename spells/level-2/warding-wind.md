@@ -23,7 +23,7 @@ The wind has the following effects:
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 - The area is difficult terrain for creatures other than you.
-- The Attack Rolls of Ranged Weapon Attacks have disadvantage if the attacks pass in or out of the wind.
+- The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.
 
 ---
 

@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 20 feet
-
 **Length:** 60 feet
 
 **Width:** 1 foot
+
+**Height:** 20 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -29,7 +29,7 @@ You create a wall of fire on a solid surface within range.
 You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick.
 The wall is opaque and lasts for the duration.
 
-When the wall appears, each creature within its area must make a Dexterity Saving Throw.
+When the wall appears, each creature within its area must make a Dexterity saving throw.
 On a failed save, a creature takes `5d8` fire damage, or half as much damage on a successful save.
 
 One side of the wall, selected by you when you cast this spell, deals `5d8` fire damage to each creature that ends its turn within 10 feet of that side or inside the wall.

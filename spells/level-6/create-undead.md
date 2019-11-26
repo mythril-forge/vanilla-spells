@@ -18,8 +18,8 @@
 
 ## Description
 You can cast this spell only at night.
-Choose up to three corpses of *medium* or *small* humanoids within range.
-Each corpse becomes a ghoul under your control.
+Choose up to three corpses of Medium or Small humanoids within range.
+Each corpse becomes a *ghoul* under your control.
 (The DM has game statistics for these creatures.)
 
 As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one).
@@ -32,9 +32,9 @@ To maintain control of the creature for another 24 hours, you must cast this spe
 This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
 ## At Higher Levels
-When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls.
-When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights.
-When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
+When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four *ghouls*.
+When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five *ghouls* or two *ghasts* or *wights*.
+When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six *ghouls*, three *ghasts* or *wights*, or two *mummies*.
 
 ---
 

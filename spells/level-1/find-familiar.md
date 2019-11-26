@@ -17,8 +17,10 @@
 ---
 
 ## Description
-You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel.
+You gain the service of a familiar, a spirit that takes an animal form you choose: *bat*, *cat*, *crab*, *frog* (toad), *hawk*, *lizard*, *octopus*, *owl*, *poisonous snake*, fish (*quipper*), *rat*, *raven*, *sea horse*, *spider*, or *weasel*.
 Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+animal form choices may be available at the DM's discretion.}
 
 Your familiar acts independently of you, but it always obeys your commands.
 In combat, it rolls its own initiative and acts on its own turn.
@@ -43,7 +45,7 @@ Your familiar transforms into the chosen creature.
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell.
 Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it.
-If the spell requires an Attack Roll, you use your attack modifier for the roll.
+If the spell requires an attack roll, you use your attack modifier for the roll.
 
 ---
 

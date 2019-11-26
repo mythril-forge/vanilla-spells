@@ -21,20 +21,20 @@ You perform one of several religious ceremonies.
 When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
 
 ### Atonement
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) Check.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check.
 On a success, you restore the target to its original alignment.
 
 ### Bless Water
-You touch one vial of water and cause it to become Holy Water (flask).
+You touch one *vial* of water and cause it to become *Holy Water (flask)*.
 
 ### Coming of Age
 You touch one humanoid old enough to be a young adult.
-For the next 24 hours, whenever the target makes an Ability Check, it can roll a `d4` and add the number rolled to the Ability Check.
+For the next 24 hours, whenever the target makes an ability check, it can roll a `d4` and add the number rolled to the ability check.
 A creature can benefit from this ceremony just once.
 
 ### Dedication
 You touch one humanoid who would willingly convert to your religion or who wishes to be dedicated to your god's service.
-For the next 24 hours, whenever the target makes a Saving Throw, it can roll a `d4` and add the number rolled to the save.
+For the next 24 hours, whenever the target makes a saving throw, it can roll a `d4` and add the number rolled to the save.
 A creature can benefit from this ceremony just once.
 
 ### Funeral Rite
@@ -50,7 +50,7 @@ If the target doesn't cast the spell within 1 hour, the invested spell is lost.
 
 ### Marriage
 You touch adult humanoids willing to be bonded together in marriage.
-For the next 24 hours, each target gains a +2 bonus to AC and Saving Throws while they are within 30 feet of each other.
+For the next 24 hours, each target gains a +2 bonus to AC and saving throws while they are within 30 feet of each other.
 A creature can benefit from this ceremony just once.
 
 ---

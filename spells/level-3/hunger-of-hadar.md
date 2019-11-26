@@ -28,7 +28,7 @@ No light, magical or otherwise, can illuminate the area, and creatures fully wit
 
 The void creates a warp in the fabric of space, and the area is difficult terrain.
 Any creature that starts its turn in the area takes `2d6` cold damage.
-Any creature that ends its turn in the area must succeed on a Dexterity Saving Throw or take `2d6` acid damage as milky, otherworldly tentacles rub against it.
+Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take `2d6` acid damage as milky, otherworldly tentacles rub against it.
 
 ---
 

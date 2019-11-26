@@ -33,7 +33,7 @@ The soul knows only what it knew in life, but it must answer you truthfully and 
 The answer is no more than a sentence or two and might be cryptic.
 
 ### Borrow Experience
-You can use a bonus action to bolster yourself with the soul's life experience, making your next Attack Roll, Ability Check, or Saving Throw with advantage.
+You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage.
 If you don't use this benefit before the start of your next turn, it is lost.
 
 ### Eyes of the Dead

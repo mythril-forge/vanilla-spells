@@ -21,8 +21,8 @@ You can affect the same target round after round, or choose a new one at any tim
 If you switch targets, the prior target is no longer affected by the spell.
 
 ### Creature
-You can try to move a *huge* or smaller creature.
-Make an Ability Check with your spellcasting ability contested by the creature's Strength Check.
+You can try to move a Huge or smaller creature.
+Make an ability check with your spellcasting ability contested by the creature's Strength check.
 If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell.
 Until the end of your next turn, the creature is **restrained** in your telekinetic grip.
 A creature lifted upward is suspended in mid-air.
@@ -33,7 +33,7 @@ On subsequent rounds, you can use your action to attempt to maintain your teleki
 You can try to move an object that weighs up to 1,000 pounds.
 If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.
 
-If the object is worn or carried by a creature, you must make an Ability Check with your spellcasting ability contested by that creature's Strength Check.
+If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check.
 If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.

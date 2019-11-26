@@ -20,7 +20,7 @@
 
 ## Description
 You cause a tremor in the ground within range.
-Each creature other than you in that area must make a Dexterity Saving Throw.
+Each creature other than you in that area must make a Dexterity saving throw.
 On a failed save, a creature takes `1d6` bludgeoning damage and is knocked **prone**.
 If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 

@@ -27,7 +27,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the [*greater restoration*](./greater-restoration) spell.
 - You grant up to ten creatures that you can see resistance to a damage type you choose.
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
-	For instance, you could make yourself and all your companions immune to a lich's life drain attack.
+	For instance, you could make yourself and all your companions immune to a *lich*'s life drain attack.
 - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn).
 	Reality reshapes itself to accommodate the new result.
 	For example, a wish spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save.
@@ -45,7 +45,7 @@ After enduring that stress, each time you cast a spell until you finish a long r
 This damage can't be reduced or prevented in any way.
 In addition, your Strength drops to 3, if it isn't 3 or lower already, for `2d4` days.
 For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
-Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress.
+Finally, there is a 33`33%` chance that you are unable to cast wish ever again if you suffer this stress.
 
 ---
 

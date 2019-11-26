@@ -15,7 +15,7 @@
 ---
 
 ## Description
-Make a Melee Spell Attack against a creature you can reach.
+Make a melee spell attack against a creature you can reach.
 On a hit, the target takes `3d10` necrotic damage.
 
 ## At Higher Levels

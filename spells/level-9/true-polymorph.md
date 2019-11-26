@@ -23,7 +23,7 @@ The transformation lasts for the duration, or until the target drops to 0 hit po
 If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
 
 This spell has no effect on a shapechanger or a creature with 0 hit points.
-An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn't affected by this spell.
+An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.
 
 ### Creature into Creature
 If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating).

@@ -20,7 +20,7 @@
 You call forth an elemental servant.
 Choose an area of air, earth, fire, or water that fills a 10-foot cube within range.
 An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it.
-For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground.
+For example, a *fire elemental* emerges from a bonfire, and an *earth elemental* rises up from the ground.
 The elemental disappears when it drops to 0 hit points or when the spell ends.
 
 The elemental is friendly to you and your companions for the duration.

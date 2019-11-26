@@ -16,7 +16,7 @@
 
 ## Description
 You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it.
-Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff.
+Appearing in an unoccupied space within range, the steed takes on a form that you choose: a *warhorse*, a *pony*, a *camel*, an *elk*, or a *mastiff*.
 (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type.
 Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 

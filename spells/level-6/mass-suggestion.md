@@ -24,7 +24,7 @@ Creatures that can't be **charmed** are immune to this effect.
 The suggestion must be worded in such a manner as to make the course of action sound reasonable.
 Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
 
-Each target must make a Wisdom Saving Throw.
+Each target must make a Wisdom saving throw.
 On a failed save, it pursues the course of action you described to the best of its ability.
 The suggested course of action can continue for the entire duration.
 If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.

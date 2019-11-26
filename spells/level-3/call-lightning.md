@@ -20,7 +20,7 @@ The spell fails if you can't see a point in the air where the storm cloud could 
 
 When you cast the spell, choose a point you can see under the cloud.
 A bolt of lightning flashes down from the cloud to that point.
-Each creature within 5 feet of that point must make a Dexterity Saving Throw.
+Each creature within 5 feet of that point must make a Dexterity saving throw.
 A creature takes `3d10` lightning damage on a failed save, or half as much damage on a successful one.
 On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 

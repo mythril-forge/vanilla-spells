@@ -16,7 +16,7 @@
 
 ## Description
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames.
-The creature must make a Dexterity Saving Throw.
+The creature must make a Dexterity saving throw.
 It takes `2d10` fire damage on a failed save, or half as much damage on a successful one.
 
 ## At Higher Levels

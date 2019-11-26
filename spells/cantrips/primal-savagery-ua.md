@@ -17,7 +17,7 @@
 ## Description
 Your teeth or fingernails lengthen and sharpen.
 You choose which.
-Make a Melee Spell Attack against one creature within 5 feet of you.
+Make a melee spell attack against one creature within 5 feet of you.
 On a hit, the target takes `1d10` piercing or slashing damage (your choice).
 After you make the attack, your teeth or fingernails return to normal.
 

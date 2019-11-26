@@ -31,11 +31,11 @@ The target recalls the dream perfectly upon waking.
 If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.
 
 You can make the messenger appear monstrous and terrifying to the target.
-If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom Saving Throw.
+If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw.
 On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest.
 In addition, when the target wakes up, it takes `3d6` psychic damage.
 
-If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with disadvantage.
+If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
 ---
 

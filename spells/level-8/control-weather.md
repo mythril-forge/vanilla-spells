@@ -33,31 +33,28 @@ When the spell ends, the weather gradually returns to normal.
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down.
 When changing the wind, you can change its direction.
-
-| Stage | Condition                                  |
-|-------|--------------------------------------------|
-| 1     | Clear                                      |
-| 2     | Light clouds                               |
-| 3     | Overcast or ground fog                     |
-| 4     | Rain, hail, or snow                        |
-| 5     | Torrential rain, driving hail, or blizzard |
-
-| Stage | Condition       |
-|-------|-----------------|
-| 1     | Unbearable heat |
-| 2     | Hot             |
-| 3     | Warm            |
-| 4     | Cool            |
-| 5     | Cold            |
-| 6     | Arctic cold     |
-
-| Stage | Condition     |
-|-------|---------------|
-| 1     | Calm          |
-| 2     | Moderate wind |
-| 3     | Strong wind   |
-| 4     | Gale          |
-| 5     | Storm         |
+| Stage | Condition |
+|-----|-----|
+| 1 | Clear |
+| 2 | Light clouds |
+| 3 | Overcast or ground fog |
+| 4 | Rain, hail, or snow |
+| 5 | Torrential rain, driving hail, or blizzard |
+| Stage | Condition |
+|-----|-----|
+| 1 | Unbearable heat |
+| 2 | Hot |
+| 3 | Warm |
+| 4 | Cool |
+| 5 | Cold |
+| 6 | Arctic cold |
+| Stage | Condition |
+|-----|-----|
+| 1 | Calm |
+| 2 | Moderate wind |
+| 3 | Strong wind |
+| 4 | Gale |
+| 5 | Storm |
 
 ---
 

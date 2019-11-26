@@ -21,9 +21,9 @@
 ---
 
 ## Description
-You plant four pieces of nonmagical ammunition&mdash;arrow or crossbow bolt&mdash;in the ground within range and lay magic upon them to protect an area.
+You plant four pieces of nonmagical ammunition—*arrow* or *crossbow bolt*—in the ground within range and lay magic upon them to protect an area.
 Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it.
-The creature must succeed on a Dexterity Saving Throw or take `1d6` piercing damage.
+The creature must succeed on a Dexterity saving throw or take `1d6` piercing damage.
 The piece of ammunition is then destroyed.
 The spell ends when no ammunition remains.
 

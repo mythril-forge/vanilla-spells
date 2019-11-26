@@ -23,14 +23,13 @@ The object created must be no larger than a 5-foot cube, and the object must be 
 
 The duration depends on the object's material.
 If the object is composed of multiple materials, use the shortest duration.
-
-| Material              | Duration   |
-|-----------------------|------------|
-| Vegetable matter      | 1 day      |
-| Stone or crystal      | 12 hours   |
-| Precious metals       | 1 hour     |
-| Gems                  | 10 minutes |
-| Adamantine or mithral | 1 minute   |
+| Material | Duration |
+|-----|-----|
+| Vegetable matter | 1 day |
+| Stone or crystal | 12 hours |
+| Precious metals | 1 hour |
+| Gems | 10 minutes |
+| Adamantine or mithral | 1 minute |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 

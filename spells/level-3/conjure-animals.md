@@ -19,8 +19,8 @@ You summon fey spirits that take the form of beasts and appear in unoccupied spa
 Choose one of the following options for what appears:
 - One beast of challenge rating 2 or lower
 - Two beasts of challenge rating 1 or lower
-- Four beasts of challenge rating &frac12; or lower
-- Eight beasts of challenge rating &frac14; or lower
+- Four beasts of challenge rating 1/2 or lower
+- Eight beasts of challenge rating 1/4 or lower
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 

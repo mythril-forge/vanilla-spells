@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 100 feet
 
 **Width:** 6 inches
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -31,7 +31,7 @@ Each panel must be contiguous with at least one other panel.
 Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice).
-If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity Saving Throw.
+If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw.
 On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object.
