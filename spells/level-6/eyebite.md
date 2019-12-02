@@ -25,7 +25,7 @@ It wakes up if it takes any damage or if another creature uses its action to sha
 
 ### Panicked
 The target is **frightened** of you.
-On each of its turns, the **frightened** creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move.
+On each of its turns, the **frightened** creature must take the *dash* action and move away from you by the safest and shortest available route, unless there is nowhere to move.
 If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ### Sickened
