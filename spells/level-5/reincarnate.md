@@ -23,6 +23,8 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change.
 The DM rolls a `d100` and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.
+
+#### Reincarnate Races
 | `d100` | Race |
 |-----|-----|
 | 1&ndash;4 | Dragonborn |

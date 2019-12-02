@@ -41,7 +41,7 @@ You can use an action to name a place the humanoid saw in life, which creates an
 The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell).
 You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [*see invisibility*](./see-invisibility) or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [*see invisibility*][link] or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ---
 

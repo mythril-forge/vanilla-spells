@@ -21,7 +21,7 @@
 ## Description
 You choose a point within range and cause psychic energy to explode there.
 Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence Saving Throw.
-A creature with an Intelligence score of 2 or lower can't be affected by this spell.
+A creature with an Intelligence Score of 2 or lower can't be affected by this spell.
 A target takes `8d6` psychic damage on a failed save, or half as much damage on a successful one.
 
 After a failed save, a target has muddled thoughts for 1 minute.

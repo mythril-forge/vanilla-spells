@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a pinch of Talc and a small sprinkling of powdered silver
+**Material Components:** a pinch of talc and a small sprinkling of powdered silver
 
 ---
 

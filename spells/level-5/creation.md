@@ -23,6 +23,8 @@ The object created must be no larger than a 5-foot cube, and the object must be 
 
 The duration depends on the object's material.
 If the object is composed of multiple materials, use the shortest duration.
+
+#### Creation
 | Material | Duration |
 |-----|-----|
 | Vegetable matter | 1 day |

@@ -18,7 +18,7 @@
 
 ## Description
 You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range.
-Creatures that have an Intelligence score of 2 or lower are unaffected.
+Creatures that have an Intelligence Score of 2 or lower are unaffected.
 
 Each target must make an Intelligence Saving Throw.
 On a failed save, a target takes `14d6` psychic damage and is **stunned**.

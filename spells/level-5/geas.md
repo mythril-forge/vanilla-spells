@@ -24,7 +24,7 @@ You can issue any command you choose, short of an activity that would result in 
 Should you issue a suicidal command, the spell ends.
 
 You can end the spell early by using an action to dismiss it.
-A [*remove curse*](./remove-curse), [*greater restoration*](./greater-restoration), or [*wish*](./wish) spell also ends it.
+A [*remove curse*][link], [*greater restoration*][link], or [*wish*][link] spell also ends it.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year.

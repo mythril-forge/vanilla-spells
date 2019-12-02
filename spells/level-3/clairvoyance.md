@@ -24,7 +24,7 @@ When you cast the spell, you choose seeing or hearing.
 You can use the chosen sense through the sensor as if you were in its space.
 As your action, you can switch between seeing and hearing.
 
-A creature that can see the sensor (such as a creature benefiting from [*see invisibility*](./see-invisibility) or truesight) sees a luminous, intangible orb about the size of your fist.
+A creature that can see the sensor (such as a creature benefiting from [*see invisibility*][link] or truesight) sees a luminous, intangible orb about the size of your fist.
 
 ---
 

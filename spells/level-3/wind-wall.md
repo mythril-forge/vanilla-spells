@@ -37,7 +37,8 @@ The strong wind keeps fog, smoke, and other gases at bay.
 *Small* or smaller flying creatures or objects can't pass through the wall.
 Loose, lightweight materials brought into the wall fly upward.
 Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss.
-(Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can't pass through it.
+(Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.)
+Creatures in gaseous form can't pass through it.
 
 ---
 

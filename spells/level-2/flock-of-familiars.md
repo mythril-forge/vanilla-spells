@@ -16,9 +16,9 @@
 
 ## Description
 You temporarily summon three familiars—spirits that take animal forms of your choice.
-Each familiar uses the same rules and options for a familiar conjured by the [*find familiar*](./find-familiar) spell.
+Each familiar uses the same rules and options for a familiar conjured by the [*find familiar*][link] spell.
 All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice).
-If you already have a familiar conjured by the [*find familiar*](./find-familiar) spell or similar means, then one fewer familiars are conjured by this spell.
+If you already have a familiar conjured by the [*find familiar*][link] spell or similar means, then one fewer familiars are conjured by this spell.
 
 Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.
 

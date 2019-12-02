@@ -37,7 +37,7 @@ On a success, the creature can use that magic to exit the cage.
 On a failure, the creature can't exit the cage and wastes the use of the spell or effect.
 The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by [*dispel magic*](./dispel-magic).
+This spell can't be dispelled by [*dispel magic*][link].
 
 ---
 

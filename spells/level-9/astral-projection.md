@@ -37,7 +37,7 @@ The spell ends for you and your companions when you use your action to dismiss i
 When the spell ends, the affected creature returns to its physical body, and it awakens.
 
 The spell might also end early for you or one of your companions.
-A successful [*dispel magic*](./dispel-magic) spell used against an astral or physical body ends the spell for that creature.
+A successful [*dispel magic*][link] spell used against an astral or physical body ends the spell for that creature.
 If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature.
 If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
 

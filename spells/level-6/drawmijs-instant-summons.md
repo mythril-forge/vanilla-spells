@@ -26,7 +26,7 @@ The item instantly appears in your hand regardless of physical or planar distanc
 
 If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
-[*Dispel magic*](./dispel-magic) or a similar effect successfully applied to the sapphire ends this spell's effect.
+[*Dispel magic*][link] or a similar effect successfully applied to the sapphire ends this spell's effect.
 
 ---
 

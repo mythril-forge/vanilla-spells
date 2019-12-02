@@ -43,7 +43,7 @@ Finally, whenever any creature in the temple regains hit points from a spell of 
 The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior.
 Nothing can physically pass through the temple's exterior.
 It can't be dispelled by dispel magic, and antimagic field has no effect on it.
-A [*disintegrate*](./disintegrate) spell destroys the temple instantly.
+A [*disintegrate*][link] spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 

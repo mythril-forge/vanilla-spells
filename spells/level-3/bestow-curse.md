@@ -24,7 +24,7 @@ When you cast this spell, choose the nature of the curse from the following opti
 	If it fails, it wastes its action that turn doing nothing.
 - While the target is cursed, your attacks and spells deal an extra `1d8` necrotic damage to the target.
 
-A [*remove curse*](./remove-curse) spell ends this effect.
+A [*remove curse*][link] spell ends this effect.
 At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above.
 The DM has final say on such a curse's effect.
 

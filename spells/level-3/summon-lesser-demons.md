@@ -19,6 +19,7 @@
 ## Description
 You utter foul words, summoning demons from the chaos of the Abyss.
 Roll on the following table to determine what appears.
+
 | `d6` | Demons Summoned |
 |-----|-----|
 | 1&ndash;2 | Two demons of challenge rating 1 or lower |

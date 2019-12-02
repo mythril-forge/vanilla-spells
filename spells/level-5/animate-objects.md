@@ -27,6 +27,8 @@ As a bonus action, you can mentally command any creature you made with this spel
 You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor.
 If you issue no commands, the creature only defends itself against hostile creatures.
 Once given an order, the creature continues to follow it until its task is complete.
+
+#### Animated Object Statistics
 | Size | HP | AC | Attack | Str | Dex |
 |-----|-----|-----|-----|-----|-----|
 | Animated Object (Tiny) | 20 | 18 | `+8` to hit, `1d4 + 4` damage | `1d20 – 3` | `1d20 + 4` |

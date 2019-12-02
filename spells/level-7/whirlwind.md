@@ -34,7 +34,7 @@ In addition, a *large* or smaller creature that fails the save must succeed on a
 When a creature starts its turn **restrained** by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top.
 A **restrained** creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
 
-A **restrained** creature can use an action to make a Strength or Dexterity check against your Spell Save DC.
+A **restrained** creature can use an action to make a Strength or Dexterity Check against your Spell Save DC.
 If successful, the creature is no longer **restrained** by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
 
 ---

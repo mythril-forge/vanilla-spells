@@ -35,8 +35,8 @@ It lasts for the duration.
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).
 
 Nothing can physically pass through the wall.
-It is immune to all damage and can't be dispelled by [*dispel magic*](./dispel-magic).
-A [*disintegrate*](./disintegrate) spell destroys the wall instantly, however.
+It is immune to all damage and can't be dispelled by [*dispel magic*][link].
+A [*disintegrate*][link] spell destroys the wall instantly, however.
 The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
 ---

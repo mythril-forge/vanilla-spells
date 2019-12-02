@@ -24,7 +24,7 @@ The target has disadvantage on Ability Checks made with the chosen ability.
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
 
-A [*remove curse*](./remove-curse) cast on the target ends this spell early.
+A [*remove curse*][link] cast on the target ends this spell early.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your **concentration** on the spell for up to 8 hours.

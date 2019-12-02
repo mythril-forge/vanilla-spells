@@ -34,7 +34,7 @@ While an effect is suppressed, it doesn't function, but the time it spends suppr
 Spells and other magical effects, such as magic missile and charm person, that target a creature or an object in the sphere have no effect on that target.
 
 ### Areas of Magic
-The area of another spell or magical effect, such as [*fireball*](./fireball), can't extend into the sphere.
+The area of another spell or magical effect, such as [*fireball*][link], can't extend into the sphere.
 If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed.
 For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
@@ -43,7 +43,7 @@ Any active spell or other magical effect on a creature or an object in the spher
 
 ### Magic Items
 The properties and powers of magic items are suppressed in the sphere.
-For example, a +1 longsword in the sphere functions as a nonmagical longsword.
+For example, a `+1` longsword in the sphere functions as a nonmagical longsword.
 
 A magic weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere.
 If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.
@@ -57,8 +57,8 @@ A creature or object summoned or created by magic temporarily winks out of exist
 Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
 
 ### Dispel Magic
-Spells and magical effects such as [*dispel magic*](./dispel-magic) have no effect on the sphere.
-Likewise, the spheres created by different [*antimagic field*](./antimagic-field) spells don't nullify each other.
+Spells and magical effects such as [*dispel magic*][link] have no effect on the sphere.
+Likewise, the spheres created by different [*antimagic field*][link] spells don't nullify each other.
 
 ---
 

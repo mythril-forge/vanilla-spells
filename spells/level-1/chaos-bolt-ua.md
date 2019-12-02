@@ -20,6 +20,8 @@ Make a Ranged Spell Attack against the target.
 On a hit, the target takes `2d8` damage.
 Choose one of the `d8`s.
 The number it rolled determines the type of damage, as shown below.
+
+#### Chaos Bolt
 | `d8` | Damage Type |
 |-----|-----|
 | 1 | Acid |

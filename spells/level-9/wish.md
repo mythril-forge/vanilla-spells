@@ -24,7 +24,7 @@ The spell simply takes effect.
 Alternatively, you can create one of the following effects of your choice:
 - You create one object of up to 25,000 gp in value that isn't a magic item.
 	The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
-- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the [*greater restoration*](./greater-restoration) spell.
+- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the [*greater restoration*][link] spell.
 - You grant up to ten creatures that you can see resistance to a damage type you choose.
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
 	For instance, you could make yourself and all your companions immune to a Lich's life drain attack.
@@ -45,7 +45,7 @@ After enduring that stress, each time you cast a spell until you finish a long r
 This damage can't be reduced or prevented in any way.
 In addition, your Strength drops to 3, if it isn't 3 or lower already, for `2d4` days.
 For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days.
-Finally, there is a 33`33%` chance that you are unable to cast wish ever again if you suffer this stress.
+Finally, there is a `33%` chance that you are unable to cast wish ever again if you suffer this stress.
 
 ---
 
