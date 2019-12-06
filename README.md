@@ -16,3 +16,5 @@ To get started with this project, browse the [`spells/`](./spells/) directory at
 - Chances are code-blocked, like `25%` chance to decapitate.
 - Bonuses are code-blocked, like `+3` magical bonus.
 - Other statistics are code-blocked, like AC of `20`.
+
+[link]: ./spells/level-1/magic-missile.md
