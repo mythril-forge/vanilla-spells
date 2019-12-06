@@ -4,7 +4,7 @@
 
 ***2nd-level abjuration***
 
-**Casting Time:** reaction (which you take when you are forced to make an Intelligence, a Wisdom, or a Charisma saving throw)
+**Casting Time:** reaction (which you take when you are forced to make an Intelligence, a Wisdom, or a Charisma Saving Throw)
 
 **Duration:** 1 round
 

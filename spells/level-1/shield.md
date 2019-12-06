@@ -4,7 +4,7 @@
 
 ***1st-level abjuration***
 
-**Casting Time:** reaction (which you take when you are hit by an attack or targeted by the [*magic missile*](./magic-missile) spell)
+**Casting Time:** reaction (which you take when you are hit by an attack or targeted by the [*magic missile*][link] spell)
 
 **Duration:** 1 round
 
