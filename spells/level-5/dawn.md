@@ -34,6 +34,4 @@ If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bon
 
 ---
 
-**Classes:** cleric, wizard
-
 **Sources:** XGE, page 153

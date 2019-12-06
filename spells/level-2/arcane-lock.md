@@ -27,8 +27,4 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ---
 
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subraces:** tiefling (mammon), tiefling (mammon)
-
 **Sources:** PHB, page 215

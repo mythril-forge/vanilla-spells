@@ -24,10 +24,8 @@ On a failed save, a creature suffers an effect based on its current hit points:
 - 30 hit points or fewer: **blinded**, **deafened**, and **stunned** for 1 hour
 - 20 hit points or fewer: killed instantly
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [*wish*](./wish) spell.
+Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [*wish*][link] spell.
 
 ---
-
-**Classes:** cleric
 
 **Sources:** PHB, page 234

@@ -24,8 +24,4 @@ It remains there until the spell ends, at which point the target reappears in th
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** hexblade warlock, battle smith artificer (revisited)
-
 **Sources:** PHB, page 216

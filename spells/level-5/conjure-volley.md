@@ -31,6 +31,4 @@ The damage type is the same as that of the ammunition or weapon.
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 226

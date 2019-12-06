@@ -22,6 +22,4 @@ You must choose a skill in which the target is proficient and that isn't already
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
 **Sources:** XGE, page 165

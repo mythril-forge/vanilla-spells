@@ -21,8 +21,4 @@ While perceiving through the beast's senses, you gain the benefits of any specia
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** totem warrior barbarian
-
 **Sources:** PHB, page 217

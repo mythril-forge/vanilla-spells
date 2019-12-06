@@ -26,8 +26,4 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Classes:** bard, cleric, sorcerer, wizard
-
-**Subclasses:** death cleric, fiend warlock, undying warlock, darkness (twitter) cleric, spores (ua) druid
-
 **Sources:** PHB, page 219

@@ -25,8 +25,4 @@ Each nonhostile creature in the aura (including you) can't become diseased, has 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** battle smith artificer (revisited)
-
 **Sources:** PHB, page 216

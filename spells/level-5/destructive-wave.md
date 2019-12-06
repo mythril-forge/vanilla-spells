@@ -25,8 +25,4 @@ A creature that succeeds on its Saving Throw takes half as much damage and isn't
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** tempest cleric, hexblade (ua) warlock, strength (psa) cleric, zeal (psa) cleric, destruction (twitter) cleric
-
 **Sources:** PHB, page 231

@@ -26,6 +26,4 @@ On a successful save, the spell ends.
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 264

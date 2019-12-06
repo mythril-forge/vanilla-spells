@@ -29,6 +29,4 @@ The target gains half the total as temporary hit points.
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** XGE, page 163

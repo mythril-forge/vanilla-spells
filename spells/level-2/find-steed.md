@@ -16,8 +16,9 @@
 
 ## Description
 You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it.
-Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff.
-(Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type.
+Appearing in an unoccupied space within range, the steed takes on a form that you choose: a Warhorse, a Pony, a Camel, an Elk, or a Mastiff.
+(Your DM might allow other animals to be summoned as steeds.)
+The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type.
 Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit.
@@ -33,7 +34,5 @@ You can't have more than one steed bonded by this spell at a time.
 As an action, you can release the steed from its bond at any time, causing it to disappear.
 
 ---
-
-**Classes:** paladin
 
 **Sources:** PHB, page 240

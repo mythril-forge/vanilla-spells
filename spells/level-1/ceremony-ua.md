@@ -21,11 +21,11 @@ You perform one of several religious ceremonies.
 When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
 
 ### Atonement
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) Check.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check.
 On a success, you restore the target to its original alignment.
 
 ### Bless Water
-You touch one vial of water and cause it to become Holy Water (flask).
+You touch one *vial* of water and cause it to become *holy water*.
 
 ### Coming of Age
 You touch one humanoid old enough to be a young adult.
@@ -39,7 +39,7 @@ A creature can benefit from this ceremony just once.
 
 ### Funeral Rite
 You bless one corpse within 5 feet of you.
-For the next 24 hours, the target can't become undead by any means short of a [*wish*](./wish) spell.
+For the next 24 hours, the target can't become undead by any means short of a [*wish*][link] spell.
 
 ### Investiture
 You touch one willing humanoid.
@@ -50,11 +50,9 @@ If the target doesn't cast the spell within 1 hour, the invested spell is lost.
 
 ### Marriage
 You touch adult humanoids willing to be bonded together in marriage.
-For the next 24 hours, each target gains a +2 bonus to AC and Saving Throws while they are within 30 feet of each other.
+For the next 24 hours, each target gains a `+2` bonus to AC and Saving Throws while they are within 30 feet of each other.
 A creature can benefit from this ceremony just once.
 
 ---
-
-**Classes:** cleric, paladin
 
 **Sources:** UA-SS, page 2

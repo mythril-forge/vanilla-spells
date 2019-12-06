@@ -20,6 +20,4 @@ On each of your turns before the spell ends, you can use a bonus action to telep
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 155

@@ -31,6 +31,4 @@ When you cast this spell using a spell slot of 5th level or higher, the initial 
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
-
 **Sources:** XGE, page 170

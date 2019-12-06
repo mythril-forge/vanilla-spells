@@ -34,6 +34,4 @@ A creature so transported must find its own way back to your current plane of ex
 
 ---
 
-**Classes:** cleric, druid, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 266

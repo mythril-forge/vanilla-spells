@@ -30,8 +30,4 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 ---
 
-**Classes:** wizard
-
-**Subraces:** tiefling (mammon), tiefling (mammon)
-
 **Sources:** PHB, page 282

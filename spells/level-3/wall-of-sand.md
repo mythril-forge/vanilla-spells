@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 30 feet
 
 **Width:** 10 feet
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -31,7 +31,5 @@ It blocks line of sight but not movement.
 A creature is **blinded** while in the wall's space and must spend 3 feet of movement for every 1 foot it moves there.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** XGE, page 170

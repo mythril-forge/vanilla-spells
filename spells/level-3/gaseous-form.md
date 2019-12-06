@@ -32,8 +32,4 @@ The target can't attack or cast spells.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, treachery (ua) paladin, spores (ua) druid, spores druid
-
 **Sources:** PHB, page 244

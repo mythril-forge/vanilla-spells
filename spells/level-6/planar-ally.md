@@ -44,6 +44,4 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 265

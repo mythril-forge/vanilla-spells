@@ -23,12 +23,8 @@ Each affected target must use as much of its movement as possible to move in tha
 It can take its action before it moves.
 After moving in this way, it can make another Wisdom Saving Throw to try to end the effect.
 
-A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke Opportunity Attacks to move in the designated direction.
+A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
 ---
-
-**Classes:** bard
-
-**Subclasses:** order (ua) cleric, beauty (twitter) cleric, order cleric, aberrant mind (ua) sorcerer
 
 **Sources:** PHB, page 224

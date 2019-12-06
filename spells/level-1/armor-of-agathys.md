@@ -26,10 +26,4 @@ When you cast this spell using a spell slot of 2nd level or higher, both the tem
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, giant soul (ua) sorcerer
-
-**Subraces:** tiefling (levistus), tiefling (levistus)
-
 **Sources:** PHB, page 215

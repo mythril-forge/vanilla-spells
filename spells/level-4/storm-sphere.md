@@ -29,13 +29,11 @@ Make a Ranged Spell Attack.
 You have advantage on the Attack Roll if the target is in the sphere.
 On a hit, the target takes `4d6` lightning damage.
 
-Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) Checks made to listen.
+Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `1d6` for each slot level above 4th.
 
 ---
-
-**Classes:** sorcerer, wizard
 
 **Sources:** XGE, page 166

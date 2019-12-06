@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 100 feet
 
 **Width:** 6 inches
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -46,13 +46,9 @@ The wall is an object made of stone that can be damaged and thus breached.
 Each panel has AC 15 and 30 hit points per inch of thickness.
 Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM's discretion.
 
-If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled.
+If you maintain your **concentration** on this spell for its whole duration, the wall becomes permanent and can't be dispelled.
 Otherwise, the wall disappears when the spell ends.
 
 ---
-
-**Classes:** druid, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** land druid, land druid
 
 **Sources:** PHB, page 287

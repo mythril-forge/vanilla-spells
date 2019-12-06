@@ -16,7 +16,7 @@
 
 ## Description
 You summon a spirit that assumes the form of a loyal, majestic mount.
-Appearing in an unoccupied space within range, the spirit takes on a form you choose: a griffon, a pegasus, a peryton, a dire wolf, a rhinoceros, or a saber-toothed tiger.
+Appearing in an unoccupied space within range, the spirit takes on a form you choose: a Griffon, a Pegasus, a Peryton, a Dire Wolf, a Rhinoceros, or a Saber-Toothed Tiger.
 The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type.
 Additionally, if it has an Intelligence Score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
@@ -33,7 +33,5 @@ As an action, you can release a mount from its bond, causing it to disappear per
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
 
 ---
-
-**Classes:** paladin
 
 **Sources:** XGE, page 156

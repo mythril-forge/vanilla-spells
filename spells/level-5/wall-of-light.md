@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 60 feet
 
 **Width:** 5 feet
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -49,7 +49,5 @@ If the wall's length drops to 0 feet, the spell ends.
 When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
 ---
-
-**Classes:** sorcerer, warlock, wizard
 
 **Sources:** XGE, page 170

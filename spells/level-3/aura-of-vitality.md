@@ -25,8 +25,4 @@ You can use a bonus action to cause one creature in the aura (including you) to 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** crown paladin, battle smith artificer (revisited)
-
 **Sources:** PHB, page 216

@@ -27,6 +27,4 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
 **Sources:** PHB, page 254

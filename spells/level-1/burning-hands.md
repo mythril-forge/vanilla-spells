@@ -30,10 +30,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, celestial (ua) warlock, undying light (ua) warlock, giant soul (ua) sorcerer
-
-**Subraces:** genasi (fire), tiefling (variant), tiefling (abyssal), tiefling (mephistopheles)
-
 **Sources:** PHB, page 220

@@ -28,6 +28,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 168

@@ -40,8 +40,4 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** great old one warlock
-
 **Sources:** PHB, page 280

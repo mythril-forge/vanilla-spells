@@ -28,6 +28,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the cold dam
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 157

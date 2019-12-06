@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 20 feet
-
 **Length:** 60 feet
 
 **Width:** 6 inches
+
+**Height:** 20 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -37,9 +37,5 @@ Reducing a frozen section to 0 hit points destroys it.
 When a section is destroyed, the wall's water doesn't fill it.
 
 ---
-
-**Classes:** druid, sorcerer, wizard
-
-**Races:** triton
 
 **Sources:** XGE, page 170

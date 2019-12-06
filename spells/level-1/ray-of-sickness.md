@@ -25,10 +25,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** death cleric, undying warlock, alchemist artificer (revisited)
-
-**Subraces:** tiefling (baalzebul), tiefling (baalzebul)
-
 **Sources:** PHB, page 271

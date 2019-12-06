@@ -26,6 +26,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 221

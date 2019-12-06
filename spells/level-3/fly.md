@@ -26,6 +26,4 @@ When you cast this spell using a spell slot of 4th level or higher, you can targ
 
 ---
 
-**Classes:** sorcerer, warlock, wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 243

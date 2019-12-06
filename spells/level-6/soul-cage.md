@@ -37,14 +37,12 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 If you don't use this benefit before the start of your next turn, it is lost.
 
 ### Eyes of the Dead
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on.
+You can use an action to name a place the humanoid saw in life, which creates an **invisible** sensor somewhere in that place if it is on the plane of existence you're currently on.
 The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell).
 You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [*see invisibility*](./see-invisibility) or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [*see invisibility*][link] or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ---
-
-**Classes:** warlock, wizard
 
 **Sources:** XGE, page 165

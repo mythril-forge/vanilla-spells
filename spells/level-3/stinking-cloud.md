@@ -34,8 +34,4 @@ A strong wind (at least 20 miles per hour) disperses it after 1 round.
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** land druid, land druid, fiend warlock, alchemist artificer (revisited)
-
 **Sources:** PHB, page 278

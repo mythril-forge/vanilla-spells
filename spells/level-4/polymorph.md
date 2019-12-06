@@ -23,7 +23,7 @@ The spell has no effect on a shapechanger or a creature with 0 hit points.
 
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies.
 The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating).
-The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast.
+The target's game statistics, including Mental Ability Scores, are replaced by the statistics of the chosen beast.
 It retains its alignment and personality.
 
 The target assumes the hit points of its new form.
@@ -37,9 +37,5 @@ The target's gear melds into the new form.
 The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
 ---
-
-**Classes:** bard, druid, sorcerer, wizard
-
-**Subclasses:** trickery cleric
 
 **Sources:** PHB, page 266

@@ -1,0 +1,110 @@
+# Format Rules
+Game statistics and dice rolls use capitalized words:
+- AC
+- Damage Reduction
+- Damage Threshold
+- Spell Save DC
+- ~~any ability~~
+	- Strength
+	- Dexterity
+	- Constitution
+	- Intelligence
+	- Wisdom
+	- Charisma
+- Ability Score
+	- Strength Ability Score
+	- Dexterity Ability Score
+	- Constitution Ability Score
+	- Intelligence Ability Score
+	- Wisdom Ability Score
+	- Charisma Ability Score
+	- Mental Ability Scores
+	- Physical Ability Scores
+- Ability Check
+	- Strength Ability Check
+	- Dexterity Ability Check
+	- Constitution Ability Check
+	- Intelligence Ability Check
+	- Wisdom Ability Check
+	- Charisma Ability Check
+	- Mental Ability Checks
+	- Physical Ability Checks
+- Saving Throw
+	- Strength Saving Throw
+	- Dexterity Saving Throw
+	- Constitution Saving Throw
+	- Intelligence Saving Throw
+	- Wisdom Saving Throw
+	- Charisma Saving Throw
+	- Mental Saving Throws
+	- Physical Saving Throws
+- Attack Roll
+	- Ranged Attack
+	- Melee Attack
+	- Spell Attack
+	- Weapon Attack
+	- Ranged Spell Attack
+	- Ranged Weapon Attack
+	- Melee Spell Attack
+	- Melee Weapon Attack
+- Damage Roll
+- Attack &amp; Damage Rolls
+- Flip a Coin
+- ~~variable classes, subclasses, races, subraces, and creatures:~~
+	- Half-Orc
+	- Variant Human
+	- Fighter
+	- &hellip;
+
+Conditions are specifically emphasized and bolded:
+- **blinded**
+- **charmed**
+- **deafened**
+- **fatigued**
+- **frightened**
+- **grappled**
+- **incapacitated**
+- **insane**
+- **invisible**
+- **paralyzed**
+- **petrified**
+- **poisoned**
+- **prone**
+- **restrained**
+- **stunned**
+- **unconscious**
+- **concentration**
+- **exhaustion**
+
+Other game mechanics, actions, sizes, and items are italicized:
+- ~~actions in combat:~~
+	- *attack*
+	- *cast a spell*
+	- *dash*
+	- *disengage*
+	- *dodge*
+	- *help*
+	- *hide*
+	- *ready*
+	- *search*
+	- *use an object*
+- ~~variable sizes:~~
+	- *tiny*
+	- *small*
+	- *medium*
+	- *large*
+	- *huge*
+	- *gargantuan*
+	- *titanic*
+- ~~variable items:~~
+	- *alchemist's fire*
+	- *greatsword*
+	- *potion of greater healing*
+	- &hellip;
+
+Spells in particular are italicized and linked:
+- ~~variable spells:~~
+	- [*fire bolt*]()
+	- [*shield*]()
+	- [*wish*]()
+	- &hellip;

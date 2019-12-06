@@ -27,7 +27,7 @@ If the area includes a shore, the flooding water spills over onto dry land.
 
 If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down.
 Any *huge* or smaller vehicles in the wave's path are carried with it to the other side.
-Any *huge* or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
+Any *huge* or smaller vehicles struck by the wave have a `25%` chance of capsizing.
 
 The water level remains elevated until the spell ends or you choose a different effect.
 If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.
@@ -48,19 +48,15 @@ This effect requires a body of water at least 50 feet square and 25 feet deep.
 You cause a whirlpool to form in the center of the area.
 The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall.
 Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it.
-A creature can swim away from the vortex by making a Strength (Athletics) Check against your Spell Save DC.
+A creature can swim away from the vortex by making a Strength (Athletics) check against your Spell Save DC.
 
 When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength Saving Throw.
 On a failed save, the creature takes `2d8` bludgeoning damage and is caught in the vortex until the spell ends.
 On a successful save, the creature takes half damage, and isn't caught in the vortex.
-A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) Check to do so.
+A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
 
 The first time each turn that an object enters the vortex, the object takes `2d8` bludgeoning damage; this damage occurs each round it remains in the vortex.
 
 ---
-
-**Classes:** cleric, druid, wizard
-
-**Subclasses:** tempest cleric, land druid, kraken (stream) warlock, lurker in the deep (ua) warlock
 
 **Sources:** PHB, page 227

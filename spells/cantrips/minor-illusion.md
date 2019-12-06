@@ -24,19 +24,13 @@ If you create a sound, its volume can range from a whisper to a scream.
 It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose.
 The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-If you create an image of an object&mdash;such as a chair, muddy footprints, or a small chest&mdash;it must be no larger than a 5-foot cube.
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube.
 The image can't create sound, light, smell, or any other sensory effect.
 Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) Check against your Spell Save DC.
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
 ---
-
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** giant soul (ua) sorcerer
-
-**Subraces:** elf (eladrin), gnome (forest), tiefling (glasya), tiefling (glasya)
 
 **Sources:** PHB, page 260

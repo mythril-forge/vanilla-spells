@@ -25,6 +25,4 @@ The drinker regains `2d4 + 2` hit points.
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** UA-SS, page 3

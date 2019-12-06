@@ -27,8 +27,4 @@ The communication is possible over any distance, though it can't extend to other
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** aberrant mind (ua) sorcerer
-
 **Sources:** PHB, page 270

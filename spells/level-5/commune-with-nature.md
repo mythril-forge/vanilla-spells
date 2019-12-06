@@ -31,8 +31,4 @@ For example, you could determine the location of powerful undead in the area, th
 
 ---
 
-**Classes:** druid, ranger
-
-**Subclasses:** land druid, land druid, ancients paladin, kraken (stream) warlock, lurker in the deep (ua) warlock
-
 **Sources:** PHB, page 224

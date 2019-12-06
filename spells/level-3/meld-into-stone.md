@@ -19,7 +19,7 @@ You step into a stone object or surface large enough to fully contain your body,
 Using your movement, you step into the stone at a point you can touch.
 Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
 
-While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) Checks you make to hear sounds outside it are made with disadvantage.
+While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage.
 You remain aware of the passage of time and can cast spells on yourself while merged in the stone.
 You can use your movement to leave the stone where you entered it, which ends the spell.
 You otherwise can't move.
@@ -29,9 +29,5 @@ The stone's complete destruction (or transmutation into a different substance) e
 If expelled, you fall **prone** in an unoccupied space closest to where you first entered.
 
 ---
-
-**Classes:** cleric, druid
-
-**Subclasses:** land druid
 
 **Sources:** PHB, page 259

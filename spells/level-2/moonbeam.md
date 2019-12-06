@@ -39,8 +39,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** ancients paladin
-
 **Sources:** PHB, page 261

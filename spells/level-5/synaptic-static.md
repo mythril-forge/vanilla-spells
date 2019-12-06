@@ -25,11 +25,9 @@ A creature with an Intelligence Score of 2 or lower can't be affected by this sp
 A target takes `8d6` psychic damage on a failed save, or half as much damage on a successful one.
 
 After a failed save, a target has muddled thoughts for 1 minute.
-During that time, it rolls a `d6` and subtracts the number rolled from all its Attack Rolls and Ability Checks, as well as its Constitution Saving Throws to maintain concentration.
+During that time, it rolls a `d6` and subtracts the number rolled from all its Attack Rolls and Ability Checks, as well as its Constitution Saving Throws to maintain **concentration**.
 The target can make an Intelligence Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
-
-**Classes:** bard, sorcerer, warlock, wizard
 
 **Sources:** XGE, page 167

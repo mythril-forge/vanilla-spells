@@ -23,8 +23,4 @@ You can use remote access with only one device at a time.
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city (ua) cleric, ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 8

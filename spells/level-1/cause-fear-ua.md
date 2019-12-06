@@ -22,6 +22,4 @@ The spell has no effect on constructs or undead.
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** UA-SS, page 2

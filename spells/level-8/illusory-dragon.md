@@ -27,11 +27,9 @@ When you create the dragon, choose a damage type: acid, cold, fire, lightning, n
 Each creature in the cone must make an Intelligence Saving Throw, taking `7d6` damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all Saving Throws, and it is immune to all damage and conditions.
-A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) Check against your Spell Save DC.
+A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your Spell Save DC.
 If a creature discerns the illusion for what it is, the creature can see through it and has advantage on Saving Throws against its breath.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** XGE, page 157

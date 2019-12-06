@@ -24,8 +24,4 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** crown paladin, protection (ua) cleric, stone (ua) sorcerer
-
 **Sources:** PHB, page 224

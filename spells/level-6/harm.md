@@ -24,6 +24,4 @@ Any effect that removes a disease allows a creature's hit point maximum to retur
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 249

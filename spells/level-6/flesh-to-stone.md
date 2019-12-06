@@ -29,10 +29,8 @@ The successes and failures don't need to be consecutive; keep track of both unti
 
 If the creature is physically broken while **petrified**, it suffers from similar deformities if it reverts to its original state.
 
-If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
+If you maintain your **concentration** on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
 ---
-
-**Classes:** warlock, wizard
 
 **Sources:** PHB, page 243

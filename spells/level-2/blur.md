@@ -21,8 +21,4 @@ An attacker is immune to this effect if it doesn't rely on sight, as with blinds
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, hexblade warlock
-
 **Sources:** PHB, page 219

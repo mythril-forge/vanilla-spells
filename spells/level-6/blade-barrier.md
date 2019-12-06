@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 20 feet
-
 **Length:** 100 feet
 
 **Width:** 5 feet
+
+**Height:** 20 feet
 
 **Tags:** verbal, somatic, concentration
 
@@ -33,7 +33,5 @@ On a failed save, the creature takes `6d10` slashing damage.
 On a successful save, the creature takes half as much damage.
 
 ---
-
-**Classes:** cleric
 
 **Sources:** PHB, page 218

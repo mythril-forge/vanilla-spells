@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a pinch of Talc and a small sprinkling of powdered silver
+**Material Components:** a pinch of talc and a small sprinkling of powdered silver
 
 ---
 
@@ -21,7 +21,5 @@ For the duration, you see **invisible** creatures and objects as if they were vi
 Ethereal creatures and objects appear ghostly and translucent.
 
 ---
-
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
 
 **Sources:** PHB, page 274

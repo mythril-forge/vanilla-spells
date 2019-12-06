@@ -36,8 +36,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** druid, wizard
-
-**Subclasses:** light cleric, celestial (ua) warlock, undying light (ua) warlock, celestial warlock, giant soul (ua) sorcerer
-
 **Sources:** PHB, page 242

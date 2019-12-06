@@ -26,6 +26,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** druid, warlock, wizard, artificer (revisited)
-
 **Sources:** XGE, page 155

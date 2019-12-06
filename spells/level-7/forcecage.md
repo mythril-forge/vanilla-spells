@@ -21,10 +21,10 @@
 ---
 
 ## Description
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range.
+An immobile, **invisible**, cube-shaped prison composed of magical force springs into existence around an area you choose within range.
 The prison can be a cage or a solid box as you choose.
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from &frac12;-inch diameter bars spaced &frac12; inch apart.
+A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
 
 A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
@@ -37,10 +37,8 @@ On a success, the creature can use that magic to exit the cage.
 On a failure, the creature can't exit the cage and wastes the use of the spell or effect.
 The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by [*dispel magic*](./dispel-magic).
+This spell can't be dispelled by [*dispel magic*][link].
 
 ---
-
-**Classes:** bard, warlock, wizard
 
 **Sources:** PHB, page 243

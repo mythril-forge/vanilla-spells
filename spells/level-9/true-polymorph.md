@@ -27,7 +27,7 @@ An unwilling creature can make a Wisdom Saving Throw, and if it succeeds, it isn
 
 ### Creature into Creature
 If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating).
-The target's game statistics, including mental ability scores, are replaced by the statistics of the new form.
+The target's game statistics, including Mental Ability Scores, are replaced by the statistics of the new form.
 It retains its alignment and personality.
 
 The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed.
@@ -54,7 +54,5 @@ If you turn a creature into an object, it transforms along with whatever it is w
 The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
 
 ---
-
-**Classes:** bard, warlock, wizard
 
 **Sources:** PHB, page 283

@@ -28,6 +28,4 @@ The damage type is the same as that of the weapon or ammunition used as a compon
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 225

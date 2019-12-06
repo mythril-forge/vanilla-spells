@@ -33,6 +33,4 @@ The hand releases a **restrained** target if you do either.
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** XGE, page 161

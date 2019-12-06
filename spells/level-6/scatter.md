@@ -24,6 +24,4 @@ That space must be on the ground or on a floor.
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 164

@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 20 feet
-
 **Length:** 60 feet
 
 **Width:** 5 feet
+
+**Height:** 20 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -42,7 +42,5 @@ It takes `7d8` slashing damage on a failed save, or half as much damage on a suc
 When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by `1d8` for each slot level above 6th.
 
 ---
-
-**Classes:** druid
 
 **Sources:** PHB, page 287

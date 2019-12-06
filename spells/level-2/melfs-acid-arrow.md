@@ -27,8 +27,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage (
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** land druid, alchemist artificer (revisited)
-
 **Sources:** PHB, page 259

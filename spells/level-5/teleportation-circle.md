@@ -22,7 +22,7 @@ A shimmering portal opens within the circle you drew and remains open until the 
 Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines.
-Each such circle includes a unique sigil sequence&mdash;a string of magical runes arranged in a particular pattern.
+Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern.
 When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM.
 You can learn additional sigil sequences during your adventures.
 You can commit a new sigil sequence to memory after studying it for 1 minute.
@@ -31,9 +31,5 @@ You can create a permanent teleportation circle by casting this spell in the sam
 You need not use the circle to teleport when you cast the spell in this way.
 
 ---
-
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** arcana cleric, horizon walker (ua) ranger, horizon walker ranger, horizon walker (ua) ranger (revised), horizon walker ranger (revised)
 
 **Sources:** PHB, page 282

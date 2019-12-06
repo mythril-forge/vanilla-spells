@@ -30,8 +30,4 @@ When you cast this spell using a spell slot of 3rd level or higher, the damage i
 
 ---
 
-**Classes:** bard, druid, artificer (revisited)
-
-**Subclasses:** city (ua) cleric, forge (ua) cleric, forge cleric
-
 **Sources:** PHB, page 250

@@ -23,8 +23,4 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 ---
 
-**Classes:** cleric, paladin, artificer
-
-**Subclasses:** death cleric, life cleric, undying warlock, grave (ua) cleric, ambition (psa) cleric, grave cleric, alchemist artificer (revisited)
-
 **Sources:** PHB, page 230

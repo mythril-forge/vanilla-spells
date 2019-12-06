@@ -28,6 +28,4 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 
 ---
 
-**Classes:** ranger, wizard
-
 **Sources:** XGE, page 166

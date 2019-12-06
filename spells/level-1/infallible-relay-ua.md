@@ -27,8 +27,4 @@ You can end the conversation at any time, but a target must succeed on a Charism
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 7

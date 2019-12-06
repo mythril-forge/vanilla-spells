@@ -35,6 +35,4 @@ It might leave, attack you, or help you.
 
 ---
 
-**Classes:** cleric, sorcerer, wizard
-
 **Sources:** PHB, page 244

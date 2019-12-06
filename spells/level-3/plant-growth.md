@@ -30,8 +30,4 @@ The plants yield twice the normal amount of food when harvested.
 
 ---
 
-**Classes:** bard, druid, ranger
-
-**Subclasses:** nature cleric, land druid, ancients paladin, archfey warlock
-
 **Sources:** PHB, page 266

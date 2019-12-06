@@ -23,6 +23,4 @@ In addition, the spell ends if you move to a place more than 1,000 feet from the
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** PHB, page 283

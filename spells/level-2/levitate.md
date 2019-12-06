@@ -30,10 +30,4 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ---
 
-**Classes:** sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** seeker (ua) warlock
-
-**Subraces:** genasi (air), tiefling (abyssal)
-
 **Sources:** PHB, page 255

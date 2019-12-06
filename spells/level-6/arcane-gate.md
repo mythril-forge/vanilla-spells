@@ -29,6 +29,4 @@ On your turn, you can rotate the rings as a bonus action so that the active side
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** PHB, page 214

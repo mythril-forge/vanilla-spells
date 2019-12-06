@@ -24,8 +24,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you gain 5 a
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** death cleric, undying warlock, grave (ua) cleric, raven queen (ua) warlock, grave cleric
-
 **Sources:** PHB, page 239

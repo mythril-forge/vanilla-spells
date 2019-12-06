@@ -28,8 +28,4 @@ The attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage fr
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** fiend warlock, undying light (ua) warlock, zeal (psa) cleric
-
 **Sources:** PHB, page 242

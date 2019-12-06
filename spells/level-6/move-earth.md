@@ -16,7 +16,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** an iron blade and a small bag containing a mixture of soils&mdash;clay, loam, and sand
+**Material Components:** an iron blade and a small bag containing a mixture of soils—clay, loam, and sand
 
 ---
 
@@ -40,7 +40,5 @@ Similarly, this spell doesn't directly affect plant growth.
 The moved earth carries any plants along with it.
 
 ---
-
-**Classes:** druid, sorcerer, wizard
 
 **Sources:** PHB, page 263

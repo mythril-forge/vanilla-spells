@@ -22,6 +22,4 @@ If you do so, the resistances end, and you have the immunity until the end of yo
 
 ---
 
-**Classes:** druid
-
 **Sources:** XGE, page 163

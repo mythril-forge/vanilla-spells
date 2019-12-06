@@ -34,8 +34,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** land druid, city (ua) cleric, destruction (twitter) cleric, lurker in the deep (ua) warlock
-
 **Sources:** PHB, page 255

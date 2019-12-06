@@ -22,6 +22,4 @@ This spell has no effect on a humanoid that is immune to being **charmed**.
 
 ---
 
-**Classes:** bard, warlock, wizard
-
 **Sources:** UA-SS, page 3

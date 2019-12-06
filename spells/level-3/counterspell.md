@@ -26,8 +26,4 @@ When you cast this spell using a spell slot of 4th level or higher, the interrup
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
-**Subclasses:** redemption (ua) paladin, redemption paladin
-
 **Sources:** PHB, page 228

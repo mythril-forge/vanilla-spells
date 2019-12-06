@@ -17,7 +17,7 @@
 ## Description
 Threads of dark power leap from your fingers to pierce up to five *small* or *medium* corpses you can see within range.
 Each corpse immediately stands up and becomes undead.
-You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
+You decide whether it is a Zombie or a Skeleton (the statistics for Zombies and Skeletons are in the Monster Manual), and it gains a bonus to its Attack &amp; Damage Rolls equal to your Spellcasting Ability Modifier.
 
 You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them.
 To receive the command, a creature must be within 60 feet of you.
@@ -31,7 +31,5 @@ The creatures are under your control until the spell ends, after which they beco
 When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 
 ---
-
-**Classes:** warlock, wizard
 
 **Sources:** XGE, page 153

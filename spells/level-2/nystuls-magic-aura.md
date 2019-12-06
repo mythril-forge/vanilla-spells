@@ -35,8 +35,4 @@ You choose a creature type and other spells and magical effects treat the target
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** arcana cleric
-
 **Sources:** PHB, page 263

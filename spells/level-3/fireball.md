@@ -33,8 +33,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage i
 
 ---
 
-**Classes:** sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, zeal (psa) cleric, destruction (twitter) cleric, artillerist artificer (revisited)
-
 **Sources:** PHB, page 241

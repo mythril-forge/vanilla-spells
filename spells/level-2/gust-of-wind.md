@@ -29,16 +29,10 @@ Each creature that starts its turn in the line must succeed on a Strength Saving
 Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
 
 The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area.
-It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
+It causes protected flames, such as those of lanterns, to dance wildly and has a `50%` chance to extinguish them.
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
 ---
-
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** tempest cleric, kraken (stream) warlock, giant soul (ua) sorcerer, lurker in the deep (ua) warlock
-
-**Races:** triton
 
 **Sources:** PHB, page 248

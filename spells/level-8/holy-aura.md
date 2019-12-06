@@ -28,6 +28,4 @@ The attacker must succeed on a Constitution Saving Throw or be **blinded** until
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 251

@@ -27,10 +27,4 @@ On a success, the spell ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** oathbreaker paladin
-
-**Subraces:** tiefling (baalzebul), tiefling (baalzebul)
-
 **Sources:** PHB, page 229

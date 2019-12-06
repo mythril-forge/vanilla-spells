@@ -25,6 +25,4 @@ Additionally, if you know the nature and contents of a demiplane created by a ca
 
 ---
 
-**Classes:** warlock, wizard
-
 **Sources:** PHB, page 231

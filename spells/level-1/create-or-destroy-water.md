@@ -36,10 +36,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ---
 
-**Classes:** cleric, druid
-
-**Subclasses:** kraken (stream) warlock, lurker in the deep (ua) warlock
-
-**Subraces:** genasi (water)
-
 **Sources:** PHB, page 229

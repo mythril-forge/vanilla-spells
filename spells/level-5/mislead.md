@@ -26,6 +26,4 @@ While you are using its senses, you are **blinded** and **deafened** in regard t
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 260

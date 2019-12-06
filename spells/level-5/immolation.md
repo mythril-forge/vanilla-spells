@@ -28,6 +28,4 @@ If damage from this spell kills a target, the target is turned to ash.
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** XGE, page 158

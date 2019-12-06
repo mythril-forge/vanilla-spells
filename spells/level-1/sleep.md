@@ -36,8 +36,4 @@ When you cast this spell using a spell slot of 2nd level or higher, roll an addi
 
 ---
 
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** archfey warlock, redemption (ua) paladin, redemption paladin
-
 **Sources:** PHB, page 276

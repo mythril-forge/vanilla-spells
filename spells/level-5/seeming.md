@@ -29,13 +29,9 @@ The changes wrought by this spell fail to hold up to physical inspection.
 For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair.
 If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-A creature can use its action to inspect a target and make an Intelligence (Investigation) Check against your Spell Save DC.
+A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your Spell Save DC.
 If it succeeds, it becomes aware that the target is disguised.
 
 ---
-
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** archfey warlock, deep stalker (ua) ranger, gloom stalker ranger, deep stalker conclave ranger (revised), gloom stalker ranger (revised)
 
 **Sources:** PHB, page 274

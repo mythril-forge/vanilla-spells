@@ -25,6 +25,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 ---
 
-**Classes:** bard, druid, ranger, wizard, artificer, artificer (revisited)
-
 **Sources:** PHB, page 256

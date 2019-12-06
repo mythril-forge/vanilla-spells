@@ -36,11 +36,11 @@ The creature has disadvantage on Strength Checks, Strength Saving Throws, and At
 
 ### Flesh Rot
 The creature's flesh decays.
-The creature has disadvantage on Charisma checks and vulnerability to all damage.
+The creature has disadvantage on Charisma Checks and vulnerability to all damage.
 
 ### Mindfire
 The creature's mind becomes feverish.
-The creature has disadvantage on Intelligence Checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the [*confusion*](./confusion) spell during combat.
+The creature has disadvantage on Intelligence Checks and Intelligence Saving Throws, and the creature behaves as if under the effects of the [*confusion*][link] spell during combat.
 
 ### Seizure
 The creature is overcome with shaking.
@@ -52,9 +52,5 @@ The creature has disadvantage on Constitution Checks and Constitution Saving Thr
 In addition, whenever the creature takes damage, it is **stunned** until the end of its next turn.
 
 ---
-
-**Classes:** cleric, druid
-
-**Subclasses:** oathbreaker paladin, undying warlock, darkness (twitter) cleric, spores druid, spores (ua) druid
 
 **Sources:** PHB, page 227

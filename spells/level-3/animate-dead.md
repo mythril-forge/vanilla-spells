@@ -20,7 +20,7 @@
 This spell creates an undead servant.
 Choose a pile of bones or a corpse of a *medium* or *small* humanoid within range.
 Your spell imbues the target with a foul mimicry of life, raising it as an undead creature.
-The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the DM has the creature's game statistics).
+The target becomes a Skeleton if you chose bones or a Zombie if you chose a corpse (the DM has the creature's game statistics).
 
 On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one).
 You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor.
@@ -36,9 +36,5 @@ When you cast this spell using a spell slot of 4th level or higher, you animate 
 Each of the creatures must come from a different corpse or pile of bones.
 
 ---
-
-**Classes:** cleric, wizard
-
-**Subclasses:** death cleric, oathbreaker paladin, spores (ua) druid, spores druid
 
 **Sources:** PHB, page 212

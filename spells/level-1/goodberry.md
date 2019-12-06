@@ -25,6 +25,4 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** PHB, page 246

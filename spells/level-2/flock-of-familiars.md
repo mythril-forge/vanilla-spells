@@ -15,10 +15,10 @@
 ---
 
 ## Description
-You temporarily summon three familiars&mdash;spirits that take animal forms of your choice.
-Each familiar uses the same rules and options for a familiar conjured by the [*find familiar*](./find-familiar) spell.
+You temporarily summon three familiars—spirits that take animal forms of your choice.
+Each familiar uses the same rules and options for a familiar conjured by the [*find familiar*][link] spell.
 All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice).
-If you already have a familiar conjured by the [*find familiar*](./find-familiar) spell or similar means, then one fewer familiars are conjured by this spell.
+If you already have a familiar conjured by the [*find familiar*][link] spell or similar means, then one fewer familiars are conjured by this spell.
 
 Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.
 
@@ -29,7 +29,5 @@ However, you can cast a touch spell through only one familiar per turn.
 When you cast this spell using a spell slot of 3rd level or higher, you conjure an additional familiar for each slot level above 2nd.
 
 ---
-
-**Classes:** warlock, wizard
 
 **Sources:** LLK, page 57

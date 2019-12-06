@@ -22,8 +22,4 @@ This spell's damage increases by `1d4` when you reach 5th level (`2d4`), 11th le
 
 ---
 
-**Classes:** bard
-
-**Subraces:** tiefling (variant)
-
 **Sources:** PHB, page 285

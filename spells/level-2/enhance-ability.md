@@ -32,7 +32,7 @@ The target has advantage on Dexterity Checks.
 It also doesn't take damage from falling 20 feet or less if it isn't **incapacitated**.
 
 ### Eagle's Splendor
-The target has advantage on Charisma checks.
+The target has advantage on Charisma Checks.
 
 ### Fox's Cunning
 The target has advantage on Intelligence Checks.
@@ -44,9 +44,5 @@ The target has advantage on Wisdom Checks.
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ---
-
-**Classes:** bard, cleric, druid, sorcerer, artificer, artificer (revisited)
-
-**Subclasses:** strength (psa) cleric, primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised), order (ua) cleric
 
 **Sources:** PHB, page 237

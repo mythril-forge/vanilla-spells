@@ -34,6 +34,4 @@ When you cast this spell using a spell slot of 4th level or higher, the temporar
 
 ---
 
-**Classes:** bard, cleric
-
 **Sources:** AI, page 77

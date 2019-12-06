@@ -26,10 +26,4 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, treachery (ua) paladin, giant soul (ua) sorcerer
-
-**Subraces:** dwarf (duergar), dwarf (duergar), tiefling (abyssal), tiefling (dispater), tiefling (glasya), tiefling (glasya)
-
 **Sources:** PHB, page 254

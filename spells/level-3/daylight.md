@@ -29,10 +29,4 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 ---
 
-**Classes:** cleric, druid, paladin, ranger, sorcerer
-
-**Subclasses:** light cleric, land druid, celestial (ua) warlock, undying light (ua) warlock, celestial warlock
-
-**Races:** aasimar
-
 **Sources:** PHB, page 230

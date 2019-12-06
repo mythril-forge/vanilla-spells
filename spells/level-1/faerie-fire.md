@@ -27,10 +27,4 @@ Any Attack Roll against an affected creature or object has advantage if the atta
 
 ---
 
-**Classes:** bard, druid, artificer (revisited)
-
-**Subclasses:** light cleric, archfey warlock, lolth (twitter) warlock
-
-**Subraces:** elf (drow), half-elf (drow descent)
-
 **Sources:** PHB, page 239

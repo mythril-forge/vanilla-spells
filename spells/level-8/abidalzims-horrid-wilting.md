@@ -30,6 +30,4 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 ---
 
-**Classes:** sorcerer, wizard
-
 **Sources:** XGE, page 150

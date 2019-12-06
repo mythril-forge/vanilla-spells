@@ -26,10 +26,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the initial 
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** forge (ua) cleric, stone (ua) sorcerer, zeal (psa) cleric, forge cleric, battle smith artificer (revisited)
-
-**Subraces:** tiefling (zariel), tiefling (zariel)
-
 **Sources:** PHB, page 274

@@ -22,6 +22,4 @@ An airborne creature affected by this spell safely descends at 60 feet per round
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 154

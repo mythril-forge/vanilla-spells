@@ -25,8 +25,4 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 ---
 
-**Classes:** wizard
-
-**Subclasses:** land druid, seeker (ua) warlock, treachery (ua) paladin
-
 **Sources:** PHB, page 264

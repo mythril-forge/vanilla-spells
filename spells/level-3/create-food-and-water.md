@@ -21,8 +21,4 @@ The water is clean and doesn't go bad.
 
 ---
 
-**Classes:** cleric, paladin
-
-**Subclasses:** land druid, alchemist artificer (revisited)
-
 **Sources:** PHB, page 229

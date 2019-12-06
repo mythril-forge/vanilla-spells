@@ -28,6 +28,4 @@ The light and any levels of **exhaustion** caused by this spell go away when the
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** XGE, page 164

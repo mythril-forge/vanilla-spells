@@ -23,8 +23,4 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 ---
 
-**Classes:** cleric, druid, paladin
-
-**Subclasses:** alchemist artificer (revisited)
-
 **Sources:** PHB, page 270

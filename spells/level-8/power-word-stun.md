@@ -24,6 +24,4 @@ On a successful save, this stunning effect ends.
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 267

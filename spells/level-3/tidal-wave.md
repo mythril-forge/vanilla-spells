@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 30 feet
 
 **Width:** 10 feet
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material
 
@@ -33,7 +33,5 @@ On a successful save, a creature takes half as much damage and isn't knocked **p
 The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
 ---
-
-**Classes:** druid, sorcerer, wizard
 
 **Sources:** XGE, page 168

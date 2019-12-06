@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 20 feet
-
 **Length:** 60 feet
 
 **Width:** 1 foot
+
+**Height:** 20 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -40,9 +40,5 @@ The other side of the wall deals no damage.
 When you cast this spell using a spell slot of 5th level or higher, the damage increases by `1d8` for each slot level above 4th.
 
 ---
-
-**Classes:** druid, sorcerer, wizard
-
-**Subclasses:** light cleric, fiend warlock, forge (ua) cleric, celestial (ua) warlock, celestial warlock, forge cleric, artillerist artificer (revisited)
 
 **Sources:** PHB, page 285

@@ -25,11 +25,9 @@ The hound sees **invisible** creatures and can see into the Ethereal Plane.
 It ignores illusions.
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you.
-The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus.
+The hound's attack bonus is equal to your Spellcasting Ability Modifier + your proficiency bonus.
 On a hit, it deals `4d8` piercing damage.
 
 ---
-
-**Classes:** wizard, artificer, artificer (revisited)
 
 **Sources:** PHB, page 261

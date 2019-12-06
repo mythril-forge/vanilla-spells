@@ -20,6 +20,4 @@ If the object is a cursed magic item, its curse remains, but the spell breaks it
 
 ---
 
-**Classes:** cleric, paladin, warlock, wizard
-
 **Sources:** PHB, page 271

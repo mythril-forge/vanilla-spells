@@ -12,11 +12,11 @@
 
 **Shape:** wall
 
-**Height:** 10 feet
-
 **Length:** 100 feet
 
 **Width:** 1 foot
+
+**Height:** 10 feet
 
 **Tags:** verbal, somatic, material, concentration
 
@@ -43,7 +43,5 @@ That creature takes `5d6` cold damage on a failed save, or half as much damage o
 When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by `2d6`, and the damage from passing through the sheet of frigid air increases by `1d6`, for each slot level above 6th.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** PHB, page 285

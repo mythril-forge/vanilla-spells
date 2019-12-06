@@ -31,8 +31,4 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subclasses:** redemption (ua) paladin, redemption paladin, beauty (twitter) cleric, archivist artificer (revisited)
-
 **Sources:** PHB, page 252

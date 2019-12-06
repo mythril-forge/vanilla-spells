@@ -25,6 +25,4 @@ This spell immediately ends if you cast it again before its duration ends.
 
 ---
 
-**Classes:** bard, druid, warlock, wizard
-
 **Sources:** PHB, page 244

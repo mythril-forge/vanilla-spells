@@ -21,8 +21,4 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** cleric, artificer (revisited)
-
-**Subraces:** elf (shadar-kai), tiefling (abyssal)
-
 **Sources:** PHB, page 277

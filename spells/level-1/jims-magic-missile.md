@@ -39,6 +39,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the spell cr
 
 ---
 
-**Classes:** wizard
-
 **Sources:** AI, page 76

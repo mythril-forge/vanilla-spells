@@ -22,6 +22,4 @@ This spell has no effect on undead or constructs.
 
 ---
 
-**Classes:** cleric
-
 **Sources:** PHB, page 258

@@ -27,8 +27,4 @@ Creatures that aren't there can't perceive you or interact with you, unless they
 
 ---
 
-**Classes:** sorcerer, wizard, artificer, artificer (revisited)
-
-**Subclasses:** trickery cleric, archfey warlock, hexblade (ua) warlock, hexblade warlock
-
 **Sources:** PHB, page 219

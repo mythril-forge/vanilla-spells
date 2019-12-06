@@ -38,17 +38,15 @@ Even if the creature can enter the temple, the magic there hinders it; whenever 
 
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 
-Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
+Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom Modifier (minimum 1 hit point).
 
 The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior.
 Nothing can physically pass through the temple's exterior.
 It can't be dispelled by dispel magic, and antimagic field has no effect on it.
-A [*disintegrate*](./disintegrate) spell destroys the temple instantly.
+A [*disintegrate*][link] spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
 ---
-
-**Classes:** cleric
 
 **Sources:** XGE, page 167

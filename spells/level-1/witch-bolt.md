@@ -28,6 +28,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the initial 
 
 ---
 
-**Classes:** sorcerer, warlock, wizard
-
 **Sources:** PHB, page 289

@@ -47,8 +47,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** cleric, paladin
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, crown paladin, fiend warlock, conquest (ua) paladin, conquest v2 (ua) paladin, conquest paladin, order (ua) cleric, order cleric
-
 **Sources:** PHB, page 223

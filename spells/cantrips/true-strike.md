@@ -21,8 +21,4 @@ On your next turn, you gain advantage on your first Attack Roll against the targ
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 284

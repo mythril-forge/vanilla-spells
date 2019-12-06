@@ -17,12 +17,8 @@
 ## Description
 This spell bestows hope and vitality.
 Choose any number of creatures within range.
-For the duration, each target has advantage on Wisdom Saving Throws and death Saving Throws, and regains the maximum number of hit points possible from any healing.
+For the duration, each target has advantage on Wisdom Saving Throws and Death Saving Throws, and regains the maximum number of hit points possible from any healing.
 
 ---
-
-**Classes:** cleric
-
-**Subclasses:** life cleric, devotion paladin, solidarity (psa) cleric, beauty (twitter) cleric
 
 **Sources:** PHB, page 217

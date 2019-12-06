@@ -21,7 +21,7 @@ For the duration, you can read the thoughts of certain creatures.
 When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you.
 If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
-You initially learn the surface thoughts of the creature&mdash;what is most on its mind in that moment.
+You initially learn the surface thoughts of the creature—what is most on its mind in that moment.
 As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind.
 If you probe deeper, the target must make a Wisdom Saving Throw.
 If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates).
@@ -38,11 +38,5 @@ You can't detect a creature with an Intelligence of 3 or lower or one that doesn
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
 ---
-
-**Classes:** bard, sorcerer, wizard
-
-**Subclasses:** great old one warlock, archivist artificer (revisited), aberrant mind (ua) sorcerer
-
-**Subraces:** gith (githzerai), gith (githzerai), tiefling (dispater)
 
 **Sources:** PHB, page 231

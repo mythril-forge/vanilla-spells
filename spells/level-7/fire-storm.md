@@ -30,6 +30,4 @@ If you choose, plant life in the area is unaffected by this spell.
 
 ---
 
-**Classes:** cleric, druid, sorcerer
-
 **Sources:** PHB, page 242

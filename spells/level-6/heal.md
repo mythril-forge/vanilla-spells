@@ -25,6 +25,4 @@ When you cast this spell using a spell slot of 7th level or higher, the amount o
 
 ---
 
-**Classes:** cleric, druid
-
 **Sources:** PHB, page 250

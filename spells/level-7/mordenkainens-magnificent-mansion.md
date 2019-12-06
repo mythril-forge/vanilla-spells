@@ -22,7 +22,7 @@ You choose where its one entrance is located.
 The entrance shimmers faintly and is 5 feet wide and 10 feet tall.
 You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open.
 You can open or close the portal if you are within 30 feet of it.
-While closed, the portal is invisible.
+While closed, the portal is **invisible**.
 
 Beyond the portal is a magnificent foyer with numerous chambers beyond.
 The atmosphere is clean, fresh, and warm.
@@ -33,14 +33,12 @@ It contains sufficient food to serve a nine course banquet for up to 100 people.
 A staff of 100 near-transparent servants attends all who enter.
 You decide the visual appearance of these servants and their attire.
 They are completely obedient to your orders.
-Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature.
+Each servant can perform any task a normal Human servant could perform, but they can't attack or take any action that would directly harm another creature.
 Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on.
 The servants can go anywhere in the mansion but can't leave it.
 Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion.
 When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
 ---
-
-**Classes:** bard, wizard
 
 **Sources:** PHB, page 261

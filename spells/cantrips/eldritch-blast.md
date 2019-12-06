@@ -25,6 +25,4 @@ Make a separate Attack Roll for each beam.
 
 ---
 
-**Classes:** warlock
-
 **Sources:** PHB, page 237

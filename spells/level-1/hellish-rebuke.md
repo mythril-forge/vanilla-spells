@@ -24,10 +24,4 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ---
 
-**Classes:** warlock
-
-**Subclasses:** oathbreaker paladin
-
-**Subraces:** tiefling, tiefling (variant), tiefling (asmodeus), tiefling (asmodeus)
-
 **Sources:** PHB, page 250

@@ -34,6 +34,4 @@ This spell can cause the plants created by the entangle spell to release a **res
 
 ---
 
-**Classes:** bard, druid, ranger
-
 **Sources:** PHB, page 277

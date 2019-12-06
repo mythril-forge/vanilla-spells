@@ -29,8 +29,4 @@ Only a true Child of Stone, lover and beloved of Moradin, may awaken the true po
 
 ---
 
-**Classes:** bard, cleric, wizard
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, undying warlock, seeker (ua) warlock, archivist artificer (revisited)
-
 **Sources:** PHB, page 254

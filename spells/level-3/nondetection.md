@@ -23,8 +23,4 @@ The target can't be targeted by any divination magic or perceived through magica
 
 ---
 
-**Classes:** bard, ranger, wizard
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric
-
 **Sources:** PHB, page 263

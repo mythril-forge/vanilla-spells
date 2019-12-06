@@ -29,6 +29,4 @@ When you cast this spell using a spell slot of 4th level or higher, the damage f
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 255

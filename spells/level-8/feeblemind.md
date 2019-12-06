@@ -27,10 +27,8 @@ The creature can, however, identify its friends, follow them, and even protect t
 At the end of every 30 days, the creature can repeat its Saving Throw against this spell.
 If it succeeds on its Saving Throw, the spell ends.
 
-The spell can also be ended by [*greater restoration*](./greater-restoration), [*heal*](./heal), or [*wish*](./wish).
+The spell can also be ended by [*greater restoration*][link], [*heal*][link], or [*wish*][link].
 
 ---
-
-**Classes:** bard, druid, warlock, wizard
 
 **Sources:** PHB, page 239

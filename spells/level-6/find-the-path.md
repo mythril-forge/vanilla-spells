@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material, concentration
 
-**Material Components:** a set of divinatory tools&mdash;such as bones, ivory sticks, cards, teeth, or carved runes&mdash;worth 100 gp and an object from the location you wish to find
+**Material Components:** a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find
 
 ---
 
@@ -24,7 +24,5 @@ For the duration, as long as you are on the same plane of existence as the desti
 While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 
 ---
-
-**Classes:** bard, cleric, druid
 
 **Sources:** PHB, page 240

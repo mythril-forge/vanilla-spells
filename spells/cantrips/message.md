@@ -26,8 +26,4 @@ The spell doesn't have to follow a straight line and can travel freely around co
 
 ---
 
-**Classes:** bard, sorcerer, wizard, artificer (revisited)
-
-**Subraces:** tiefling (abyssal)
-
 **Sources:** PHB, page 259

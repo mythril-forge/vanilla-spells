@@ -28,8 +28,4 @@ When you cast this spell using a spell slot of 3rd level or higher, a target's h
 
 ---
 
-**Classes:** cleric, paladin, artificer, artificer (revisited)
-
-**Subclasses:** protection (ua) cleric, solidarity (psa) cleric
-
 **Sources:** PHB, page 211

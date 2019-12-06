@@ -33,6 +33,4 @@ The target can't activate, wield, or otherwise benefit from any of its equipment
 
 ---
 
-**Classes:** druid
-
 **Sources:** PHB, page 212

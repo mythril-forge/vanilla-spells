@@ -19,7 +19,8 @@
 ## Description
 With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service.
 The creature must be within range for the entire casting of the spell.
-(Typically, the creature is first summoned into the center of an inverted magic circle in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma Saving Throw.
+(Typically, the creature is first summoned into the center of an inverted magic circle in order to keep it trapped while this spell is cast.)
+At the completion of the casting, the target must make a Charisma Saving Throw.
 On a failed save, it is bound to serve you for the duration.
 If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
 
@@ -33,9 +34,5 @@ If you are on a different plane of existence, it returns to the place where you 
 When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
 ---
-
-**Classes:** bard, cleric, druid, wizard
-
-**Subclasses:** arcana cleric, monster slayer (ua) ranger, monster slayer ranger, monster slayer (ua) ranger (revised), monster slayer ranger (revised)
 
 **Sources:** PHB, page 265

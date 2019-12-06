@@ -34,6 +34,4 @@ This spell dispels any darkness in its area that was created by a spell.
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** PHB, page 279

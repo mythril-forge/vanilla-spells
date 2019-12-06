@@ -34,6 +34,4 @@ If they aren't on their home plane, undead are sent to the Shadowfell, and fey a
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** PHB, page 233

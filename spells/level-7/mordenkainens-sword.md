@@ -26,6 +26,4 @@ Until the spell ends, you can use a bonus action on each of your turns to move t
 
 ---
 
-**Classes:** bard, wizard
-
 **Sources:** PHB, page 262

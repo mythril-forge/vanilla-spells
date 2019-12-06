@@ -25,8 +25,4 @@ Finally, being underwater imposes no penalties on the target's movement or attac
 
 ---
 
-**Classes:** bard, cleric, druid, ranger, artificer, artificer (revisited)
-
-**Subclasses:** war cleric, land druid, land druid, land druid, land druid, land druid, devotion paladin, zeal (psa) cleric
-
 **Sources:** PHB, page 244

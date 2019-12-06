@@ -24,8 +24,4 @@ The object you create can have up to two hinges and a latch, but finer mechanica
 
 ---
 
-**Classes:** cleric, druid, wizard, artificer, artificer (revisited)
-
-**Subclasses:** land druid, land druid
-
 **Sources:** PHB, page 278

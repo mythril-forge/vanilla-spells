@@ -24,8 +24,4 @@ The guardian vanishes when it has dealt a total of 60 damage.
 
 ---
 
-**Classes:** cleric
-
-**Subclasses:** life cleric, light cleric, crown paladin, devotion paladin, protection (ua) cleric, solidarity (psa) cleric, celestial (ua) warlock, celestial warlock
-
 **Sources:** PHB, page 246

@@ -34,6 +34,4 @@ Until you finish a long rest, you can't cast spells again, and you have disadvan
 
 ---
 
-**Classes:** bard, cleric
-
 **Sources:** PHB, page 272

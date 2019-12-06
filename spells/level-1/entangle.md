@@ -30,8 +30,4 @@ When the spell ends, the conjured plants wilt away.
 
 ---
 
-**Classes:** druid
-
-**Subclasses:** primeval guardian (ua) ranger, primeval guardian (ua) ranger (revised), giant soul (ua) sorcerer
-
 **Sources:** PHB, page 238

@@ -12,7 +12,7 @@
 
 **Tags:** verbal, somatic, material
 
-**Material Components:** a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a *medium* creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water
+**Material Components:** a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water
 
 ---
 
@@ -26,7 +26,5 @@ The clone is physically identical to the original and has the same personality, 
 The original creature's physical remains, if they still exist, become inert and can't thereafter be restored to life, since the creature's soul is elsewhere.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** PHB, page 222

@@ -28,6 +28,4 @@ At the end of each of its turns, a **blinded** creature can make a Constitution 
 
 ---
 
-**Classes:** cleric, paladin
-
 **Sources:** XGE, page 157

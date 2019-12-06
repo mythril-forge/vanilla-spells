@@ -27,12 +27,4 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 ---
 
-**Classes:** bard, cleric, sorcerer, wizard, artificer (revisited)
-
-**Subclasses:** undying light (ua) warlock, celestial warlock
-
-**Races:** aasimar
-
-**Subraces:** aasimar (fallen), aasimar (protector), aasimar (scourge), tiefling (abyssal)
-
 **Sources:** PHB, page 255

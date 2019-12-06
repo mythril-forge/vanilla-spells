@@ -25,10 +25,9 @@ Time ceases to flow for it, and it doesn't grow older.
 
 You can set a condition for the spell to end early.
 The condition can be anything you choose, but it must occur or be visible within 1 mile of the target.
-Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
+Examples include "after 1,000 years" or "when the tarrasque awakens."
+This spell also ends if the target takes any damage.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** PHB, page 274

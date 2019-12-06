@@ -29,8 +29,4 @@ When you cast this spell using a spell slot of 5th level or higher, you are able
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** ghost in the machine (ua) warlock
-
 **Sources:** UA-MM, page 8

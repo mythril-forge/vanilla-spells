@@ -26,6 +26,4 @@ If the quiver leaves your possession, the spell ends.
 
 ---
 
-**Classes:** ranger
-
 **Sources:** PHB, page 279

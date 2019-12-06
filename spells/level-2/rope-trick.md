@@ -19,7 +19,7 @@
 ## Description
 You touch a length of rope that is up to 60 feet long.
 One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground.
-At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
+At the upper end of the rope, an **invisible** entrance opens to an extradimensional space that lasts until the spell ends.
 
 The extradimensional space can be reached by climbing to the top of the rope.
 The space can hold as many as eight *medium* or smaller creatures.
@@ -30,9 +30,5 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 Anything inside the extradimensional space drops out when the spell ends.
 
 ---
-
-**Classes:** wizard, artificer, artificer (revisited)
-
-**Subclasses:** deep stalker (ua) ranger, gloom stalker ranger, deep stalker conclave ranger (revised), gloom stalker ranger (revised)
 
 **Sources:** PHB, page 272

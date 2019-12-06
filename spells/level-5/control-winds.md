@@ -43,6 +43,4 @@ When a creature in the cube makes a vertical jump, the creature can jump up to 1
 
 ---
 
-**Classes:** druid, sorcerer, wizard
-
 **Sources:** XGE, page 152

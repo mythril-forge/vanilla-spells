@@ -26,6 +26,4 @@ Until the spell ends, wind whirls around you, and you gain the following benefit
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard
-
 **Sources:** XGE, page 160

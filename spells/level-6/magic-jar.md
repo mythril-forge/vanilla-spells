@@ -48,6 +48,4 @@ When the spell ends, the container is destroyed.
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 257

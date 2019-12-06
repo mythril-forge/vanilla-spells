@@ -31,7 +31,7 @@ At the start of each of your turns, each of your enemies within 10 feet of any t
 
 ### Roots and Vines
 At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength Saving Throw or become **restrained** until the spell ends.
-A **restrained** creature can use an action to make a Strength (Athletics) Check against your Spell Save DC, ending the effect on itself on a success.
+A **restrained** creature can use an action to make a Strength (Athletics) check against your Spell Save DC, ending the effect on itself on a success.
 
 ### Rocks
 As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube.
@@ -39,7 +39,5 @@ Make a Ranged Spell Attack against the target.
 On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength Saving Throw or fall **prone**.
 
 ---
-
-**Classes:** druid, ranger
 
 **Sources:** XGE, page 171

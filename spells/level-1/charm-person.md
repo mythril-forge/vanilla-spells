@@ -27,10 +27,4 @@ The creatures must be within 30 feet of each other when you target them.
 
 ---
 
-**Classes:** bard, druid, sorcerer, warlock, wizard
-
-**Subclasses:** trickery cleric, treachery (ua) paladin, beauty (twitter) cleric
-
-**Subraces:** tiefling (variant), tiefling (abyssal), tiefling (fierna), tiefling (fierna)
-
 **Sources:** PHB, page 221

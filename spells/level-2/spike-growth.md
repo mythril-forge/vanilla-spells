@@ -26,12 +26,8 @@ The area becomes difficult terrain for the duration.
 When a creature moves into or within the area, it takes `2d4` piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural.
-Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) Check against your Spell Save DC to recognize the terrain as hazardous before entering it.
+Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your Spell Save DC to recognize the terrain as hazardous before entering it.
 
 ---
-
-**Classes:** druid, ranger
-
-**Subclasses:** nature cleric, land druid, land druid, giant soul (ua) sorcerer
 
 **Sources:** PHB, page 277

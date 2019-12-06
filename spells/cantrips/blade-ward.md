@@ -20,6 +20,4 @@ Until the end of your next turn, you have resistance against bludgeoning, pierci
 
 ---
 
-**Classes:** bard, sorcerer, warlock, wizard
-
 **Sources:** PHB, page 218

@@ -18,7 +18,7 @@
 
 ## Description
 Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you.
-You cast that spell&mdash;called the contingent spell&mdash;as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect.
+You cast that spell—called the contingent spell—as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect.
 Instead, it takes effect when a certain circumstance occurs.
 You describe that circumstance when you cast the two spells.
 For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid.
@@ -31,7 +31,5 @@ If you cast this spell again, the effect of another contingency spell on you end
 Also, contingency ends on you if its material component is ever not on your person.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** PHB, page 227

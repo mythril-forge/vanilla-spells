@@ -27,8 +27,4 @@ When you cast this spell using a spell slot of 2nd level or higher, you can targ
 
 ---
 
-**Classes:** bard, cleric
-
-**Subclasses:** vengeance paladin, grave (ua) cleric, ambition (psa) cleric, grave cleric, divine soul sorcerer
-
 **Sources:** PHB, page 216

@@ -17,7 +17,7 @@
 ---
 
 ## Description
-You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose.
+You grant the semblance of life and Intelligence to a corpse of your choice within range, allowing it to answer the questions you pose.
 The corpse must still have a mouth and can't be undead.
 The spell fails if the corpse was the target of this spell within the last 10 days.
 
@@ -28,9 +28,5 @@ This spell doesn't return the creature's soul to its body, only its animating sp
 Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
 ---
-
-**Classes:** bard, cleric
-
-**Subclasses:** knowledge cleric, knowledge (psa) cleric, undying warlock, raven queen (ua) warlock
 
 **Sources:** PHB, page 277

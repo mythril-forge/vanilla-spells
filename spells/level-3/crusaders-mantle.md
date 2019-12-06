@@ -25,8 +25,4 @@ While in the aura, each nonhostile creature in the aura (including you) deals an
 
 ---
 
-**Classes:** paladin
-
-**Subclasses:** war cleric, solidarity (psa) cleric
-
 **Sources:** PHB, page 230
